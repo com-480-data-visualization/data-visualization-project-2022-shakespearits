@@ -12,32 +12,54 @@
 
 **10% of the final grade**
 
-[Milestone 1](notebooks/pre-processing.ipynb)
-
 ### Dataset
 
-> Find a dataset (or multiple) that you will explore. Assess the quality of the data it contains and how much preprocessing / data-cleaning it will require before tackling visualization. We recommend using a standard dataset as this course is not about scraping nor data processing.
->
-> Hint: some good pointers for finding quality publicly available datasets ([Google dataset search](https://datasetsearch.research.google.com/), [Kaggle](https://www.kaggle.com/datasets), [OpenSwissData](https://opendata.swiss/en/), [SNAP](https://snap.stanford.edu/data/) and [FiveThirtyEight](https://data.fivethirtyeight.com/)), you could use also the DataSets proposed by the ENAC (see the Announcements section on Zulip).
+We will be using multiple datasets to support our creative ideas for the project. Our main dataset comes from Kaggle, whereas the other two datasets will be manually curated from web content. The datasets are as follow:
+[Shakespeare plays | Kaggle dataset](https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays): it is comprised of all Shakespeare’s plays and contains the following relevant attributes:
+The play that the lines are from
+The actual line being spoken
+The Act-Scene-Line feature which indicates the act and scene in which the line is spoken
+The player who is uttering the line
+The number of the line in the scene: this gives us an insight on what moment of the scene the line was spoken
+The following dataset will be created manually and will serve as metadata as it will gather information about the players found in the main dataset. It will contain the following features: the name of the play, the name and role of the player, its gender as well as a small description about him/her. You may find a first draft of this dataset in the following [Google Sheet]( https://docs.google.com/spreadsheets/d/1mXiWwkJdKY17SZ2V29jC9RvpQgsCbn0mdo9YVyaGr38/edit?usp=sharing) 
+The last dataset will contain pairs of characters and their relationship (e.g. family, friends, lovers, …). It will serve as a support for the creation of undirected relationship graphs. Its attributes are the play name, the names of two players and their relationship.
+The quality of our main Kaggle dataset is relatively good but could use the following steps for pre-processing:
+Remove lines that are not uttered by any player (i.e. description of the scene by the narrator)
+Add the number of words per line, since one line corresponds neither to a full phrase nor to a specific number of characters
+Add the topics evoked in each line by using NLP techniques
+Expand the Act-Scene-Line column into three distinct columns
+Select rows that correspond to plays we are interested in
+
 
 ### Problematic
 
-> Frame the general topic of your visualization and the main axis that you want to develop.
-> - What am I trying to show with my visualization?
-> - Think of an overview for the project, your motivation, and the target audience.
+William Shakespeare is arguably one of the greatest playwrights of all time. His tragedies are particularly famous, although he covers widespread themes across his works. In this visualization project, we hope to illuminate many features of Shakespeare’s top plays. With the help of natural language processing techniques like topic detection and sentiment analysis, we can unearth which themes he covers, and how often each theme appears in each work. Since the characters in the play are elemental in each work, we also extend this analysis of themes to the character level, where we display who is comical, tragic, romantic, loyal, etc. Additionally, we hope to find a correlation between themes and the success of each play.
+With this knowledge, we aim to create data-informed activities that allow for interaction with the website we create. Since we believe our audience will be interested in literature and theater, we will accordingly create a quiz that suggests which Shakespeare play they should read next. Since we assume our audience to be knowledgeable on many of the works, we will also form quizzes testing their knowledge with questions asking them to identify the play and/or speaker of a quote. We also may add a fun personality kind of quiz that gives the user which character they are most like.
+We plan to visualize the interconnectedness of character relationships in each play with interactive networks that allow users to zoom in and get descriptions of each character. We will create filters for such networks that change the information provided. For example, one filter could be loyalty, where we give each player a score for how loyal they are and then the color of their node on the network would represent their score. That way, the loyalty of a character can be visualized in comparison to other characters and with what other players they form a relationship with. 
+Altogether, our goal is to create a fun, interactive website for lovers of all things Shakespeare.
 
 ### Exploratory Data Analysis
 
-> Pre-processing of the data set you chose
-> - Show some basic statistics and get insights about the data
+In the EDA [notebook](notebooks/pre-processing.ipynb) you will find the pre-processing of our main dataset as well as some initial exploratory data analysis. We extract some basic statistics about the all dataset and then we focus on the eight plays we chose. The notebook contains sentiment scores, descriptive statistics and topic detection.
+
 
 ### Related work
 
+- What others have already done with the data?
+The data from Kaggle was mostly used for [text generation](https://www.kaggle.com/datasets/kingburrito666/shakespeare-pays/code) but nobody used it for visualization purposes. Thus, we thought it could be original to take this data and create a good, funny, interactive and attractive website for Shakespeare's lovers and curious people who want to learn more about some Shakespeare’s plays. 
 
-> - What others have already done with the data?
-> - Why is your approach original?
-> - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
-> - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
+- Why is our approach original?
+Most of the websites focus either on the texts themselves or on their representation/ adaptation. Existing websites are mostly for educational purposes, and none shows statistics representation, links between characters, quizzes or sentiments evolution through the play.
+
+- What source of inspiration do we take?
+As a source of inspiration we take the following websites:
+  - a [website](https://myshakespeare.com/whats-next) for teachers and students to study Shakespeare’s play and their representation.
+  - a [flowchart](https://goodticklebrain.com/home/2016/4/18/which-shakespeare-play-should-i-see-an-illustrated-flowchart) as source of inspiration for the quiz that suggests which play to read we were inspired.
+  - https://www.folger.edu/shakespeare-unlimited : a website containing podcasts about Shakespeare and his works.
+  - a [website](https://www.sparknotes.com/nofear/shakespeare/romeojuliet/) containing all Shakespeare’s plays translated into modern english. The paid version allows access to quizzes, flashcards and infographics. 
+  - a [website](https://nosweatshakespeare.com/characters/hamlet/) containing all Shakespeare’s plays translated into modern English, quotes, characters list per play and much more information about Shakespeare and his work.
+- This is the first time we use this data for a project 
+
 
 ## Milestone 2 (7th May, 5pm)
 

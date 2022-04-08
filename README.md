@@ -8,7 +8,7 @@
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
-## Milestone 1 (8th April, 5pm)
+## :pencil2: Milestone 1 (8th April, 5pm)
 
 **10% of the final grade**
 
@@ -61,12 +61,12 @@ As a source of inspiration we take the following websites:
 - This is the first time we use this data for a project 
 
 
-## Milestone 2 (7th May, 5pm)
+## :pencil2: Milestone 2 (7th May, 5pm)
 
 **10% of the final grade**
 
 
-## Milestone 3 (4th June, 5pm)
+## :pencil2: Milestone 3 (4th June, 5pm)
 
 **80% of the final grade**
 

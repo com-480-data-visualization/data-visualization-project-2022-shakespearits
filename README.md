@@ -68,8 +68,8 @@ As a source of inspiration we take the following websites:
   - a [website](https://myshakespeare.com/whats-next) for teachers and students to study Shakespeare’s play and their representation.
   - a [flowchart](https://goodticklebrain.com/home/2016/4/18/which-shakespeare-play-should-i-see-an-illustrated-flowchart) as source of inspiration for the quiz that suggests which play to read we were inspired.
   - https://www.folger.edu/shakespeare-unlimited : a website containing podcasts about Shakespeare and his works.
-  - a [website](https://www.sparknotes.com/nofear/shakespeare/romeojuliet/) containing all Shakespeare’s plays translated into modern english. The paid version allows access to quizzes, flashcards and infographics. 
-  - a [website](https://nosweatshakespeare.com/characters/hamlet/) containing all Shakespeare’s plays translated into modern English, quotes, characters list per play and much more information about Shakespeare and his work.
+  - a [website](https://www.sparknotes.com/shakespeare/) containing all Shakespeare’s plays translated into modern english. The paid version allows access to quizzes, flashcards and infographics. 
+  - a [website](https://nosweatshakespeare.com/) containing all Shakespeare’s plays translated into modern English, quotes, characters list per play and much more information about Shakespeare and his work.
 - This is the first time we use this data for a project 
 
 

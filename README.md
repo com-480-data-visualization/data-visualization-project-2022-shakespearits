@@ -8,8 +8,7 @@
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
-## :pencil2: 
-## Milestone 1 (8th April, 5pm)
+## :pencil2: Milestone 1 (8th April, 5pm)
 
 **10% of the final grade**
 

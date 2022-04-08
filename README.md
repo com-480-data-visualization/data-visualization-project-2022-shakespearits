@@ -73,12 +73,12 @@ As a source of inspiration we take the following websites:
 - This is the first time we use this data for a project 
 
 
-## :performing_arts: Milestone 2 (7th May, 5pm)
+## :performing_arts: Milestone 2 (6th May, 5pm)
 
 **10% of the final grade**
 
 
-## :clap: Milestone 3 (4th June, 5pm)
+## :clap: Milestone 3 (3rd June, 5pm)
 
 **80% of the final grade**
 

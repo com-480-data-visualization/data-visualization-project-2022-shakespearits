@@ -73,7 +73,7 @@ As a source of inspiration we take the following websites:
 - This is the first time we use this data for a project 
 
 
-## :ticket: Milestone 2 (7th May, 5pm)
+## :performing_arts: Milestone 2 (7th May, 5pm)
 
 **10% of the final grade**
 

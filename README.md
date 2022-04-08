@@ -14,7 +14,7 @@
 
 ### Dataset
 
-  We will be using multiple datasets to support our creative ideas for the project. Our main dataset comes from Kaggle, whereas the other two datasets will be manually curated from web content. The datasets are as follow:
+  We will be using multiple [datasets](data) to support our creative ideas for the project. Our main dataset comes from Kaggle, whereas the other two datasets will be manually curated from web content. The datasets are as follow:
 - [Shakespeare plays | Kaggle dataset](https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays): it is comprised of all Shakespeare’s plays and contains the following relevant attributes:
   - The play that the lines are from
   - The actual line being spoken

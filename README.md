@@ -6,7 +6,7 @@
 | Papadopulos | 343179 |
 | Rescala | 337736 |
 
-[Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
+[Milestone 1](README.md#milestone-1) • [Milestone 2](README.md#milestone-2) • [Milestone 3](README.md#milestone-3)
 
 ## :pencil2: Milestone 1 (8th April, 5pm)
 

@@ -1,1258 +1,1258 @@
 {
     "nodes": [
         {
-            "name": "Julius Caesar",
-            "group": "Julius Caesar",
+            "play_name": "Julius Caesar",
+            "id": "Julius Caesar",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Calphurnia",
-            "group": "Julius Caesar",
+            "play_name": "Julius Caesar",
+            "id": "Calphurnia",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Marcus Brutus",
-            "group": "Julius Caesar",
+            "play_name": "Julius Caesar",
+            "id": "Marcus Brutus",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Portia",
-            "group": "Julius Caesar",
+            "play_name": "Julius Caesar",
+            "id": "Portia",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Cassius",
-            "group": "Julius Caesar",
+            "play_name": "Julius Caesar",
+            "id": "Cassius",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Pindarus",
-            "group": "Julius Caesar",
+            "play_name": "Julius Caesar",
+            "id": "Pindarus",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Octavius",
-            "group": "Julius Caesar",
+            "play_name": "Julius Caesar",
+            "id": "Octavius",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "The Prince of Morocco",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "The Prince of Morocco",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "The Prince of Arragon",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "The Prince of Arragon",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Antonio",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Antonio",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Bassanio",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Bassanio",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Solanio",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Solanio",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Salarino",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Salarino",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Gratiano",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Gratiano",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Lorenzo",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Lorenzo",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Shylock",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Shylock",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Tubal",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Tubal",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Lancelet Gobbo",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Lancelet Gobbo",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Old Gobbo",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Old Gobbo",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Leonardo",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Leonardo",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Balthasar",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Balthasar",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Stephano",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Stephano",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Portia",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Portia",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Nerissa",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Nerissa",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Jessica",
-            "group": "The Merchant of Venice",
+            "play_name": "The Merchant of Venice",
+            "id": "Jessica",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Theseus",
-            "group": "A Midsummer Night's Dream",
+            "play_name": "A Midsummer Night's Dream",
+            "id": "Theseus",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Egeus",
-            "group": "A Midsummer Night's Dream",
+            "play_name": "A Midsummer Night's Dream",
+            "id": "Egeus",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Lysander",
-            "group": "A Midsummer Night's Dream",
+            "play_name": "A Midsummer Night's Dream",
+            "id": "Lysander",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Philostrate",
-            "group": "A Midsummer Night's Dream",
+            "play_name": "A Midsummer Night's Dream",
+            "id": "Philostrate",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Hippolyta",
-            "group": "A Midsummer Night's Dream",
+            "play_name": "A Midsummer Night's Dream",
+            "id": "Hippolyta",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Hermia",
-            "group": "A Midsummer Night's Dream",
+            "play_name": "A Midsummer Night's Dream",
+            "id": "Hermia",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Helena",
-            "group": "A Midsummer Night's Dream",
+            "play_name": "A Midsummer Night's Dream",
+            "id": "Helena",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Hamlet",
-            "group": "Hamlet",
+            "play_name": "Hamlet",
+            "id": "Hamlet",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Claudius",
-            "group": "Hamlet",
+            "play_name": "Hamlet",
+            "id": "Claudius",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Gertrude",
-            "group": "Hamlet",
+            "play_name": "Hamlet",
+            "id": "Gertrude",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Polonius",
-            "group": "Hamlet",
+            "play_name": "Hamlet",
+            "id": "Polonius",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Laertes",
-            "group": "Hamlet",
+            "play_name": "Hamlet",
+            "id": "Laertes",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Ophelia",
-            "group": "Hamlet",
+            "play_name": "Hamlet",
+            "id": "Ophelia",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Horatio",
-            "group": "Hamlet",
+            "play_name": "Hamlet",
+            "id": "Horatio",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Reynaldo",
-            "group": "Hamlet",
+            "play_name": "Hamlet",
+            "id": "Reynaldo",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Macbeth",
-            "group": "Macbeth",
+            "play_name": "Macbeth",
+            "id": "Macbeth",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Lady Macbeth",
-            "group": "Macbeth",
+            "play_name": "Macbeth",
+            "id": "Lady Macbeth",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Banquo",
-            "group": "Macbeth",
+            "play_name": "Macbeth",
+            "id": "Banquo",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "king Duncan",
-            "group": "Macbeth",
+            "play_name": "Macbeth",
+            "id": "king Duncan",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Malcom",
-            "group": "Macbeth",
+            "play_name": "Macbeth",
+            "id": "Malcom",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Donalbain",
-            "group": "Macbeth",
+            "play_name": "Macbeth",
+            "id": "Donalbain",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Fleance",
-            "group": "Macbeth",
+            "play_name": "Macbeth",
+            "id": "Fleance",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Macduff",
-            "group": "Macbeth",
+            "play_name": "Macbeth",
+            "id": "Macduff",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Lady Macduff",
-            "group": "Macbeth",
+            "play_name": "Macbeth",
+            "id": "Lady Macduff",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Three witches",
-            "group": "Macbeth",
+            "play_name": "Macbeth",
+            "id": "Three witches",
             "fill": "rgb(205, 133, 63)"
         },
         {
-            "name": "Hecate",
-            "group": "Macbeth",
+            "play_name": "Macbeth",
+            "id": "Hecate",
             "fill": "rgb(205, 133, 63)"
         },
         {
-            "name": "Siward",
-            "group": "Macbeth",
+            "play_name": "Macbeth",
+            "id": "Siward",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Young Siward",
-            "group": "Macbeth",
+            "play_name": "Macbeth",
+            "id": "Young Siward",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Boy",
-            "group": "Macbeth",
+            "play_name": "Macbeth",
+            "id": "Boy",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Romeo",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Romeo",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Juliet",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Juliet",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Escalus",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Escalus",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Paris",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Paris",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Lady Capulet",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Lady Capulet",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Lord Capulet",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Lord Capulet",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Lord Montague",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Lord Montague",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Lady Montague",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Lady Montague",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Mercutio",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Mercutio",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Benvolio",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Benvolio",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Tybalt",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Tybalt",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Friar Laurence",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Friar Laurence",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Balthasar",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Balthasar",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Sampson",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Sampson",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Gregory",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Gregory",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Peter",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Peter",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "Abram",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Abram",
             "fill": "rgb(100, 149, 237)"
         },
         {
-            "name": "the Nurse ",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "the Nurse ",
             "fill": "rgb(255, 182, 193)"
         },
         {
-            "name": "Rosaline",
-            "group": "Romeo and Juliet",
+            "play_name": "Romeo and Juliet",
+            "id": "Rosaline",
             "fill": "rgb(255, 182, 193)"
         }
     ],
-    "links": [
+    "edges": [
         {
             "play_name": "Julius Caesar",
-            "source": "Julius Caesar",
-            "target": "Marcus Brutus",
+            "from": "Julius Caesar",
+            "to": "Marcus Brutus",
             "label": "enemy"
         },
         {
             "play_name": "Julius Caesar",
-            "source": "Julius Caesar",
-            "target": "Calphurnia",
+            "from": "Julius Caesar",
+            "to": "Calphurnia",
             "label": "husband"
         },
         {
             "play_name": "Julius Caesar",
-            "source": "Calphurnia",
-            "target": "Julius Caesar",
+            "from": "Calphurnia",
+            "to": "Julius Caesar",
             "label": "wife"
         },
         {
             "play_name": "Julius Caesar",
-            "source": "Julius Caesar",
-            "target": "Octavius",
+            "from": "Julius Caesar",
+            "to": "Octavius",
             "label": "uncle"
         },
         {
             "play_name": "Julius Caesar",
-            "source": "Octavius",
-            "target": "Julius Caesar",
+            "from": "Octavius",
+            "to": "Julius Caesar",
             "label": "nephew and heir"
         },
         {
             "play_name": "Julius Caesar",
-            "source": "Marcus Brutus",
-            "target": "Julius Caesar",
+            "from": "Marcus Brutus",
+            "to": "Julius Caesar",
             "label": "enemy"
         },
         {
             "play_name": "Julius Caesar",
-            "source": "Marcus Brutus",
-            "target": "Lucius",
+            "from": "Marcus Brutus",
+            "to": "Lucius",
             "label": "servant"
         },
         {
             "play_name": "Julius Caesar",
-            "source": "Portia",
-            "target": "Lucius",
+            "from": "Portia",
+            "to": "Lucius",
             "label": "servant"
         },
         {
             "play_name": "Julius Caesar",
-            "source": "Marcus Brutus",
-            "target": "Portia",
+            "from": "Marcus Brutus",
+            "to": "Portia",
             "label": "husband"
         },
         {
             "play_name": "Julius Caesar",
-            "source": "Portia",
-            "target": "Marcus Brutus",
+            "from": "Portia",
+            "to": "Marcus Brutus",
             "label": "wife"
         },
         {
             "play_name": "Julius Caesar",
-            "source": "Brutus",
-            "target": "Cassius",
+            "from": "Brutus",
+            "to": "Cassius",
             "label": "brother-in-law"
         },
         {
             "play_name": "Julius Caesar",
-            "source": "Cassius",
-            "target": "Marcus Brutus",
+            "from": "Cassius",
+            "to": "Marcus Brutus",
             "label": "brother-in-law"
         },
         {
             "play_name": "Julius Caesar",
-            "source": "Pindarus",
-            "target": "Cassius",
+            "from": "Pindarus",
+            "to": "Cassius",
             "label": "servant"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "The Prince of Morocco",
-            "target": "Portia",
+            "from": "The Prince of Morocco",
+            "to": "Portia",
             "label": "lover"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "The Prince of Arragon",
-            "target": "Portia",
+            "from": "The Prince of Arragon",
+            "to": "Portia",
             "label": "lover"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Antonio",
-            "target": "Bassanio",
+            "from": "Antonio",
+            "to": "Bassanio",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Antonio",
-            "target": "Shylock",
+            "from": "Antonio",
+            "to": "Shylock",
             "label": "enemy"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Bassanio",
-            "target": "Antonio",
+            "from": "Bassanio",
+            "to": "Antonio",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Solanio",
-            "target": "Antonio",
+            "from": "Solanio",
+            "to": "Antonio",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Solanio",
-            "target": "Bassanio",
+            "from": "Solanio",
+            "to": "Bassanio",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Salarino",
-            "target": "Antonio",
+            "from": "Salarino",
+            "to": "Antonio",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Salarino",
-            "target": "Bassanio",
+            "from": "Salarino",
+            "to": "Bassanio",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Lorenzo",
-            "target": "Antonio",
+            "from": "Lorenzo",
+            "to": "Antonio",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Lorenzo",
-            "target": "Bassanio",
+            "from": "Lorenzo",
+            "to": "Bassanio",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Gratiano",
-            "target": "Antonio",
+            "from": "Gratiano",
+            "to": "Antonio",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Gratiano",
-            "target": "Bassanio",
+            "from": "Gratiano",
+            "to": "Bassanio",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Gratiano",
-            "target": "Nerissa",
+            "from": "Gratiano",
+            "to": "Nerissa",
             "label": "lover"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Lorenzo",
-            "target": "Jessica",
+            "from": "Lorenzo",
+            "to": "Jessica",
             "label": "lover"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Lorenzo",
-            "target": "Shylock",
+            "from": "Lorenzo",
+            "to": "Shylock",
             "label": "enemy"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Shylock",
-            "target": "Jessica",
+            "from": "Shylock",
+            "to": "Jessica",
             "label": "father"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Jessica",
-            "target": "Shylock",
+            "from": "Jessica",
+            "to": "Shylock",
             "label": "daughter"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Jessica",
-            "target": "Lancelet Gobbo",
+            "from": "Jessica",
+            "to": "Lancelet Gobbo",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Tubal",
-            "target": "Shylock",
+            "from": "Tubal",
+            "to": "Shylock",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Shylock",
-            "target": "Tubal",
+            "from": "Shylock",
+            "to": "Tubal",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Lancelet Gobbo",
-            "target": "Old Gobbo",
+            "from": "Lancelet Gobbo",
+            "to": "Old Gobbo",
             "label": "son"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Lancelet Gobbo",
-            "target": "Shylock",
+            "from": "Lancelet Gobbo",
+            "to": "Shylock",
             "label": "servant"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Lancelet Gobbo",
-            "target": "Shylock",
+            "from": "Lancelet Gobbo",
+            "to": "Shylock",
             "label": "enemy"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Lancelet Gobbo",
-            "target": "Jessica",
+            "from": "Lancelet Gobbo",
+            "to": "Jessica",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Old Gobbo",
-            "target": "Lancelet Gobbo",
+            "from": "Old Gobbo",
+            "to": "Lancelet Gobbo",
             "label": "father"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Leonardo",
-            "target": "Bassanio",
+            "from": "Leonardo",
+            "to": "Bassanio",
             "label": "servant"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Balthasar",
-            "target": "Portia",
+            "from": "Balthasar",
+            "to": "Portia",
             "label": "servant"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Stephano",
-            "target": "Portia",
+            "from": "Stephano",
+            "to": "Portia",
             "label": "servant"
         },
         {
             "play_name": "The Merchant of Venice",
-            "source": "Nerissa",
-            "target": "Portia",
+            "from": "Nerissa",
+            "to": "Portia",
             "label": "wainting maid"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "source": "Egeus",
-            "target": "Hermia",
+            "from": "Egeus",
+            "to": "Hermia",
             "label": "father"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "source": "Lysander",
-            "target": "Hermia",
+            "from": "Lysander",
+            "to": "Hermia",
             "label": "lover"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "source": "Philostrate",
-            "target": "Theseus",
+            "from": "Philostrate",
+            "to": "Theseus",
             "label": "master of the revels"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "source": "Hermia",
-            "target": "Egeus",
+            "from": "Hermia",
+            "to": "Egeus",
             "label": "daughter"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "source": "Hermia",
-            "target": "Lysander",
+            "from": "Hermia",
+            "to": "Lysander",
             "label": "lover"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "source": "Hermia",
-            "target": "Helena",
+            "from": "Hermia",
+            "to": "Helena",
             "label": "friend"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "source": "Helena",
-            "target": "Hermia",
+            "from": "Helena",
+            "to": "Hermia",
             "label": "friend"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "source": "Demetrius",
-            "target": "Hermia",
+            "from": "Demetrius",
+            "to": "Hermia",
             "label": "enemy"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "source": "Helena",
-            "target": "Lysander",
+            "from": "Helena",
+            "to": "Lysander",
             "label": "lover"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "source": "Hippolyta",
-            "target": "Theseus",
+            "from": "Hippolyta",
+            "to": "Theseus",
             "label": "bethrothed"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "source": "Theseus",
-            "target": "Hippolyta",
+            "from": "Theseus",
+            "to": "Hippolyta",
             "label": "bethrothed"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "source": "Theseus",
-            "target": "Egus",
+            "from": "Theseus",
+            "to": "Egus",
             "label": "friend"
         },
         {
             "play_name": "Hamlet",
-            "source": "Hamlet",
-            "target": "Claudius",
+            "from": "Hamlet",
+            "to": "Claudius",
             "label": "nephew"
         },
         {
             "play_name": "Hamlet",
-            "source": "Hamlet",
-            "target": "Gertrude",
+            "from": "Hamlet",
+            "to": "Gertrude",
             "label": "son"
         },
         {
             "play_name": "Hamlet",
-            "source": "Claudius",
-            "target": "Hamlet",
+            "from": "Claudius",
+            "to": "Hamlet",
             "label": "uncle"
         },
         {
             "play_name": "Hamlet",
-            "source": "Gertrude",
-            "target": "Hamlet",
+            "from": "Gertrude",
+            "to": "Hamlet",
             "label": "mother"
         },
         {
             "play_name": "Hamlet",
-            "source": "Polonius",
-            "target": "Laertes",
+            "from": "Polonius",
+            "to": "Laertes",
             "label": "father"
         },
         {
             "play_name": "Hamlet",
-            "source": "Laertes",
-            "target": "Polonius",
+            "from": "Laertes",
+            "to": "Polonius",
             "label": "son"
         },
         {
             "play_name": "Hamlet",
-            "source": "Ophelia",
-            "target": "Polonius",
+            "from": "Ophelia",
+            "to": "Polonius",
             "label": "daughter"
         },
         {
             "play_name": "Hamlet",
-            "source": "Polonius",
-            "target": "Ophelia",
+            "from": "Polonius",
+            "to": "Ophelia",
             "label": "father"
         },
         {
             "play_name": "Hamlet",
-            "source": "Ophelia",
-            "target": "Laertes",
+            "from": "Ophelia",
+            "to": "Laertes",
             "label": "sister"
         },
         {
             "play_name": "Hamlet",
-            "source": "Laertes",
-            "target": "Ophelia",
+            "from": "Laertes",
+            "to": "Ophelia",
             "label": "brother "
         },
         {
             "play_name": "Hamlet",
-            "source": "Horatio",
-            "target": "Hamlet",
+            "from": "Horatio",
+            "to": "Hamlet",
             "label": "friend"
         },
         {
             "play_name": "Hamlet",
-            "source": "Hamlet",
-            "target": "Horatio",
+            "from": "Hamlet",
+            "to": "Horatio",
             "label": "friend"
         },
         {
             "play_name": "Hamlet",
-            "source": "Reynaldo",
-            "target": "Polonius",
+            "from": "Reynaldo",
+            "to": "Polonius",
             "label": "servant"
         },
         {
             "play_name": "Macbeth",
-            "source": "Macbeth",
-            "target": "Lady Macbeth",
+            "from": "Macbeth",
+            "to": "Lady Macbeth",
             "label": "husband"
         },
         {
             "play_name": "Macbeth",
-            "source": "Lady Macbeth",
-            "target": "Macbeth",
+            "from": "Lady Macbeth",
+            "to": "Macbeth",
             "label": "wife"
         },
         {
             "play_name": "Macbeth",
-            "source": "Three witches",
-            "target": "Macbeth",
+            "from": "Three witches",
+            "to": "Macbeth",
             "label": "enemy"
         },
         {
             "play_name": "Macbeth",
-            "source": "Three witches",
-            "target": "Hecate",
+            "from": "Three witches",
+            "to": "Hecate",
             "label": "servant"
         },
         {
             "play_name": "Macbeth",
-            "source": "Banquo",
-            "target": "Fleance",
+            "from": "Banquo",
+            "to": "Fleance",
             "label": "father"
         },
         {
             "play_name": "Macbeth",
-            "source": "Fleance",
-            "target": "Banquo",
+            "from": "Fleance",
+            "to": "Banquo",
             "label": "son"
         },
         {
             "play_name": "Macbeth",
-            "source": "Macduff",
-            "target": "Lady Macduff",
+            "from": "Macduff",
+            "to": "Lady Macduff",
             "label": "husband"
         },
         {
             "play_name": "Macbeth",
-            "source": "Lady Macduff",
-            "target": "Macduff",
+            "from": "Lady Macduff",
+            "to": "Macduff",
             "label": "wife"
         },
         {
             "play_name": "Macbeth",
-            "source": "Siward",
-            "target": "Young Siward",
+            "from": "Siward",
+            "to": "Young Siward",
             "label": "father"
         },
         {
             "play_name": "Macbeth",
-            "source": "Young Siward",
-            "target": "Siward",
+            "from": "Young Siward",
+            "to": "Siward",
             "label": "son"
         },
         {
             "play_name": "Macbeth",
-            "source": "Macduff",
-            "target": "Boy",
+            "from": "Macduff",
+            "to": "Boy",
             "label": "father"
         },
         {
             "play_name": "Macbeth",
-            "source": "Boy",
-            "target": "Macduff",
+            "from": "Boy",
+            "to": "Macduff",
             "label": "son"
         },
         {
             "play_name": "Macbeth",
-            "source": "king Duncan",
-            "target": "Malcom",
+            "from": "king Duncan",
+            "to": "Malcom",
             "label": "father"
         },
         {
             "play_name": "Macbeth",
-            "source": "Malcom",
-            "target": "king Duncan",
+            "from": "Malcom",
+            "to": "king Duncan",
             "label": "son"
         },
         {
             "play_name": "Macbeth",
-            "source": "Donalbain",
-            "target": "Malcom",
+            "from": "Donalbain",
+            "to": "Malcom",
             "label": "brother"
         },
         {
             "play_name": "Macbeth",
-            "source": "Malcom",
-            "target": "Donalbain",
+            "from": "Malcom",
+            "to": "Donalbain",
             "label": "brother"
         },
         {
             "play_name": "Macbeth",
-            "source": "Hecate",
-            "target": "Macbeth",
+            "from": "Hecate",
+            "to": "Macbeth",
             "label": "enemy"
         },
         {
             "play_name": "Macbeth",
-            "source": "Macbeth",
-            "target": "Lady Macduff",
+            "from": "Macbeth",
+            "to": "Lady Macduff",
             "label": "killer"
         },
         {
             "play_name": "Macbeth",
-            "source": "Macbeth",
-            "target": "Banquo",
+            "from": "Macbeth",
+            "to": "Banquo",
             "label": "killer"
         },
         {
             "play_name": "Macbeth",
-            "source": "Macbeth",
-            "target": "king Duncan",
+            "from": "Macbeth",
+            "to": "king Duncan",
             "label": "killer"
         },
         {
             "play_name": "Macbeth",
-            "source": "Macbeth",
-            "target": "young Siward",
+            "from": "Macbeth",
+            "to": "young Siward",
             "label": "killer"
         },
         {
             "play_name": "Macbeth",
-            "source": "Macbeth",
-            "target": "Boy",
+            "from": "Macbeth",
+            "to": "Boy",
             "label": "killer"
         },
         {
             "play_name": "Macbeth",
-            "source": "Macbeth",
-            "target": "Macduff",
+            "from": "Macbeth",
+            "to": "Macduff",
             "label": "enemy"
         },
         {
             "play_name": "Macbeth",
-            "source": "Macduff",
-            "target": "Macbeth",
+            "from": "Macduff",
+            "to": "Macbeth",
             "label": "enemy"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Romeo",
-            "target": "Juliet",
+            "from": "Romeo",
+            "to": "Juliet",
             "label": "lover"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Juliet",
-            "target": "Romeo",
+            "from": "Juliet",
+            "to": "Romeo",
             "label": "lover"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Juliet",
-            "target": "Lady Capulet",
+            "from": "Juliet",
+            "to": "Lady Capulet",
             "label": "daughter"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Juliet",
-            "target": "Lord Capulet",
+            "from": "Juliet",
+            "to": "Lord Capulet",
             "label": "daughter"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lord Capulet",
-            "target": "Juliet",
+            "from": "Lord Capulet",
+            "to": "Juliet",
             "label": "father"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lady Capulet",
-            "target": "Juliet",
+            "from": "Lady Capulet",
+            "to": "Juliet",
             "label": "mother"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lady Capulet",
-            "target": "Lord Capulet",
+            "from": "Lady Capulet",
+            "to": "Lord Capulet",
             "label": "wife"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lord Capulet",
-            "target": "Lady Capulet",
+            "from": "Lord Capulet",
+            "to": "Lady Capulet",
             "label": "husband"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Escalus",
-            "target": "Paris",
+            "from": "Escalus",
+            "to": "Paris",
             "label": "family"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Paris",
-            "target": "Escalus",
+            "from": "Paris",
+            "to": "Escalus",
             "label": "family"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Paris",
-            "target": "Juliet",
+            "from": "Paris",
+            "to": "Juliet",
             "label": "lover"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Romeo",
-            "target": "Paris",
+            "from": "Romeo",
+            "to": "Paris",
             "label": "killer"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lady Capulet",
-            "target": "Lady Montague",
+            "from": "Lady Capulet",
+            "to": "Lady Montague",
             "label": "enemy"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lady Capulet",
-            "target": "Lord Montague",
+            "from": "Lady Capulet",
+            "to": "Lord Montague",
             "label": "enemy"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lord Capulet",
-            "target": "Lady Montague",
+            "from": "Lord Capulet",
+            "to": "Lady Montague",
             "label": "enemy"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lord Capulet",
-            "target": "Lord Montague",
+            "from": "Lord Capulet",
+            "to": "Lord Montague",
             "label": "enemy"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lord Montague",
-            "target": "Lord Capulet",
+            "from": "Lord Montague",
+            "to": "Lord Capulet",
             "label": "enemy"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lord Montague",
-            "target": "Lady Capulet",
+            "from": "Lord Montague",
+            "to": "Lady Capulet",
             "label": "enemy"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lady Montague",
-            "target": "Lord Capulet",
+            "from": "Lady Montague",
+            "to": "Lord Capulet",
             "label": "enemy"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lady Montague",
-            "target": "Lady Capulet",
+            "from": "Lady Montague",
+            "to": "Lady Capulet",
             "label": "enemy"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lord Montague",
-            "target": "Lady Montague",
+            "from": "Lord Montague",
+            "to": "Lady Montague",
             "label": "husband"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lady Montague",
-            "target": "Lord Montague",
+            "from": "Lady Montague",
+            "to": "Lord Montague",
             "label": "wife"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lady Montague",
-            "target": "Romeo",
+            "from": "Lady Montague",
+            "to": "Romeo",
             "label": "mother"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lord Montague",
-            "target": "Romeo",
+            "from": "Lord Montague",
+            "to": "Romeo",
             "label": "father"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Romeo",
-            "target": "Lady Montague",
+            "from": "Romeo",
+            "to": "Lady Montague",
             "label": "son"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Romeo",
-            "target": "Lord Montague",
+            "from": "Romeo",
+            "to": "Lord Montague",
             "label": "son"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Mercutio",
-            "target": "Romeo",
+            "from": "Mercutio",
+            "to": "Romeo",
             "label": "friend"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Mercutio",
-            "target": "Benvolio",
+            "from": "Mercutio",
+            "to": "Benvolio",
             "label": "friend"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Romeo",
-            "target": "Mercutio",
+            "from": "Romeo",
+            "to": "Mercutio",
             "label": "friend"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Benvolio",
-            "target": "Lord Montague",
+            "from": "Benvolio",
+            "to": "Lord Montague",
             "label": "nephew"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lord Montague",
-            "target": "Benvolio",
+            "from": "Lord Montague",
+            "to": "Benvolio",
             "label": "uncle"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Benvolio",
-            "target": "Mercutio",
+            "from": "Benvolio",
+            "to": "Mercutio",
             "label": "friend"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Benvolio",
-            "target": "Romeo",
+            "from": "Benvolio",
+            "to": "Romeo",
             "label": "cousin"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Romeo",
-            "target": "Benvolio",
+            "from": "Romeo",
+            "to": "Benvolio",
             "label": "cousin"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Mercutio",
-            "target": "Escalus",
+            "from": "Mercutio",
+            "to": "Escalus",
             "label": "family"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Escalus",
-            "target": "Mercutio",
+            "from": "Escalus",
+            "to": "Mercutio",
             "label": "family"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Tybalt",
-            "target": "Lady Capulet",
+            "from": "Tybalt",
+            "to": "Lady Capulet",
             "label": "nephew"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Lady Capulet",
-            "target": "Tybalt",
+            "from": "Lady Capulet",
+            "to": "Tybalt",
             "label": "aunt "
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Tybalt",
-            "target": "Juliet",
+            "from": "Tybalt",
+            "to": "Juliet",
             "label": "cousin"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Juliet",
-            "target": "Tybalt",
+            "from": "Juliet",
+            "to": "Tybalt",
             "label": "cousin"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Tybalt",
-            "target": "Lord Montague",
+            "from": "Tybalt",
+            "to": "Lord Montague",
             "label": "enemy"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Tybalt",
-            "target": "Lady Montague",
+            "from": "Tybalt",
+            "to": "Lady Montague",
             "label": "enemy"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Tybalt",
-            "target": "Romeo",
+            "from": "Tybalt",
+            "to": "Romeo",
             "label": "enemy"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Tybalt",
-            "target": "Mercutio",
+            "from": "Tybalt",
+            "to": "Mercutio",
             "label": "killer"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Romeo",
-            "target": "Tybalt",
+            "from": "Romeo",
+            "to": "Tybalt",
             "label": "killer"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Friar Laurence",
-            "target": "Romeo",
+            "from": "Friar Laurence",
+            "to": "Romeo",
             "label": "friend"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Friar Laurence",
-            "target": "Juliet",
+            "from": "Friar Laurence",
+            "to": "Juliet",
             "label": "friend"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Balthasar",
-            "target": "Romeo",
+            "from": "Balthasar",
+            "to": "Romeo",
             "label": "servant"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Sampson",
-            "target": "Lord Capulet",
+            "from": "Sampson",
+            "to": "Lord Capulet",
             "label": "servant"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Gregory",
-            "target": "Lord Capulet",
+            "from": "Gregory",
+            "to": "Lord Capulet",
             "label": "servant"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Sampson",
-            "target": "Gregory",
+            "from": "Sampson",
+            "to": "Gregory",
             "label": "friend"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Gregory",
-            "target": "Sampson",
+            "from": "Gregory",
+            "to": "Sampson",
             "label": "friend"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Peter",
-            "target": "Lord Capulet",
+            "from": "Peter",
+            "to": "Lord Capulet",
             "label": "servant"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Abram",
-            "target": "Lord Montague",
+            "from": "Abram",
+            "to": "Lord Montague",
             "label": "servant"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "the Nurse ",
-            "target": "Juliet",
+            "from": "the Nurse ",
+            "to": "Juliet",
             "label": "servant"
         },
         {
             "play_name": "Romeo and Juliet",
-            "source": "Romeo",
-            "target": "Rosaline",
+            "from": "Romeo",
+            "to": "Rosaline",
             "label": "lover"
         }
     ]

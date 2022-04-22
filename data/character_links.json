@@ -142,6 +142,11 @@
         },
         {
             "play_name": "A Midsummer Night's Dream",
+            "id": "Demeterius",
+            "fill": "rgb(100, 149, 237)"
+        },
+        {
+            "play_name": "A Midsummer Night's Dream",
             "id": "Philostrate",
             "fill": "rgb(100, 149, 237)"
         },
@@ -381,18 +386,6 @@
         },
         {
             "play_name": "Julius Caesar",
-            "from": "Calphurnia",
-            "to": "Julius Caesar",
-            "label": "wife"
-        },
-        {
-            "play_name": "Julius Caesar",
-            "from": "Julius Caesar",
-            "to": "Octavius",
-            "label": "uncle"
-        },
-        {
-            "play_name": "Julius Caesar",
             "from": "Octavius",
             "to": "Julius Caesar",
             "label": "nephew and heir"
@@ -423,20 +416,8 @@
         },
         {
             "play_name": "Julius Caesar",
-            "from": "Portia",
-            "to": "Marcus Brutus",
-            "label": "wife"
-        },
-        {
-            "play_name": "Julius Caesar",
-            "from": "Brutus",
+            "from": "Marcus Brutus",
             "to": "Cassius",
-            "label": "brother-in-law"
-        },
-        {
-            "play_name": "Julius Caesar",
-            "from": "Cassius",
-            "to": "Marcus Brutus",
             "label": "brother-in-law"
         },
         {
@@ -468,12 +449,6 @@
             "from": "Antonio",
             "to": "Shylock",
             "label": "enemy"
-        },
-        {
-            "play_name": "The Merchant of Venice",
-            "from": "Bassanio",
-            "to": "Antonio",
-            "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
@@ -550,12 +525,6 @@
         {
             "play_name": "The Merchant of Venice",
             "from": "Jessica",
-            "to": "Shylock",
-            "label": "daughter"
-        },
-        {
-            "play_name": "The Merchant of Venice",
-            "from": "Jessica",
             "to": "Lancelet Gobbo",
             "label": "friend"
         },
@@ -567,27 +536,9 @@
         },
         {
             "play_name": "The Merchant of Venice",
-            "from": "Shylock",
-            "to": "Tubal",
-            "label": "friend"
-        },
-        {
-            "play_name": "The Merchant of Venice",
-            "from": "Lancelet Gobbo",
-            "to": "Old Gobbo",
-            "label": "son"
-        },
-        {
-            "play_name": "The Merchant of Venice",
             "from": "Lancelet Gobbo",
             "to": "Shylock",
-            "label": "servant"
-        },
-        {
-            "play_name": "The Merchant of Venice",
-            "from": "Lancelet Gobbo",
-            "to": "Shylock",
-            "label": "enemy"
+            "label": "servant, ennemy"
         },
         {
             "play_name": "The Merchant of Venice",
@@ -645,31 +596,13 @@
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "from": "Hermia",
-            "to": "Egeus",
-            "label": "daughter"
-        },
-        {
-            "play_name": "A Midsummer Night's Dream",
-            "from": "Hermia",
-            "to": "Lysander",
-            "label": "lover"
-        },
-        {
-            "play_name": "A Midsummer Night's Dream",
-            "from": "Hermia",
-            "to": "Helena",
-            "label": "friend"
-        },
-        {
-            "play_name": "A Midsummer Night's Dream",
             "from": "Helena",
             "to": "Hermia",
             "label": "friend"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "from": "Demetrius",
+            "from": "Demeterius",
             "to": "Hermia",
             "label": "enemy"
         },
@@ -688,12 +621,6 @@
         {
             "play_name": "A Midsummer Night's Dream",
             "from": "Theseus",
-            "to": "Hippolyta",
-            "label": "bethrothed"
-        },
-        {
-            "play_name": "A Midsummer Night's Dream",
-            "from": "Theseus",
             "to": "Egus",
             "label": "friend"
         },
@@ -702,18 +629,6 @@
             "from": "Hamlet",
             "to": "Claudius",
             "label": "nephew"
-        },
-        {
-            "play_name": "Hamlet",
-            "from": "Hamlet",
-            "to": "Gertrude",
-            "label": "son"
-        },
-        {
-            "play_name": "Hamlet",
-            "from": "Claudius",
-            "to": "Hamlet",
-            "label": "uncle"
         },
         {
             "play_name": "Hamlet",
@@ -729,18 +644,6 @@
         },
         {
             "play_name": "Hamlet",
-            "from": "Laertes",
-            "to": "Polonius",
-            "label": "son"
-        },
-        {
-            "play_name": "Hamlet",
-            "from": "Ophelia",
-            "to": "Polonius",
-            "label": "daughter"
-        },
-        {
-            "play_name": "Hamlet",
             "from": "Polonius",
             "to": "Ophelia",
             "label": "father"
@@ -753,20 +656,8 @@
         },
         {
             "play_name": "Hamlet",
-            "from": "Laertes",
-            "to": "Ophelia",
-            "label": "brother "
-        },
-        {
-            "play_name": "Hamlet",
             "from": "Horatio",
             "to": "Hamlet",
-            "label": "friend"
-        },
-        {
-            "play_name": "Hamlet",
-            "from": "Hamlet",
-            "to": "Horatio",
             "label": "friend"
         },
         {
@@ -780,12 +671,6 @@
             "from": "Macbeth",
             "to": "Lady Macbeth",
             "label": "husband"
-        },
-        {
-            "play_name": "Macbeth",
-            "from": "Lady Macbeth",
-            "to": "Macbeth",
-            "label": "wife"
         },
         {
             "play_name": "Macbeth",
@@ -807,21 +692,9 @@
         },
         {
             "play_name": "Macbeth",
-            "from": "Fleance",
-            "to": "Banquo",
-            "label": "son"
-        },
-        {
-            "play_name": "Macbeth",
             "from": "Macduff",
             "to": "Lady Macduff",
             "label": "husband"
-        },
-        {
-            "play_name": "Macbeth",
-            "from": "Lady Macduff",
-            "to": "Macduff",
-            "label": "wife"
         },
         {
             "play_name": "Macbeth",
@@ -831,21 +704,9 @@
         },
         {
             "play_name": "Macbeth",
-            "from": "Young Siward",
-            "to": "Siward",
-            "label": "son"
-        },
-        {
-            "play_name": "Macbeth",
             "from": "Macduff",
             "to": "Boy",
             "label": "father"
-        },
-        {
-            "play_name": "Macbeth",
-            "from": "Boy",
-            "to": "Macduff",
-            "label": "son"
         },
         {
             "play_name": "Macbeth",
@@ -855,20 +716,8 @@
         },
         {
             "play_name": "Macbeth",
-            "from": "Malcom",
-            "to": "king Duncan",
-            "label": "son"
-        },
-        {
-            "play_name": "Macbeth",
             "from": "Donalbain",
             "to": "Malcom",
-            "label": "brother"
-        },
-        {
-            "play_name": "Macbeth",
-            "from": "Malcom",
-            "to": "Donalbain",
             "label": "brother"
         },
         {
@@ -927,24 +776,6 @@
         },
         {
             "play_name": "Romeo and Juliet",
-            "from": "Juliet",
-            "to": "Romeo",
-            "label": "lover"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Juliet",
-            "to": "Lady Capulet",
-            "label": "daughter"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Juliet",
-            "to": "Lord Capulet",
-            "label": "daughter"
-        },
-        {
-            "play_name": "Romeo and Juliet",
             "from": "Lord Capulet",
             "to": "Juliet",
             "label": "father"
@@ -954,12 +785,6 @@
             "from": "Lady Capulet",
             "to": "Juliet",
             "label": "mother"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Lady Capulet",
-            "to": "Lord Capulet",
-            "label": "wife"
         },
         {
             "play_name": "Romeo and Juliet",
@@ -1048,12 +873,6 @@
         {
             "play_name": "Romeo and Juliet",
             "from": "Lady Montague",
-            "to": "Lord Montague",
-            "label": "wife"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Lady Montague",
             "to": "Romeo",
             "label": "mother"
         },
@@ -1065,18 +884,6 @@
         },
         {
             "play_name": "Romeo and Juliet",
-            "from": "Romeo",
-            "to": "Lady Montague",
-            "label": "son"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Romeo",
-            "to": "Lord Montague",
-            "label": "son"
-        },
-        {
-            "play_name": "Romeo and Juliet",
             "from": "Mercutio",
             "to": "Romeo",
             "label": "friend"
@@ -1085,12 +892,6 @@
             "play_name": "Romeo and Juliet",
             "from": "Mercutio",
             "to": "Benvolio",
-            "label": "friend"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Romeo",
-            "to": "Mercutio",
             "label": "friend"
         },
         {
@@ -1101,12 +902,6 @@
         },
         {
             "play_name": "Romeo and Juliet",
-            "from": "Lord Montague",
-            "to": "Benvolio",
-            "label": "uncle"
-        },
-        {
-            "play_name": "Romeo and Juliet",
             "from": "Benvolio",
             "to": "Mercutio",
             "label": "friend"
@@ -1115,12 +910,6 @@
             "play_name": "Romeo and Juliet",
             "from": "Benvolio",
             "to": "Romeo",
-            "label": "cousin"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Romeo",
-            "to": "Benvolio",
             "label": "cousin"
         },
         {
@@ -1143,20 +932,8 @@
         },
         {
             "play_name": "Romeo and Juliet",
-            "from": "Lady Capulet",
-            "to": "Tybalt",
-            "label": "aunt "
-        },
-        {
-            "play_name": "Romeo and Juliet",
             "from": "Tybalt",
             "to": "Juliet",
-            "label": "cousin"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Juliet",
-            "to": "Tybalt",
             "label": "cousin"
         },
         {
@@ -1223,12 +1000,6 @@
             "play_name": "Romeo and Juliet",
             "from": "Sampson",
             "to": "Gregory",
-            "label": "friend"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Gregory",
-            "to": "Sampson",
             "label": "friend"
         },
         {

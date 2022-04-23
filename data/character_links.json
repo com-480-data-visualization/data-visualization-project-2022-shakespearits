@@ -375,12 +375,6 @@
         {
             "play_name": "Julius Caesar",
             "from": "Julius Caesar",
-            "to": "Marcus Brutus",
-            "label": "enemy"
-        },
-        {
-            "play_name": "Julius Caesar",
-            "from": "Julius Caesar",
             "to": "Calphurnia",
             "label": "husband"
         },
@@ -398,14 +392,8 @@
         },
         {
             "play_name": "Julius Caesar",
-            "from": "Marcus Brutus",
-            "to": "Lucius",
-            "label": "servant"
-        },
-        {
-            "play_name": "Julius Caesar",
-            "from": "Portia",
-            "to": "Lucius",
+            "from": "Lucius",
+            "to": "Marcus Brutus",
             "label": "servant"
         },
         {
@@ -524,12 +512,6 @@
         },
         {
             "play_name": "The Merchant of Venice",
-            "from": "Jessica",
-            "to": "Lancelet Gobbo",
-            "label": "friend"
-        },
-        {
-            "play_name": "The Merchant of Venice",
             "from": "Tubal",
             "to": "Shylock",
             "label": "friend"
@@ -621,7 +603,7 @@
         {
             "play_name": "A Midsummer Night's Dream",
             "from": "Theseus",
-            "to": "Egus",
+            "to": "Egeus",
             "label": "friend"
         },
         {
@@ -747,7 +729,7 @@
         {
             "play_name": "Macbeth",
             "from": "Macbeth",
-            "to": "young Siward",
+            "to": "Young Siward",
             "label": "killer"
         },
         {
@@ -755,12 +737,6 @@
             "from": "Macbeth",
             "to": "Boy",
             "label": "killer"
-        },
-        {
-            "play_name": "Macbeth",
-            "from": "Macbeth",
-            "to": "Macduff",
-            "label": "enemy"
         },
         {
             "play_name": "Macbeth",
@@ -791,12 +767,6 @@
             "from": "Lord Capulet",
             "to": "Lady Capulet",
             "label": "husband"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Escalus",
-            "to": "Paris",
-            "label": "family"
         },
         {
             "play_name": "Romeo and Juliet",
@@ -838,30 +808,6 @@
             "play_name": "Romeo and Juliet",
             "from": "Lord Capulet",
             "to": "Lord Montague",
-            "label": "enemy"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Lord Montague",
-            "to": "Lord Capulet",
-            "label": "enemy"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Lord Montague",
-            "to": "Lady Capulet",
-            "label": "enemy"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Lady Montague",
-            "to": "Lord Capulet",
-            "label": "enemy"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Lady Montague",
-            "to": "Lady Capulet",
             "label": "enemy"
         },
         {
@@ -903,12 +849,6 @@
         {
             "play_name": "Romeo and Juliet",
             "from": "Benvolio",
-            "to": "Mercutio",
-            "label": "friend"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Benvolio",
             "to": "Romeo",
             "label": "cousin"
         },
@@ -916,12 +856,6 @@
             "play_name": "Romeo and Juliet",
             "from": "Mercutio",
             "to": "Escalus",
-            "label": "family"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Escalus",
-            "to": "Mercutio",
             "label": "family"
         },
         {
@@ -946,12 +880,6 @@
             "play_name": "Romeo and Juliet",
             "from": "Tybalt",
             "to": "Lady Montague",
-            "label": "enemy"
-        },
-        {
-            "play_name": "Romeo and Juliet",
-            "from": "Tybalt",
-            "to": "Romeo",
             "label": "enemy"
         },
         {

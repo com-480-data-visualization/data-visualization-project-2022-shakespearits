@@ -1,0 +1,117 @@
+:root {
+	--theme-color-dark: green;
+	--theme-color-darkest: rgb(61, 11, 9);
+	--theme-color-light: rgb(204, 198, 198);
+ 	--background-color: rgb(218, 25, 70);
+}
+
+/*
+Make the document fill the whole viewport, this overrides any weird defaults that browsers might have.
+*/
+
+html, body, #presentation {
+    width: 100%;
+	height: 0;
+    margin: 0;
+    padding: 0;
+	border: 0;
+  }
+
+/* Default font and size */
+body {
+	font-family: 'cursive';
+	font-size: 1.1rem;
+	background-color: white;
+  	background-repeat: no-repeat;
+	background-attachment: fixed;
+ 	background-size: cover;
+}
+
+body h1 {
+	color: rgb(255, 255, 255);
+	height: 1950px;
+}
+
+/* Top navigation bar */
+nav {
+	width: 100%;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+nav a {
+	color: white;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: rgb(0, 0, 0); 
+}
+
+/* Style of the list of links in the navbar */
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-end;
+}
+
+nav li {
+	margin-right: 3rem;
+}
+
+.menu {
+	width:100%;
+	height: 80px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	background-color: rgb(218, 25, 70);
+}
+
+#icon{
+	width: 60px;
+	height: 40px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.title {
+	width: 100%;
+	display: flex;
+	margin-left: 3rem;
+
+}
+
+.title h1 {
+	font-size: 2.5rem;
+	color: white;
+	font-family: fantasy;
+	margin-top: 13.5px;
+	margin-bottom: 13.5px;
+}
+
+.title h2 {
+	font-size: 2rem;
+	color: rgb(255, 255, 255);
+	font-family: fantasy;
+}
+
+#presentation {
+	width: 100%;
+	height:100%;
+	top: 80px;
+	position: absolute;
+	background-image: url('../images/curtains-theater-closed.png');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	/* Center horizontally: */
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom :2px;
+	
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width= device-width, initial-scale=1.0">
+    <title>Network</title>
+    <meta name="description" content="Link network of characters in some Shakespeare's plays">
+    <meta name="author" content="M-A. Gillyboeuf, D. Papadopoulos, P. Rescala">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-core.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-graph.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-data-adapter.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-ui.min.js"></script>
+    <!-- Load d3.js -->
+    <script src="https://d3js.org/d3.v5.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.anychart.com/releases/8.11.0/css/anychart-ui.min.css?hcode=a0c21fc77e1449cc86299c5faa067dc4"/> 
+    <link rel="stylesheet" type="text/css" href="https://cdn.anychart.com/releases/8.11.0/fonts/css/anychart-font.min.css"/>
+
+    <link href="styles/style_network.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <div class="menu">
+        <header class="title">
+          <h1> Shakespearits</h1><img id="icon" src="../images/logo-theater.png" alt="logo theatre">
+        </header>
+
+        <nav>
+          <ul class="navmenu">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="network.html">Network</a></li>
+          </ul>
+        </nav>
+    </div>
+    <div class="network">
+      <header class="title">
+        <h2>Characters's link</h2>
+      </header>
+      <div id="networkselection"></div>
+      <div id="graph"></div>
+    </div>
+    <script src="scripts/network.js"></script>
+  </body>
+</html>

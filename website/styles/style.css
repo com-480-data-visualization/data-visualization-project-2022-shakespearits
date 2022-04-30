@@ -115,3 +115,20 @@ nav li {
 	margin-bottom :2px;
 	
 }
+
+.aboutUs{
+	background-color: ghostwhite;
+	opacity: 0.75;
+	width: 1000px;
+	margin: auto;
+	margin-top: 30px;
+	padding: 1rem 2rem; 
+	height: 200px;
+	line-height: 18pt;
+}
+
+.aboutUs h2 {
+	font-size: 2rem;
+	color: rgb(218, 25, 70);
+	font-family: fantasy;
+}

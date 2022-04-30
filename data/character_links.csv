@@ -1,0 +1,98 @@
+play_name,from,to,label
+Julius Caesar,Julius Caesar,Calphurnia,husband
+Julius Caesar,Octavius,Julius Caesar,nephew and heir
+Julius Caesar,Marcus Brutus,Julius Caesar,enemy
+Julius Caesar,Lucius,Marcus Brutus,servant
+Julius Caesar,Marcus Brutus,Portia,husband
+Julius Caesar,Marcus Brutus,Cassius,brother-in-law
+Julius Caesar,Pindarus,Cassius,servant
+The Merchant of Venice,The Prince of Morocco,Portia,lover
+The Merchant of Venice,The Prince of Arragon,Portia,lover
+The Merchant of Venice,Antonio,Bassanio,friend
+The Merchant of Venice,Antonio,Shylock,enemy
+The Merchant of Venice,Solanio,Antonio,friend
+The Merchant of Venice,Solanio,Bassanio,friend
+The Merchant of Venice,Salarino,Antonio,friend
+The Merchant of Venice,Salarino,Bassanio,friend
+The Merchant of Venice,Lorenzo,Antonio,friend
+The Merchant of Venice,Lorenzo,Bassanio,friend
+The Merchant of Venice,Gratiano,Antonio,friend
+The Merchant of Venice,Gratiano,Bassanio,friend
+The Merchant of Venice,Gratiano,Nerissa,lover
+The Merchant of Venice,Lorenzo,Jessica,lover
+The Merchant of Venice,Lorenzo,Shylock,enemy
+The Merchant of Venice,Shylock,Jessica,father
+The Merchant of Venice,Tubal,Shylock,friend
+The Merchant of Venice,Lancelet Gobbo,Shylock,"servant, ennemy"
+The Merchant of Venice,Lancelet Gobbo,Jessica,friend
+The Merchant of Venice,Old Gobbo,Lancelet Gobbo,father
+The Merchant of Venice,Leonardo,Bassanio,servant
+The Merchant of Venice,Balthasar,Portia,servant
+The Merchant of Venice,Stephano,Portia,servant
+The Merchant of Venice,Nerissa,Portia,wainting maid
+A Midsummer Night's Dream,Egeus,Hermia,father
+A Midsummer Night's Dream,Lysander,Hermia,lover
+A Midsummer Night's Dream,Philostrate,Theseus,master of the revels
+A Midsummer Night's Dream,Helena,Hermia,friend
+A Midsummer Night's Dream,Demeterius,Hermia,enemy
+A Midsummer Night's Dream,Helena,Lysander,lover
+A Midsummer Night's Dream,Hippolyta,Theseus,bethrothed
+A Midsummer Night's Dream,Theseus,Egeus,friend
+Hamlet,Hamlet,Claudius,nephew
+Hamlet,Gertrude,Hamlet,mother
+Hamlet,Polonius,Laertes,father
+Hamlet,Polonius,Ophelia,father
+Hamlet,Ophelia,Laertes,sister
+Hamlet,Horatio,Hamlet,friend
+Hamlet,Reynaldo,Polonius,servant
+Macbeth,Macbeth,Lady Macbeth,husband
+Macbeth,Three witches,Macbeth,enemy
+Macbeth,Three witches,Hecate,servant
+Macbeth,Banquo,Fleance,father
+Macbeth,Macduff,Lady Macduff,husband
+Macbeth,Siward,Young Siward,father
+Macbeth,Macduff,Boy,father
+Macbeth,king Duncan,Malcom,father
+Macbeth,Donalbain,Malcom,brother
+Macbeth,Hecate,Macbeth,enemy
+Macbeth,Macbeth,Lady Macduff,killer
+Macbeth,Macbeth,Banquo,killer
+Macbeth,Macbeth,king Duncan,killer
+Macbeth,Macbeth,Young Siward,killer
+Macbeth,Macbeth,Boy,killer
+Macbeth,Macduff,Macbeth,enemy
+Romeo and Juliet,Romeo,Juliet,lover
+Romeo and Juliet,Lord Capulet,Juliet,father
+Romeo and Juliet,Lady Capulet,Juliet,mother
+Romeo and Juliet,Lord Capulet,Lady Capulet,husband
+Romeo and Juliet,Paris,Escalus,family
+Romeo and Juliet,Paris,Juliet,lover
+Romeo and Juliet,Romeo,Paris,killer
+Romeo and Juliet,Lady Capulet,Lady Montague,enemy
+Romeo and Juliet,Lady Capulet,Lord Montague,enemy
+Romeo and Juliet,Lord Capulet,Lady Montague,enemy
+Romeo and Juliet,Lord Capulet,Lord Montague,enemy
+Romeo and Juliet,Lord Montague,Lady Montague,husband
+Romeo and Juliet,Lady Montague,Romeo,mother
+Romeo and Juliet,Lord Montague,Romeo,father
+Romeo and Juliet,Mercutio,Romeo,friend
+Romeo and Juliet,Mercutio,Benvolio,friend
+Romeo and Juliet,Benvolio,Lord Montague,nephew
+Romeo and Juliet,Benvolio,Romeo,cousin
+Romeo and Juliet,Mercutio,Escalus,family
+Romeo and Juliet,Tybalt,Lady Capulet,nephew
+Romeo and Juliet,Tybalt,Juliet,cousin
+Romeo and Juliet,Tybalt,Lord Montague,enemy
+Romeo and Juliet,Tybalt,Lady Montague,enemy
+Romeo and Juliet,Tybalt,Mercutio,killer
+Romeo and Juliet,Romeo,Tybalt,killer
+Romeo and Juliet,Friar Laurence,Romeo,friend
+Romeo and Juliet,Friar Laurence,Juliet,friend
+Romeo and Juliet,Balthasar,Romeo,servant
+Romeo and Juliet,Sampson,Lord Capulet,servant
+Romeo and Juliet,Gregory,Lord Capulet,servant
+Romeo and Juliet,Sampson,Gregory,friend
+Romeo and Juliet,Peter,Lord Capulet,servant
+Romeo and Juliet,Abram,Lord Montague,servant
+Romeo and Juliet,the Nurse ,Juliet,servant
+Romeo and Juliet,Romeo,Rosaline,lover

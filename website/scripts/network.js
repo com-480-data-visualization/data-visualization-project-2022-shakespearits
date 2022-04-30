@@ -1,7 +1,7 @@
 
 
 
-anychart.data.loadJsonFile("data/character_links.json", function (data) {
+anychart.data.loadJsonFile("../data/character_links.json", function (data) {
     // create a chart from the loaded data according to specific play
     let play_focus = "A Midsummer Night's Dream";
 

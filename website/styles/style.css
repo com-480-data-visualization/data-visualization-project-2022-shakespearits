@@ -72,11 +72,11 @@ nav li {
 }
 
 #icon{
-	width: 70px;
-	height: 55px;
-	margin-top: 20px;
+	width: 85px;
+	height: 65px;
+	margin-top: 10px;
 	margin-left: 10px;
-	margin-right: 30px;
+	margin-right: 10px;
 }
 
 .title {
@@ -125,12 +125,18 @@ nav li {
 	left: 10px;
 	position: absolute;
 	z-index: 10;
-	background-color:white;
+	background-color:rgb(143, 26, 26);
 }
 
 .network {
 	background-image: url('../images/curtains-theater.png') no-repeat center center fixed;
-	
+	width: 100%;
+	position: absolute;
+	margin: auto;
+	margin-top: 100px;
+	padding: 1rem 2rem; 
+	height: 200px;
+	line-height: 18pt;
 }
 
 .network h2 {
@@ -149,7 +155,6 @@ nav li {
 
 .aboutUs{
 	background-color: rgb(245, 197, 209);
-	opacity: 0.75;
 	width: 100%;
 	position: absolute;
 	margin: auto;

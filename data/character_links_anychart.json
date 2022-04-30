@@ -3,385 +3,685 @@
         {
             "play_name": "Julius Caesar",
             "id": "Julius Caesar",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Julius Caesar",
             "id": "Calphurnia",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/316-3160610_all-photo-png-clipart-characters-of-shakespeare-clipart.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "Julius Caesar",
             "id": "Marcus Brutus",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887470_shakespeare-characters-shakespeare-characters-cavalier-1-colour.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Julius Caesar",
             "id": "Portia",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/214-2148033_medium-image-shakespeares-characters-clipart.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "Julius Caesar",
             "id": "Cassius",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/30-302509_did-you-know-that-april-is-shakespeares-birthday-month-shakespeare-characters-courier.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Julius Caesar",
             "id": "Pindarus",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Julius Caesar",
             "id": "Octavius",
-            "fill": "rgb(100, 149, 237)"
-        },
-        {
-            "play_name": "Julius Caesar",
-            "id": "Lucius",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "The Prince of Morocco",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887649_medium-image-shakespeare-characters-king-colour.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "The Prince of Arragon",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Antonio",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887470_shakespeare-characters-shakespeare-characters-cavalier-1-colour.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Bassanio",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/30-302509_did-you-know-that-april-is-shakespeares-birthday-month-shakespeare-characters-courier.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Solanio",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Salarino",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Gratiano",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Lorenzo",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Shylock",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Tubal",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Lancelet Gobbo",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Old Gobbo",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Leonardo",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Balthasar",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Stephano",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Portia",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/214-2148033_medium-image-shakespeares-characters-clipart.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Nerissa",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887291_medium-image-shakespeare-characters-lady-macbeth-colour.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Jessica",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887269_shakespeare-characters-shakespeare-girl-clipart.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "A Midsummer Night's Dream",
             "id": "Theseus",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "A Midsummer Night's Dream",
             "id": "Egeus",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887470_shakespeare-characters-shakespeare-characters-cavalier-1-colour.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "A Midsummer Night's Dream",
             "id": "Lysander",
-            "fill": "rgb(100, 149, 237)"
-        },
-        {
-            "play_name": "A Midsummer Night's Dream",
-            "id": "Demeterius",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/30-302509_did-you-know-that-april-is-shakespeares-birthday-month-shakespeare-characters-courier.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "A Midsummer Night's Dream",
             "id": "Philostrate",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887627_shakespeare-characters-shakespeare-characters-trufaldo-2.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "A Midsummer Night's Dream",
             "id": "Hippolyta",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887291_medium-image-shakespeare-characters-lady-macbeth-colour.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "A Midsummer Night's Dream",
             "id": "Hermia",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/214-2148033_medium-image-shakespeares-characters-clipart.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "A Midsummer Night's Dream",
             "id": "Helena",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887269_shakespeare-characters-shakespeare-girl-clipart.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "Hamlet",
             "id": "Hamlet",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Hamlet",
             "id": "Claudius",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/299-2999738_medium-image-shakespeare-character-clipart.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Hamlet",
             "id": "Gertrude",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887470_shakespeare-characters-shakespeare-characters-cavalier-1-colour.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "Hamlet",
             "id": "Polonius",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/30-302509_did-you-know-that-april-is-shakespeares-birthday-month-shakespeare-characters-courier.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Hamlet",
             "id": "Laertes",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Hamlet",
             "id": "Ophelia",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/214-2148033_medium-image-shakespeares-characters-clipart.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "Hamlet",
             "id": "Horatio",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Hamlet",
             "id": "Reynaldo",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887627_shakespeare-characters-shakespeare-characters-trufaldo-2.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Macbeth",
             "id": "Macbeth",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Macbeth",
             "id": "Lady Macbeth",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/214-2148033_medium-image-shakespeares-characters-clipart.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "Macbeth",
             "id": "Banquo",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887470_shakespeare-characters-shakespeare-characters-cavalier-1-colour.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Macbeth",
             "id": "king Duncan",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/299-2999738_medium-image-shakespeare-character-clipart.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Macbeth",
             "id": "Malcom",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887649_medium-image-shakespeare-characters-king-colour.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Macbeth",
             "id": "Donalbain",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Macbeth",
             "id": "Fleance",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887627_shakespeare-characters-shakespeare-characters-trufaldo-2.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Macbeth",
             "id": "Macduff",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/30-302509_did-you-know-that-april-is-shakespeares-birthday-month-shakespeare-characters-courier.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Macbeth",
             "id": "Lady Macduff",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887269_shakespeare-characters-shakespeare-girl-clipart.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "Macbeth",
             "id": "Three witches",
-            "fill": "rgb(205, 133, 63)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 3
+            }
         },
         {
             "play_name": "Macbeth",
             "id": "Hecate",
-            "fill": "rgb(205, 133, 63)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887291_medium-image-shakespeare-characters-lady-macbeth-colour.png",
+                "gender": 3
+            }
         },
         {
             "play_name": "Macbeth",
             "id": "Siward",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Macbeth",
             "id": "Young Siward",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Macbeth",
             "id": "Boy",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Romeo",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://pngset.com/images/handfashion-illustrationhuman-body-william-shakespeare-characters-person-horse-mammal-animal-transparent-png-1490749.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Juliet",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://pngset.com/images/shakespeare-characters-juliet-juliet-shakespeare-clothing-person-fashion-cloak-transparent-png-658185.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Escalus",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/299-2999738_medium-image-shakespeare-character-clipart.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Paris",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887243_shakespeare-characters-william-shakespeare.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Lady Capulet",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/214-2148033_medium-image-shakespeares-characters-clipart.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Lord Capulet",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Lord Montague",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Lady Montague",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887291_medium-image-shakespeare-characters-lady-macbeth-colour.png",
+                "gender": 2
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Mercutio",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887470_shakespeare-characters-shakespeare-characters-cavalier-1-colour.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Benvolio",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/30-302509_did-you-know-that-april-is-shakespeares-birthday-month-shakespeare-characters-courier.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Tybalt",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Friar Laurence",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Balthasar",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Sampson",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": "https://www.clipartmax.com/png/full/188-1887627_shakespeare-characters-shakespeare-characters-trufaldo-2.png",
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Gregory",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Peter",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Abram",
-            "fill": "rgb(100, 149, 237)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 1
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "the Nurse ",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 2
+            }
         },
         {
             "play_name": "Romeo and Juliet",
             "id": "Rosaline",
-            "fill": "rgb(255, 182, 193)"
+            "height": 50,
+            "fill": {
+                "src": NaN,
+                "gender": 2
+            }
         }
     ],
     "edges": [
         {
             "play_name": "Julius Caesar",
             "from": "Julius Caesar",
+            "to": "Marcus Brutus",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Julius Caesar",
+            "from": "Julius Caesar",
             "to": "Calphurnia",
             "label": "husband"
+        },
+        {
+            "play_name": "Julius Caesar",
+            "from": "Calphurnia",
+            "to": "Julius Caesar",
+            "label": "wife"
+        },
+        {
+            "play_name": "Julius Caesar",
+            "from": "Julius Caesar",
+            "to": "Octavius",
+            "label": "uncle"
         },
         {
             "play_name": "Julius Caesar",
@@ -397,8 +697,14 @@
         },
         {
             "play_name": "Julius Caesar",
-            "from": "Lucius",
-            "to": "Marcus Brutus",
+            "from": "Marcus Brutus",
+            "to": "Lucius",
+            "label": "servant"
+        },
+        {
+            "play_name": "Julius Caesar",
+            "from": "Portia",
+            "to": "Lucius",
             "label": "servant"
         },
         {
@@ -409,8 +715,20 @@
         },
         {
             "play_name": "Julius Caesar",
-            "from": "Marcus Brutus",
+            "from": "Portia",
+            "to": "Marcus Brutus",
+            "label": "wife"
+        },
+        {
+            "play_name": "Julius Caesar",
+            "from": "Brutus",
             "to": "Cassius",
+            "label": "brother-in-law"
+        },
+        {
+            "play_name": "Julius Caesar",
+            "from": "Cassius",
+            "to": "Marcus Brutus",
             "label": "brother-in-law"
         },
         {
@@ -442,6 +760,12 @@
             "from": "Antonio",
             "to": "Shylock",
             "label": "enemy"
+        },
+        {
+            "play_name": "The Merchant of Venice",
+            "from": "Bassanio",
+            "to": "Antonio",
+            "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
@@ -517,15 +841,45 @@
         },
         {
             "play_name": "The Merchant of Venice",
+            "from": "Jessica",
+            "to": "Shylock",
+            "label": "daughter"
+        },
+        {
+            "play_name": "The Merchant of Venice",
+            "from": "Jessica",
+            "to": "Lancelet Gobbo",
+            "label": "friend"
+        },
+        {
+            "play_name": "The Merchant of Venice",
             "from": "Tubal",
             "to": "Shylock",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
+            "from": "Shylock",
+            "to": "Tubal",
+            "label": "friend"
+        },
+        {
+            "play_name": "The Merchant of Venice",
+            "from": "Lancelet Gobbo",
+            "to": "Old Gobbo",
+            "label": "son"
+        },
+        {
+            "play_name": "The Merchant of Venice",
             "from": "Lancelet Gobbo",
             "to": "Shylock",
-            "label": "servant, ennemy"
+            "label": "servant"
+        },
+        {
+            "play_name": "The Merchant of Venice",
+            "from": "Lancelet Gobbo",
+            "to": "Shylock",
+            "label": "enemy"
         },
         {
             "play_name": "The Merchant of Venice",
@@ -583,13 +937,31 @@
         },
         {
             "play_name": "A Midsummer Night's Dream",
+            "from": "Hermia",
+            "to": "Egeus",
+            "label": "daughter"
+        },
+        {
+            "play_name": "A Midsummer Night's Dream",
+            "from": "Hermia",
+            "to": "Lysander",
+            "label": "lover"
+        },
+        {
+            "play_name": "A Midsummer Night's Dream",
+            "from": "Hermia",
+            "to": "Helena",
+            "label": "friend"
+        },
+        {
+            "play_name": "A Midsummer Night's Dream",
             "from": "Helena",
             "to": "Hermia",
             "label": "friend"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "from": "Demeterius",
+            "from": "Demetrius",
             "to": "Hermia",
             "label": "enemy"
         },
@@ -608,7 +980,13 @@
         {
             "play_name": "A Midsummer Night's Dream",
             "from": "Theseus",
-            "to": "Egeus",
+            "to": "Hippolyta",
+            "label": "bethrothed"
+        },
+        {
+            "play_name": "A Midsummer Night's Dream",
+            "from": "Theseus",
+            "to": "Egus",
             "label": "friend"
         },
         {
@@ -616,6 +994,18 @@
             "from": "Hamlet",
             "to": "Claudius",
             "label": "nephew"
+        },
+        {
+            "play_name": "Hamlet",
+            "from": "Hamlet",
+            "to": "Gertrude",
+            "label": "son"
+        },
+        {
+            "play_name": "Hamlet",
+            "from": "Claudius",
+            "to": "Hamlet",
+            "label": "uncle"
         },
         {
             "play_name": "Hamlet",
@@ -631,6 +1021,18 @@
         },
         {
             "play_name": "Hamlet",
+            "from": "Laertes",
+            "to": "Polonius",
+            "label": "son"
+        },
+        {
+            "play_name": "Hamlet",
+            "from": "Ophelia",
+            "to": "Polonius",
+            "label": "daughter"
+        },
+        {
+            "play_name": "Hamlet",
             "from": "Polonius",
             "to": "Ophelia",
             "label": "father"
@@ -643,8 +1045,20 @@
         },
         {
             "play_name": "Hamlet",
+            "from": "Laertes",
+            "to": "Ophelia",
+            "label": "brother "
+        },
+        {
+            "play_name": "Hamlet",
             "from": "Horatio",
             "to": "Hamlet",
+            "label": "friend"
+        },
+        {
+            "play_name": "Hamlet",
+            "from": "Hamlet",
+            "to": "Horatio",
             "label": "friend"
         },
         {
@@ -658,6 +1072,12 @@
             "from": "Macbeth",
             "to": "Lady Macbeth",
             "label": "husband"
+        },
+        {
+            "play_name": "Macbeth",
+            "from": "Lady Macbeth",
+            "to": "Macbeth",
+            "label": "wife"
         },
         {
             "play_name": "Macbeth",
@@ -679,9 +1099,21 @@
         },
         {
             "play_name": "Macbeth",
+            "from": "Fleance",
+            "to": "Banquo",
+            "label": "son"
+        },
+        {
+            "play_name": "Macbeth",
             "from": "Macduff",
             "to": "Lady Macduff",
             "label": "husband"
+        },
+        {
+            "play_name": "Macbeth",
+            "from": "Lady Macduff",
+            "to": "Macduff",
+            "label": "wife"
         },
         {
             "play_name": "Macbeth",
@@ -691,9 +1123,21 @@
         },
         {
             "play_name": "Macbeth",
+            "from": "Young Siward",
+            "to": "Siward",
+            "label": "son"
+        },
+        {
+            "play_name": "Macbeth",
             "from": "Macduff",
             "to": "Boy",
             "label": "father"
+        },
+        {
+            "play_name": "Macbeth",
+            "from": "Boy",
+            "to": "Macduff",
+            "label": "son"
         },
         {
             "play_name": "Macbeth",
@@ -703,8 +1147,20 @@
         },
         {
             "play_name": "Macbeth",
+            "from": "Malcom",
+            "to": "king Duncan",
+            "label": "son"
+        },
+        {
+            "play_name": "Macbeth",
             "from": "Donalbain",
             "to": "Malcom",
+            "label": "brother"
+        },
+        {
+            "play_name": "Macbeth",
+            "from": "Malcom",
+            "to": "Donalbain",
             "label": "brother"
         },
         {
@@ -734,7 +1190,7 @@
         {
             "play_name": "Macbeth",
             "from": "Macbeth",
-            "to": "Young Siward",
+            "to": "young Siward",
             "label": "killer"
         },
         {
@@ -742,6 +1198,12 @@
             "from": "Macbeth",
             "to": "Boy",
             "label": "killer"
+        },
+        {
+            "play_name": "Macbeth",
+            "from": "Macbeth",
+            "to": "Macduff",
+            "label": "enemy"
         },
         {
             "play_name": "Macbeth",
@@ -757,6 +1219,24 @@
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Juliet",
+            "to": "Romeo",
+            "label": "lover"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Juliet",
+            "to": "Lady Capulet",
+            "label": "daughter"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Juliet",
+            "to": "Lord Capulet",
+            "label": "daughter"
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Lord Capulet",
             "to": "Juliet",
             "label": "father"
@@ -769,9 +1249,21 @@
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Lady Capulet",
+            "to": "Lord Capulet",
+            "label": "wife"
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Lord Capulet",
             "to": "Lady Capulet",
             "label": "husband"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Escalus",
+            "to": "Paris",
+            "label": "family"
         },
         {
             "play_name": "Romeo and Juliet",
@@ -818,8 +1310,38 @@
         {
             "play_name": "Romeo and Juliet",
             "from": "Lord Montague",
+            "to": "Lord Capulet",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Lord Montague",
+            "to": "Lady Capulet",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Lady Montague",
+            "to": "Lord Capulet",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Lady Montague",
+            "to": "Lady Capulet",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Lord Montague",
             "to": "Lady Montague",
             "label": "husband"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Lady Montague",
+            "to": "Lord Montague",
+            "label": "wife"
         },
         {
             "play_name": "Romeo and Juliet",
@@ -835,6 +1357,18 @@
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Romeo",
+            "to": "Lady Montague",
+            "label": "son"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Romeo",
+            "to": "Lord Montague",
+            "label": "son"
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Mercutio",
             "to": "Romeo",
             "label": "friend"
@@ -847,14 +1381,38 @@
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Romeo",
+            "to": "Mercutio",
+            "label": "friend"
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Benvolio",
             "to": "Lord Montague",
             "label": "nephew"
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Lord Montague",
+            "to": "Benvolio",
+            "label": "uncle"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Benvolio",
+            "to": "Mercutio",
+            "label": "friend"
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Benvolio",
             "to": "Romeo",
+            "label": "cousin"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Romeo",
+            "to": "Benvolio",
             "label": "cousin"
         },
         {
@@ -865,14 +1423,32 @@
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Escalus",
+            "to": "Mercutio",
+            "label": "family"
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Tybalt",
             "to": "Lady Capulet",
             "label": "nephew"
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Lady Capulet",
+            "to": "Tybalt",
+            "label": "aunt "
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Tybalt",
             "to": "Juliet",
+            "label": "cousin"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Juliet",
+            "to": "Tybalt",
             "label": "cousin"
         },
         {
@@ -885,6 +1461,12 @@
             "play_name": "Romeo and Juliet",
             "from": "Tybalt",
             "to": "Lady Montague",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Tybalt",
+            "to": "Romeo",
             "label": "enemy"
         },
         {
@@ -933,6 +1515,12 @@
             "play_name": "Romeo and Juliet",
             "from": "Sampson",
             "to": "Gregory",
+            "label": "friend"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Gregory",
+            "to": "Sampson",
             "label": "friend"
         },
         {

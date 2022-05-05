@@ -103,10 +103,6 @@ nav li {
 	height: 200px;
 	line-height: 18pt;
 	background-image: url('../images/curtains-theater-closed.png');
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
 }
 
 .presentation h2{

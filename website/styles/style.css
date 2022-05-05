@@ -96,7 +96,7 @@ nav li {
 
 .presentation {
 	width:inherit; 
-	height: inherit;
+	height: 100%;
 	position: absolute;
 	margin: auto;
 	margin-top: 100px;
@@ -140,7 +140,7 @@ nav li {
 
 .network {
 	width:inherit; 
-	height: inherit;
+	height: 100%;
 	position: absolute;
 	margin: auto;
 	margin-top: 10px;
@@ -169,8 +169,6 @@ nav li {
 	position: absolute;
 	margin: auto;
 	margin-top: 100px;
-	margin-left: 50px;
-	
 	padding: 1rem 2rem; 
 	height: 200px;
 	line-height: 18pt;

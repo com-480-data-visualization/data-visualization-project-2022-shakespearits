@@ -77,7 +77,7 @@ As a source of inspiration we take the following websites:
 
 **10% of the final grade**
 
-The skeleton of our website can be find [here](https://com-480-data-visualization.github.io//data-visualization-project-2022-shakespearits/)
+The skeleton of our website can be find [here](https://com-480-data-visualization.github.io/data-visualization-project-2022-shakespearits/website/index.html)
 
 ## :clap: Milestone 3 (3rd June, 5pm)
 

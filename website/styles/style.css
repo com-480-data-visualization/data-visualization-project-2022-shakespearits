@@ -28,7 +28,7 @@ body h1 {
 
 /* Top navigation bar */
 nav {
-	width: inherit;
+	width: 100%;
 	padding-top: 2rem;
 	padding-bottom: 2rem;
 }

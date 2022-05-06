@@ -20,6 +20,9 @@ anychart.data.loadJsonFile("../data/character_links.json", function (data) {
     // set the over gap of edges
     chart.interactivity().hoverGap(30);
 
+    // disable zoom on mouse wheel
+    chart.interactivity().zoomOnMouseWheel(false);
+
     // set size of the chart
     chart.bounds(0, 0, '100%', '100%'); 
     

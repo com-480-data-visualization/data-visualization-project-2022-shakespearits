@@ -95,22 +95,36 @@ nav li {
 }
 
 .presentation {
-	width: 100%;
+	width:inherit; 
+	height: 100%;
 	position: absolute;
 	margin: auto;
 	margin-top: 100px;
-	padding: 1rem 2rem; 
-	height: 200px;
+	padding: 1rem 2rem;
 	line-height: 18pt;
 	background-image: url('../images/curtains-theater-closed.png');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 .presentation h2{
+	margin-left: 20px;
 	font-size: 2rem;
 	color: rgb(255, 255, 255);
 	font-family: fantasy;
  }
 
+.presentation h4{
+	color: rgb(255, 255, 255);
+}
+
+.presentation p{
+	color: rgb(255, 255, 255);
+	width: inherit;
+	position: relative;
+}
 
 /*--dropdown button--*/
 #networkselection{
@@ -124,17 +138,13 @@ nav li {
 }
 
 .network {
-	background-image: url('../images/curtains-theater.png') no-repeat center center fixed;
-	width: 100%;
+	width:inherit; 
+	height: 100%;
 	position: absolute;
 	margin: auto;
-	margin-top: 100px;
+	margin-top: 10px;
 	margin-left: auto;
-	margin-right: auto;
-	margin-bottom :2px;
-	padding: 1rem 2rem; 
-	height: 100%;
-	line-height: 18pt;
+	margin-right: 30px;
 }
 
 .network h2 {
@@ -144,16 +154,17 @@ nav li {
 }
 
 #graph {
-	width: 100%;
-	height:100%;
+	width: inherit;
+	height:inherit;
 	margin-top: 50px;
 	margin-left: 50px;
+	margin-right: 50px;
 	position: absolute;
 }
 
 .aboutUs{
 	background-color: rgb(245, 197, 209);
-	width: 100%;
+	width: inherit;
 	position: absolute;
 	margin: auto;
 	margin-top: 100px;

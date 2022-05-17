@@ -56,7 +56,7 @@ anychart.data.loadJsonFile("../data/character_links.json", function (data) {
 
     //configure tooltips of nodes
     chart.nodes().tooltip().useHtml(true);
-    chart.nodes().tooltip().format("<span style='font-weight:bold'>{%id}</span>");
+    chart.nodes().tooltip().format("<span style='font-weight:bold'>Name: {%id}</span><br>span style='font-weight:bold'>Role: {%role}</span><br>span style='font-weight:bold'>Description: {%description}</span><br>");
 
     // set the size of nodes
     chart.nodes().normal().height(25);
@@ -85,7 +85,7 @@ anychart.data.loadJsonFile("../data/character_links.json", function (data) {
     chart.nodes().selected().stroke("#333333", 3);
 
     // draw the chart
-    chart.container("graph").draw();
+    chart.container("#graph").draw();
 
     function PlayOfInterest (data, play_of_interest) {
         let filteredplay = {};
@@ -144,7 +144,7 @@ anychart.data.loadJsonFile("../data/character_links.json", function (data) {
     // function that update the chart
     function updateChart(selectedPlay) {
         // chart with the new data
-        chart.data(PlayOfInterest_bis(data, selectedPlay));
+        chart.data(PlayOfInterest(data, selectedPlay));
         chart.title("Network Graph showing the links between characters in the play " + "'" + selectedPlay + "'");
     }
 
@@ -155,5 +155,6 @@ anychart.data.loadJsonFile("../data/character_links.json", function (data) {
 
         // run the updateChart function with this selected play
         updateChart(selectedPlay);
-    });        
+    }); 
+    
 });

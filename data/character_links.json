@@ -40,7 +40,7 @@
             "id": "Pindarus",
             "fill": "rgb(100, 149, 237)",
             "role": "slave",
-            "description": NaN
+            "description": " "
         },
         {
             "play_name": "Julius Caesar",
@@ -54,21 +54,21 @@
             "id": "Lucius",
             "fill": "rgb(100, 149, 237)",
             "role": "servant to Marcus Brutus",
-            "description": NaN
+            "description": " "
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "The Prince of Morocco",
             "fill": "rgb(100, 149, 237)",
             "role": "suitor to Portia",
-            "description": NaN
+            "description": " "
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "The Prince of Arragon",
             "fill": "rgb(100, 149, 237)",
             "role": "suitor to Portia",
-            "description": NaN
+            "description": " "
         },
         {
             "play_name": "The Merchant of Venice",
@@ -88,28 +88,28 @@
             "play_name": "The Merchant of Venice",
             "id": "Solanio",
             "fill": "rgb(100, 149, 237)",
-            "role": NaN,
-            "description": NaN
+            "role": " ",
+            "description": " "
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Salarino",
             "fill": "rgb(100, 149, 237)",
-            "role": NaN,
-            "description": NaN
+            "role": " ",
+            "description": " "
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Gratiano",
             "fill": "rgb(100, 149, 237)",
-            "role": NaN,
+            "role": " ",
             "description": "Gratiano is a Venetian man who is friends with Bassanio and Antonio. He is renowned for his wild and boisterous behaviour and heavily insults Shylock at the start of the play. Gratiano accompanies Bassanio to Belmont and falls in love with Nerissa, Portia\u2019s waiting woman."
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Lorenzo",
             "fill": "rgb(100, 149, 237)",
-            "role": NaN,
+            "role": " ",
             "description": "Lorenzo is a Venetian and a Christian, who is friends with Bassiano, Gratiano and Antonio. Lorenzo is in love with Jessica, Shylock\u2019s daughter and helps her to escape from her father\u2019s house so that they can run away and marry."
         },
         {
@@ -138,28 +138,28 @@
             "id": "Old Gobbo",
             "fill": "rgb(100, 149, 237)",
             "role": "blind Lancelet's father",
-            "description": NaN
+            "description": " "
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Leonardo",
             "fill": "rgb(100, 149, 237)",
             "role": "servant to Bassanio",
-            "description": NaN
+            "description": " "
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Balthasar",
             "fill": "rgb(100, 149, 237)",
             "role": "servant to Portia",
-            "description": NaN
+            "description": " "
         },
         {
             "play_name": "The Merchant of Venice",
             "id": "Stephano",
             "fill": "rgb(100, 149, 237)",
             "role": "servant to Portia",
-            "description": NaN
+            "description": " "
         },
         {
             "play_name": "The Merchant of Venice",
@@ -334,7 +334,7 @@
             "id": "Donalbain",
             "fill": "rgb(100, 149, 237)",
             "role": "king Duncan\u2019s son, Malcolm\u2019s younger brother.",
-            "description": NaN
+            "description": " "
         },
         {
             "play_name": "Macbeth",
@@ -376,21 +376,21 @@
             "id": "Siward",
             "fill": "rgb(100, 149, 237)",
             "role": "earl of Northumberland, General of the English Forces",
-            "description": NaN
+            "description": " "
         },
         {
             "play_name": "Macbeth",
             "id": "Young Siward",
             "fill": "rgb(100, 149, 237)",
             "role": "Siward's son",
-            "description": NaN
+            "description": " "
         },
         {
             "play_name": "Macbeth",
             "id": "Boy",
             "fill": "rgb(100, 149, 237)",
             "role": "son of Macduff",
-            "description": NaN
+            "description": " "
         },
         {
             "play_name": "Romeo and Juliet",
@@ -522,8 +522,15 @@
             "play_name": "Romeo and Juliet",
             "id": "Rosaline",
             "fill": "rgb(255, 182, 193)",
-            "role": NaN,
+            "role": " ",
             "description": "The woman with whom Romeo is infatuated at the beginning of the play. Rosaline never appears onstage, but it is said by other characters that she is very beautiful and has sworn to live a life of chastity."
+        },
+        {
+            "play_name": "Othello",
+            "id": "Gratiano",
+            "fill": "rgb(100, 149, 237)",
+            "role": "Brabantio's  brother",
+            "description": " "
         }
     ],
     "edges": [

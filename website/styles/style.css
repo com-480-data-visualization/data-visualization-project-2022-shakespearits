@@ -154,11 +154,15 @@ nav li {
 }
 
 #graph {
-	width: 550px;
+	width: 100%;
 	margin-top: 50px;
-	margin-left: 150px;
-	margin-right: 50px;
+	margin-left: 350px;
+	margin-right: 350px;
 	position: absolute;
+}
+
+.tooltip {
+	background-color: rgb(218, 25, 70)
 }
 
 .aboutUs{
@@ -177,3 +181,4 @@ nav li {
 	color: rgb(218, 25, 70);
 	font-family: fantasy;
 }
+

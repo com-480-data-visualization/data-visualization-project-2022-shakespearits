@@ -48,7 +48,7 @@ anychart.data.loadJsonFile("../data/character_links.json", function (data) {
 
     //configure tooltips of nodes
     chart.nodes().tooltip().useHtml(true);
-    chart.nodes().tooltip().format("<span style='font-weight:bold'>Name: {%id}</span><br><span style='font-weight:bold'>Role: {%role}</span><br><span style='font-weight:bold'>Description: {%description}></span>");
+    chart.nodes().tooltip().format("<span style='font-weight:bold'>Name: </span><br><span>{%id}</span><br><br><span style='font-weight:bold'>Role: </span><br><span>{%role}</span><br><br><span style='font-weight:bold'>Description: </span><br><span>{%description}</span>");
 
     // set the size of nodes
     chart.nodes().normal().height(25);

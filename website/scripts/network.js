@@ -5,16 +5,8 @@ anychart.data.loadJsonFile("../data/character_links.json", function (data) {
     // create a chart from the loaded data according to specific play
     let play_focus = "A Midsummer Night's Dream";
 
-    let filteredplay = {};
-    filteredplay["nodes"] = data.nodes.filter( function(d) {
-        return (d.play_name == play_focus);
-    })
-    filteredplay["edges"] = data.edges.filter( function(d) {
-        return (d.play_name == play_focus);
-    })
-    console.log(filteredplay);
     // create a chart from the loaded data
-    play = PlayOfInterest_bis(data, play_focus);
+    play = PlayOfInterest(data, play_focus);
     var chart = anychart.graph(play);
 
     // set the over gap of edges
@@ -88,19 +80,6 @@ anychart.data.loadJsonFile("../data/character_links.json", function (data) {
     chart.container("graph").draw();
 
     function PlayOfInterest (data, play_of_interest) {
-        let filteredplay = {};
-        filteredplay["nodes"] = data.nodes.filter( function(d) {
-            return (d.play_name == play_of_interest);
-        })
-        filteredplay["edges"] = data.edges.filter( function(d) {
-            return (d.play_name == play_of_interest);
-        })
-        // return the filtered data that contains the nodes and the edges specific to the play of interest
-        console.log(filteredplay);
-        return filteredplay;
-    }
-
-    function PlayOfInterest_bis (data, play_of_interest) {
         let play = {};
 
         let nodes = [];

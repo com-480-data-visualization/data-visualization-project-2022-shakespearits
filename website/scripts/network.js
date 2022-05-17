@@ -85,7 +85,7 @@ anychart.data.loadJsonFile("../data/character_links.json", function (data) {
     chart.nodes().selected().stroke("#333333", 3);
 
     // draw the chart
-    chart.container("#graph").draw();
+    chart.container("graph").draw();
 
     function PlayOfInterest (data, play_of_interest) {
         let filteredplay = {};

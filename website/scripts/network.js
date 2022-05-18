@@ -61,10 +61,7 @@ anychart.data.loadJsonFile("../data/character_links.json", function (data) {
     chart.nodes().selected().fill("{%fill}");
 
     // set the background
-    chart.background().fill({
-        src: "images/shakespeare.png",
-        mode: "fit"
-      });
+    chart.background().fill("rgb(245, 197, 209)");
     
     // set the shape of the nodes
     chart.nodes().hovered().shape("star5");

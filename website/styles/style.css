@@ -74,7 +74,6 @@ nav li {
 }
 
 .title {
-	width: 100%;
 	display: flex;
 	margin-left: 3rem;
 
@@ -187,6 +186,7 @@ nav li {
 	width: inherit;
 	position: relative;
 	font-family: fantasy;
+	margin-left: 50px;
 }
 
 .question{

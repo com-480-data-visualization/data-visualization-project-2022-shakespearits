@@ -173,8 +173,6 @@ nav li {
 	margin-top: 10px;
 	margin-left: auto;
 	margin-right: 30px;
-	background-image: url('../images/paper.png');
-	background-size: cover;
 }
 
 .quizSection h2{
@@ -191,6 +189,8 @@ nav li {
 	position: relative;
 	font-family: fantasy;
 	margin-left: 50px;
+	background-image: url('../images/paper.png');
+	background-size: cover;
 }
 
 .question{

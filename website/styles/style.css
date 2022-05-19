@@ -65,6 +65,15 @@ nav li {
 	background-color: rgb(218, 25, 70);
 }
 
+menu a {
+	color: white;
+	text-decoration: none;
+}
+
+menu a:hover {
+	color: rgb(0, 0, 0); 
+}
+
 #icon{
 	width: 85px;
 	height: 65px;

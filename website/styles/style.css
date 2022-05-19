@@ -236,6 +236,78 @@ nav li {
 	font-family: fantasy;
 }
 
+div.team {
+	display: inline-block;
+	text-align: center;
+}
+
+div.member {
+	display: inline-block;
+	text-align: center;
+}
+
+div.member-image {
+	position: relative;
+	text-align: center;
+	margin-left: 5vw;
+	margin-right: 5vw;
+}
+
+.meetTeam h1 {
+	color: #282828;
+	font-family: "heavitas";
+	font-size: 1.4vw;
+	font-weight: 100;
+}
+
+.meetTeam h2 {
+	margin-top: 5vh;
+	text-align: center;
+	font-family: "ubuntu-bold";
+	font-size: 1vw;
+	color: #282828;
+}
+
+.meetTeam p {
+	position: relative;
+	font-family: "ubuntu-light";
+	font-weight: 100;
+	font-size: 1vw;
+	padding-bottom: 5vh;
+}
+
+img.img-team {
+	position: relative;
+	width: 10vw;
+	height: 10vw;
+	border-radius: 50%;
+}
+
+img.img-bg {
+	position: absolute;
+	left: 0;
+	width: 10vw;
+	height: 10vw;
+}
+
+img.res-icon-gh {
+	position: absolute;
+	top: 50%;
+	left: 15%;
+	transform: translate(0, -50%);
+	width: 3vw;
+	height: 3vw;
+}
+
+img.res-icon-li {
+	position: absolute;
+	right: 15%;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 3vw;
+	height: 3vw;
+}
+
 #footer {
     color: white;
     font-size: 14px;

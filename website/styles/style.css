@@ -186,7 +186,7 @@ menu a:hover {
 	background-size: cover;
 }
 
-.quizSection h2{
+.quizPart h2{
 	font-size: 2rem;
 	color: rgb(218, 25, 70);
 	font-family: fantasy;
@@ -195,7 +195,7 @@ menu a:hover {
 	background-color: white;
 }
 
-.quizSection p{
+.quizPart p{
 	color: rgb(218, 25, 70);
 	width: inherit;
 	position: relative;

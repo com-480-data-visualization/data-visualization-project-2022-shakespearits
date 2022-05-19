@@ -151,6 +151,8 @@ nav li {
 	font-size: 2rem;
 	color: rgb(218, 25, 70);
 	font-family: fantasy;
+	position: absolute;
+	margin-left: 50px;
 }
 
 #graph {

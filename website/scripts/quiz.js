@@ -81,6 +81,42 @@ var myQuestions = [
         correctAnswer: 'c'
     },
     {
+      question: "Plays by Shakespeare can be divided into three categories: tragedy, comedy, and …",
+      answers: {
+        a: 'Music',
+        b: 'Epic',
+        c: 'History'
+      },
+      correctAnswer: 'c'
+    },
+    {
+      question: "Which of the following is known as the Scottish play?",
+      answers: {
+        a: 'King Lear',
+        b: 'Othello',
+        c: 'Macbeth'
+      },
+      correctAnswer: 'c'
+    },
+    {
+      question: "How many children did William Shakespeare have??",
+      answers: {
+        a: '3',
+        b: '4',
+        c: '5'
+      },
+      correctAnswer: 'a'
+    },
+    {
+      question: "The plot of “Macbeth” was inspired by which historical event?",
+      answers: {
+        a: 'Wars of the Roses',
+        b: 'The Gunpowder Plot',
+        c: 'The Black Death'
+      },
+      correctAnswer: 'b'
+    },
+    {
       question: "The words “to be or not to be” is made by which fictional character in a Shakespeare’s play?",
       answers: {
         a: 'Hamlet',
@@ -88,7 +124,17 @@ var myQuestions = [
         c: 'Juliet Capulet'
       },
       correctAnswer: 'a'
+    },
+    {
+      question: "Which of the following lines was not written by William Shakespeare? (If you've got this one your're an expert!)",
+      answers: {
+        a: 'If music the be the food of love, play on',
+        b: 'All that glitters is not gold',
+        c: 'Hell hath no fury like a woman scorned'
+      },
+      correctAnswer: 'c'
     }
+
 ]
 
 var quizContainer = document.getElementById('quiz');
@@ -156,12 +202,12 @@ function generateQuiz(questions, quizContainer, resultsContainer, submitButton){
         numCorrect++;
         
         // color the answers green
-        answerContainers[i].style.color = 'lightgreen';
+        answerContainers[i].style.color = 'rgb(24, 171, 21)';
       }
       // if answer is wrong or blank
       else{
         // color the answers red
-        answerContainers[i].style.color = 'red';
+        answerContainers[i].style.color = 'rgb(218, 25, 70)';
       }
     }
 

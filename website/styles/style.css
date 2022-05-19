@@ -106,6 +106,7 @@ nav li {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	opacity: 0.5;
 }
 
 .presentation h2{
@@ -123,6 +124,7 @@ nav li {
 	color: rgb(255, 255, 255);
 	width: inherit;
 	position: relative;
+	font-family: fantasy;
 }
 
 /*--dropdown button--*/
@@ -191,16 +193,18 @@ nav li {
 
 .question{
   font-weight: 600;
+  font-family: fantasy;
   margin-left: 50px;
 }
 
 .answers {
     margin-bottom: 20px;
+	font-family: fantasy;
 	margin-left: 50px;
 }
 
 #submit{
-  font-family: sans-serif;
+  font-family: fantasy;
   font-size: 20px;
   background-color: rgb(218, 25, 70);
   color: #fff;
@@ -233,11 +237,16 @@ nav li {
 }
 
 #footer {
-    background: rgb(218, 25, 70)#f7f8f9;
     color: white;
     font-size: 14px;
     text-align: center;
     padding: 30px 0;
+	width:auto;
+	height: 100px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	background-color: rgb(218, 25, 70);
 }
 
 #footer h2 {

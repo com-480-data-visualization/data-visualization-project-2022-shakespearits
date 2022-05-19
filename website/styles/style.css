@@ -178,6 +178,8 @@ nav li {
 	font-size: 2rem;
 	color: rgb(218, 25, 70);
 	font-family: fantasy;
+	position: absolute;
+	margin-left: 50px;
 }
 
 .quizSection p{
@@ -189,10 +191,12 @@ nav li {
 
 .question{
   font-weight: 600;
+  margin-left: 50px;
 }
 
 .answers {
     margin-bottom: 20px;
+	margin-left: 50px;
 }
 
 #submit{
@@ -205,6 +209,7 @@ nav li {
   padding: 20px;
   cursor: pointer;
   margin-bottom: 20px;
+  margin-left: 50px;
 }
 
 #submit:hover{

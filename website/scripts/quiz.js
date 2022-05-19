@@ -18,7 +18,7 @@ var myQuestions = [
         correctAnswer: 'b'
     },
     {
-        question: "What is the longest play of Shakespeare, with over 4,000 lines??",
+        question: "What is the longest play of Shakespeare, with over 4,000 lines?",
         answers: {
           a: 'Hamlet',
           b: 'Macbeth',

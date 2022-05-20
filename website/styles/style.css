@@ -175,7 +175,7 @@ menu a:hover {
 }
 
 .quizSection{
-	width:auto; 
+	width:100%; 
 	height: auto;
 	position: relative;
 	margin: auto;
@@ -250,6 +250,7 @@ menu a:hover {
 }
 
 div.meetTeam {
+	width: 100%;
 	display: inline-block;
 	text-align: center;
 	position: absolute;

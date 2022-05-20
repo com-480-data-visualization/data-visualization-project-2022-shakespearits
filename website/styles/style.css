@@ -184,6 +184,7 @@ menu a:hover {
 	margin-right: 30px;
 	background-image: url('../images/paper.png');
 	background-size: cover;
+	opacity: 0.5 ;
 }
 
 .quizPart h2{

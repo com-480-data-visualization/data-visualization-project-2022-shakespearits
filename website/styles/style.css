@@ -249,13 +249,6 @@ menu a:hover {
 	font-family: fantasy;
 }
 
-div.meetTeam {
-	width: 100%;
-	display: inline-block;
-	text-align: center;
-	position: absolute;
-}
-
 div.member {
 	display: inline-block;
 	text-align: center;
@@ -271,28 +264,30 @@ div.member-image {
 .team {
 	position: relative;
 	text-align: center;
+	width: 100%;
+	display: inline-block;
 }
 
-.meetTeam h1 {
+.team h1 {
 	color: #282828;
 	font-family: fantasy;
-	font-size: 1.4vw;
+	font-size: 2.4vw;
 	font-weight: 100;
 }
 
-.meetTeam h2 {
+.team h2 {
 	margin-top: 5vh;
 	text-align: center;
 	font-family: fantasy;
-	font-size: 1vw;
+	font-size: 2vw;
 	color: #282828;
 }
 
-.meetTeam p {
+.team p {
 	position: relative;
 	font-family: fantasy;
 	font-weight: 100;
-	font-size: 1vw;
+	font-size: 2vw;
 	padding-bottom: 5vh;
 }
 
@@ -356,8 +351,10 @@ img.res-icon-li {
     font-style: italic;
     padding: 0;
     margin: 0 0 40px 0;
+	text-align: center;
 }
 
 #footer .copyright {
     margin: 0 0 5px 0;
+	text-align: center;
 }

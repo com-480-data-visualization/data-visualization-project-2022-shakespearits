@@ -134,6 +134,7 @@ menu a:hover {
 	width: inherit;
 	position: relative;
 	font-family: fantasy;
+	opacity: 0;
 }
 
 /*--dropdown button--*/
@@ -351,7 +352,7 @@ img.res-icon-li {
     font-size: 15;
     font-style: italic;
     padding: 0;
-    margin: 0 0 40px 0;
+    margin: 40px 0 40px 0;
 	text-align: center;
 }
 

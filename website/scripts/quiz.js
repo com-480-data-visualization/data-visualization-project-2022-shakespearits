@@ -165,6 +165,7 @@ function generateQuiz(questions, quizContainer, resultsContainer, submitButton){
             + '<input type="radio" name="question'+i+'" value="'+letter+'">'
             + letter + ': '
             + questions[i].answers[letter]
+            + '<br>'
           + '</label>'
         );
       }

@@ -118,8 +118,6 @@ menu a:hover {
 	line-height: 20pt;
 	background-color: rgb(255, 255, 255);
 	text-align: center;
-	justify-items: center;
-	
 }
 
 .presentation h2{
@@ -136,7 +134,7 @@ menu a:hover {
 	color: rgb(180, 135, 95);
 	font-family: fantasy;
 	font-size: 1.5rem;
-	position: relative;
+	position: inherit;
 }
 
 .presentation p{
@@ -144,15 +142,15 @@ menu a:hover {
 	position: relative;
 	font-family: fantasy;
 	float: left;
-	top: 50px;
-	justify-content: center;
+	top: 30px;
+	justify-items: center;
 	text-align: center;
 	background-color: brown;
 	width: 600px;
 	border-radius: 1.5rem;
 	margin: auto;
-	margin-top: 30px;
-	
+	margin-top: 30px;	
+	margin-left: 50px;
 }
 
 .presentation #portrait{

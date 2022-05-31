@@ -1,21 +1,26 @@
 /*
 Make the document fill the whole viewport, this overrides any weird defaults that browsers might have.
 */
-*{
-	margin: 0;
-	padding: 0;
+* {
+	box-sizing: border-box;
 }
 
-html {
-  height:100%; 
-  background-color: rgb(180, 135, 95);
+html, body {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+html{
+	background-color: rgb(180, 135, 95);
 }
 
 
 /* Default font and size */
 body {
-	height:100%; 
-	width: 100%;
+	width: 100vw;
+	height: 100vh;
 	padding:0;
 	top: 0;
 	bottom: 0;
@@ -110,53 +115,72 @@ menu a:hover {
 	font-family: fantasy;
 }
 
-.presentation {
-	width:100%; 
-	height: 100%;
+.container {
 	position: relative;
-	margin: auto;
-	line-height: 20pt;
 	background-color: rgb(255, 255, 255);
 	text-align: center;
+	margin: 20px;
 }
 
-.presentation h2{
+.container h2{
 	margin-left: 20px;
 	font-size: 2rem;
 	color: rgb(180, 135, 95);
 	font-family: fantasy;
 	position: relative;
-	top: 30px;
-	
- }
+	top: 30px;	
+}
 
-.presentation h4{
+.sub-container{
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+	position: relative;
+	align-items: center;
+}
+
+.sub-sub-container{
+	background-color: #fff;
+	position: relative;
+	align-items: center;
+	width: auto;
+	margin: 50px;
+}
+
+.sub-sub-container h4{
 	color: rgb(180, 135, 95);
 	font-family: fantasy;
 	font-size: 1.5rem;
 	position: inherit;
 }
 
-.presentation p{
+.sub-sub-container h5{
+	color: rgb(180, 135, 95);
+	font-family: fantasy;
+	font-size: 0.75rem;
+	position: inherit;
+}
+
+.sub-sub-container p{
 	color: rgb(180, 135, 95);
 	position: relative;
 	font-family: fantasy;
-	top: 30px;
 	justify-items: center;
 	text-align: center;
-	background-color: brown;
-	width: 600px;
-	border-radius: 1.5rem;
+	width: 700px;
 	margin: auto;
-	margin-top: 30px;	
 	margin-left: 50px;
+	padding: 10px;
+	background-color: brown;
+	border-radius: 1.5rem;
 }
 
-.presentation #portrait{
+#portrait{
 	display: flex;
 	justify-content: center;
 	position: relative;
 	top: 50px;
+	margin: 70px;
 }
 
 /*--------------------------------------------------------------
@@ -292,7 +316,7 @@ menu a:hover {
 
 #graph {
 	width: 900px;
-	height: inherit;
+	height: 100%;
 	margin-left: 150px;
 	position: absolute;
 	top: 40px;

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en-fr">
+
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <title>Shakespearits: Character Relationships</title>
+  <meta name="description" content="Link network of characters in some Shakespeare's plays">
+  <meta name="author" content="M-A. Gillyboeuf, D. Papadopoulos, P. Rescala">
+	<script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+  <!-- Load d3.js -->
+  <script src="https://d3js.org/d3.v5.js"></script>
+   <!-- Anychart -->
+   <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-core.min.js"></script>
+   <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-graph.min.js"></script>
+   <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-data-adapter.min.js"></script>
+   <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-ui.min.js"></script>
+   <link rel="stylesheet" type="text/css" href="https://cdn.anychart.com/releases/8.11.0/css/anychart-ui.min.css?hcode=a0c21fc77e1449cc86299c5faa067dc4"/>
+   <link rel="stylesheet" type="text/css" href="https://cdn.anychart.com/releases/8.11.0/fonts/css/anychart-font.min.css"/>
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+  <!-- progress barstle -->
+  <link rel="stylesheet" href="css/css-circular-prog-bar.css">
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Raleway:400,600&display=swap" rel="stylesheet">
+  <!-- font wesome stylesheet -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="css/css-circular-prog-bar.css">
+  <!--Local style-->
+  <link href="styles/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body class="sub_page">
+  <div class="menu">
+    <header class="title">
+      <img id="icon" src="./images/logo-theater.png" alt="logo theatre">
+      <h1> Shakespearits</h1>
+    </header>
+
+    <nav>
+      <ul class="navmenu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="network.html">Character relationship</a></li>
+        <li><a href="personalities.html">Character Personalities</a></li>
+        <li><a href="topics.html">Play Topics</a></li>
+        <li><a href="quiz.html">Quiz</a></li>
+        <li><a href="about.html">About us</a></li>
+      </ul>
+    </nav>
+  </div>
+  <!-- End nav section -->
+
+  <div class="common_style">
+
+    <!-- select section -->
+    <section class="select_section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <div id='graph'>
+              <script src="scripts/network.js"></script>
+            </div>
+
+          </div>
+          <div class="col-md-6">
+            <div class="select_detail-box">
+              <h5>Character links</h5>
+              <h3>
+                What about the network?
+              </h3>
+              <p>
+                The below network shows the different links and relationship between characters of a 
+                chosen play. The relationship appears on hover on the edges.
+                Moreover, The name of a character is displayed under each node. On hover on one node, a small window 
+                appears that contains a brief description on the character.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </section>
+
+
+    <!-- end select section -->
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0-beta1/js/bootstrap.min.js" integrity="sha512-Hqe3s+yLpqaBbXM6VA0cnj/T56ii5YjNrMT9v+us11Q81L0wzUG0jEMNECtugqNu2Uq5MSttCg0p4KK0kCPVaQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+</body>
+
+</html>
+

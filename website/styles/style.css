@@ -442,15 +442,14 @@ menu a:hover {
 	margin-right: 5vw;
 }
 
-.aboutSection .team {
+.team {
 	position: relative;
 	text-align: center;
-	width: 100%;
 	margin-top: 50px;
 	display: inline-block;
 }
 
-.aboutSection .team h1 {
+.team h1 {
 	font-size: 2rem;
 	color: rgb(220, 32, 32);
 	margin-top: 20px;
@@ -458,7 +457,7 @@ menu a:hover {
 	font-family: fantasy;
 }
 
-.aboutSection.team h2 {
+.team h2 {
 	margin-top: 5vh;
 	text-align: center;
 	font-family: fantasy;
@@ -466,7 +465,7 @@ menu a:hover {
 	color: #282828;
 }
 
-.aboutSection.team p {
+.team p {
 	position: relative;
 	font-family: fantasy;
 	font-weight: 100;

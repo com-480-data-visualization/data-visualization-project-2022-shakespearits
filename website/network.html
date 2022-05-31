@@ -40,33 +40,34 @@
       </nav>
     </div>
     <!-- End nav section -->
-    <div class="network">
+    <div class="container">
+
+      <div class="sub-container">
         <h2>Characters's link</h2>
-          <br>
-          <h3>
-            <br>
-            What about the network?
-            <br>
-            <br>
-            <p>
-              The below network shows the different links and relationship between characters of a 
-              chosen play. The relationship appears on hover on the edges.
-            </p>
-            <br>
-            <p>
-              Moreover, The name of a character is displayed under each node. On hover on one node, a small window 
-              appears that contains a brief description on the character.
-            </p>
-            <br>
-          </h3>
-        
-    </div>
-    <div class="network">
-      <div id="networkselection"></div>
-      <div id="graph"></div>
+        <div id="networkselection"></div>
+        <div class="sub-sub-container">
+          <div id="graph"></div>
+        </div>
+      </div>
+
+      <div class="sub-container">
+          <div class="sub-sub-container">
+            <h4>
+              What about the network?
+            </h4>
+              <p>
+                The above network shows the different links and relationship between characters of a 
+                chosen play. The relationship appears on hover on the edges.
+                <br>
+                Moreover, The name of a character is displayed under each node. On hover on one node, a small window 
+                appears that contains a brief description on the character.
+              </p>
+          </div>
+      </div>       
+
     </div>
 
-    <footer>
+  <footer>
       <p>
         <span style='font-weight:bold'>Authors</span>
         <br>
@@ -76,7 +77,7 @@
         <br>
         &copy; Copyright <strong><span>EPFL</span></strong>. All Rights Reserved.
       </p>
-    </footer>
+  </footer>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="scripts/network.js"></script>

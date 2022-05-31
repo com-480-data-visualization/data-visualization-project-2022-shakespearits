@@ -13,7 +13,9 @@ anychart.data.loadJsonFile("../data/character_links.json", function (data) {
     chart.interactivity().hoverGap(30);
 
     //anable scroll on mouse wheel
-    chart.interactivity().scrollOnMouseWheel(true);
+    //chart.interactivity().scrollOnMouseWheel(true);
+
+    chart.interactivity().zoomOnMouseWheel(false);
 
     // set size of the chart
     chart.bounds(0, 0, '100%', '100%'); 

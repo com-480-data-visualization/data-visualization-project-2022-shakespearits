@@ -205,13 +205,6 @@
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "id": "Demeterius",
-            "fill": "rgb(100, 149, 237)",
-            "role": "young gentleman ",
-            "description": "Demetrius is a young gentleman in the court, who used to be in a relationship with Helena. He is now in love with Hermia and has her father\u2019s blessing to marry her. He follows Hermia into the forest when he learns from Helena that she has run away with Lysander. While in the forest he has a magic spell put on him that makes him fall in love with Helena. At the end of the play he recognises that he has loved Helena all along and they get married."
-        },
-        {
-            "play_name": "A Midsummer Night's Dream",
             "id": "Philostrate",
             "fill": "rgb(100, 149, 237)",
             "role": "master of the revels",
@@ -526,19 +519,198 @@
             "description": "The woman with whom Romeo is infatuated at the beginning of the play. Rosaline never appears onstage, but it is said by other characters that she is very beautiful and has sworn to live a life of chastity."
         },
         {
+            "play_name": "King Lear",
+            "id": "King Lear",
+            "fill": "rgb(100, 149, 237)",
+            "role": "King of Britain",
+            "description": "The aging king of Britain and the protagonist of the play. Lear is used to enjoying absolute power and to being flattered, and he does not respond well to being contradicted or challenged. At the beginning of the play, his values are notably hollow\u2014he prioritizes the appearance of love over actual devotion and wishes to maintain the power of a king while unburdening himself of the responsibility. Nevertheless, he inspires loyalty in subjects such as Gloucester, Kent, Cordelia, and Edgar, all of whom risk their lives for him."
+        },
+        {
+            "play_name": "King Lear",
+            "id": "Cordelia",
+            "fill": "rgb(255, 182, 193)",
+            "role": "King Lear's daughter",
+            "description": "Lear\u2019s youngest daughter, disowned by her father for refusing to flatter him. Cordelia is held in extremely high regard by all of the good characters in the play\u2014the king of France marries her for her virtue alone, overlooking her lack of dowry. She remains loyal to Lear despite his cruelty toward her, forgives him, and displays a mild and forbearing temperament even toward her evil sisters, Goneril and Regan. Despite her obvious virtues, Cordelia\u2019s reticence makes her motivations difficult to read, as in her refusal to declare her love for her father at the beginning of the play."
+        },
+        {
+            "play_name": "King Lear",
+            "id": "Goneril",
+            "fill": "rgb(255, 182, 193)",
+            "role": "King Lear's daughter",
+            "description": "Lear\u2019s ruthless oldest daughter and the wife of the duke of Albany. Goneril is jealous, treacherous, and amoral. Shakespeare\u2019s audience would have been particularly shocked at Goneril\u2019s aggressiveness, a quality that it would not have expected in a female character. She challenges Lear\u2019s authority, boldly initiates an affair with Edmund, and wrests military power away from her husband."
+        },
+        {
+            "play_name": "King Lear",
+            "id": "Regan",
+            "fill": "rgb(255, 182, 193)",
+            "role": "King Lear's daughter",
+            "description": "Lear\u2019s middle daughter and the wife of the duke of Cornwall. Regan is as ruthless as Goneril and as aggressive in all the same ways. In fact, it is difficult to think of any quality that distinguishes her from her sister. When they are not egging each other on to further acts of cruelty, they jealously compete for the same man, Edmund."
+        },
+        {
+            "play_name": "King Lear",
+            "id": "Gloucester",
+            "fill": "rgb(100, 149, 237)",
+            "role": "Earl of Gloucester, courtier of King Lear",
+            "description": "A nobleman loyal to King Lear whose rank, earl, is below that of duke. The first thing we learn about Gloucester is that he is an adulterer, having fathered a bastard son, Edmund. His fate is in many ways parallel to that of Lear: he misjudges which of his children to trust. He appears weak and ineffectual in the early acts, when he is unable to prevent Lear from being turned out of his own house, but he later demonstrates that he is also capable of great bravery."
+        },
+        {
+            "play_name": "King Lear",
+            "id": "Edmund",
+            "fill": "rgb(100, 149, 237)",
+            "role": "Gloucester's illegitimate son",
+            "description": "Gloucester\u2019s younger, illegitimate son. Edmund resents his status as a bastard and schemes to usurp Gloucester\u2019s title and possessions from Edgar. He is a formidable character, succeeding in almost all of his schemes and wreaking destruction upon virtually all of the other characters."
+        },
+        {
+            "play_name": "King Lear",
+            "id": "Edgar",
+            "fill": "rgb(100, 149, 237)",
+            "role": "Gloucster's legitamite son and heir, Lear's godson",
+            "description": "Gloucester\u2019s older, legitimate son. Edgar plays many different roles, starting out as a gullible fool easily tricked by his brother, then assuming a disguise as a mad beggar to evade his father\u2019s men, then carrying his impersonation further to aid Lear and Gloucester, and finally appearing as an armored champion to avenge his brother\u2019s treason. Edgar\u2019s propensity for disguises and impersonations makes it difficult to characterize him effectively."
+        },
+        {
+            "play_name": "King Lear",
+            "id": "Kent",
+            "fill": "rgb(100, 149, 237)",
+            "role": "King Lear's Servant",
+            "description": "A nobleman of the same rank as Gloucester who is loyal to King Lear. Kent spends most of the play disguised as a peasant, calling himself \u201cCaius,\u201d so that he can continue to serve Lear even after Lear banishes him. He is extremely loyal, but he gets himself into trouble throughout the play by being extremely blunt and outspoken."
+        },
+        {
+            "play_name": "King Lear",
+            "id": "Albany",
+            "fill": "rgb(100, 149, 237)",
+            "role": "Duke of Albany",
+            "description": "The husband of Lear\u2019s daughter Goneril. Albany is good at heart, and he eventually denounces and opposes the cruelty of Goneril, Regan, and Cornwall. Yet he is indecisive and lacks foresight, realizing the evil of his allies quite late in the play."
+        },
+        {
+            "play_name": "King Lear",
+            "id": "Cornwall",
+            "fill": "rgb(100, 149, 237)",
+            "role": "Duke of Cornwall",
+            "description": "The husband of Lear\u2019s daughter Regan. Unlike Albany, Cornwall is domineering, cruel, and violent, and he works with his wife and sister-in-law Goneril to persecute Lear and Gloucester."
+        },
+        {
+            "play_name": "King Lear",
+            "id": "Fool",
+            "fill": "rgb(100, 149, 237)",
+            "role": "fool",
+            "description": "Lear\u2019s jester, who uses double-talk and seemingly frivolous songs to give Lear important advice."
+        },
+        {
+            "play_name": "King Lear",
+            "id": "Oswald",
+            "fill": "rgb(100, 149, 237)",
+            "role": "Steward to Goneril",
+            "description": "The steward, or chief servant, in Goneril\u2019s house. Oswald obeys his mistress\u2019s commands and helps her in her conspiracies."
+        },
+        {
+            "play_name": "King Lear",
+            "id": "King of France",
+            "fill": "rgb(100, 149, 237)",
+            "role": "King of France",
+            "description": " "
+        },
+        {
+            "play_name": "Othello",
+            "id": "Iago",
+            "fill": "rgb(100, 149, 237)",
+            "role": "Othello's ancient captain",
+            "description": "Othello\u2019s ensign (a job also known as an ancient or standard-bearer), and the villain of the play. Iago is twenty-eight years old. While his ostensible reason for desiring Othello\u2019s demise is that he has been passed over for promotion to lieutenant, Iago\u2019s motivations are never very clearly expressed and seem to originate in an obsessive, almost aesthetic delight in manipulation and destruction."
+        },
+        {
+            "play_name": "Othello",
+            "id": "Desdemona",
+            "fill": "rgb(255, 182, 193)",
+            "role": "Daughter of Brabantio",
+            "description": "The daughter of the Venetian senator Brabanzio. Desdemona and Othello are secretly married before the play begins. While in many ways stereotypically pure and meek, Desdemona is also determined and self-possessed. She is equally capable of defending her marriage, jesting bawdily with Iago, and responding with dignity to Othello\u2019s incomprehensible jealousy."
+        },
+        {
+            "play_name": "Othello",
+            "id": "Othello",
+            "fill": "rgb(100, 149, 237)",
+            "role": "general of the armies of Venice",
+            "description": "The play\u2019s protagonist and hero. A Christian Moor and general of the armies of Venice, Othello is an eloquent and physically powerful figure, respected by all those around him. In spite of his elevated status, he is nevertheless easy prey to insecurities because of his age, his life as a soldier, and his race. He possesses a \u201cfree and open nature,\u201d which his ensign Iago uses to twist his love for his wife, Desdemona, into a powerful and destructive jealousy."
+        },
+        {
+            "play_name": "Othello",
+            "id": "Cassio",
+            "fill": "rgb(100, 149, 237)",
+            "role": "Othello's lieutenant",
+            "description": "Othello\u2019s lieutenant. Cassio is a young and inexperienced soldier, whose high position is much resented by Iago. Truly devoted to Othello, Cassio is extremely ashamed after being implicated in a drunken brawl on Cyprus and losing his place as lieutenant. Iago uses Cassio\u2019s youth, good looks, and friendship with Desdemona to play on Othello\u2019s insecurities about Desdemona\u2019s fidelity."
+        },
+        {
+            "play_name": "Othello",
+            "id": "Roderigo",
+            "fill": "rgb(100, 149, 237)",
+            "role": "Venetian nobleman",
+            "description": "A jealous suitor of Desdemona. Young, rich, and foolish, Roderigo is convinced that if he gives Iago all of his money, Iago will help him win Desdemona\u2019s hand. Repeatedly frustrated as Othello marries Desdemona and then takes her to Cyprus, Roderigo is ultimately desperate enough to agree to help Iago kill Cassio after Iago points out that Cassio is another potential rival for Desdemona."
+        },
+        {
+            "play_name": "Othello",
+            "id": "Brabantio",
+            "fill": "rgb(100, 149, 237)",
+            "role": "Venetian Senator",
+            "description": "Desdemona\u2019s father, a somewhat blustering and self-important Venetian senator. As a friend of Othello, Brabanzio feels betrayed when the general marries his daughter in secret."
+        },
+        {
+            "play_name": "Othello",
+            "id": "Emilia",
+            "fill": "rgb(255, 182, 193)",
+            "role": "Iago's wife",
+            "description": "Iago\u2019s wife and Desdemona\u2019s attendant. A cynical, worldly woman, she is deeply attached to her mistress and distrustful of her husband."
+        },
+        {
+            "play_name": "Othello",
+            "id": "Bianca",
+            "fill": "rgb(255, 182, 193)",
+            "role": "A courtesan (prostitute)",
+            "description": "A courtesan, or prostitute, in Cyprus. Bianca\u2019s favorite customer is Cassio, who teases her with promises of marriage."
+        },
+        {
+            "play_name": "Othello",
+            "id": "Lodovico",
+            "fill": "rgb(100, 149, 237)",
+            "role": "Desdemona's cousin",
+            "description": "One of Brabanzio\u2019s kinsmen, Lodovico acts as a messenger from Venice to Cyprus. He arrives in Cyprus in Act IV with letters announcing that Othello has been replaced by Cassio as governor."
+        },
+        {
+            "play_name": "Othello",
+            "id": "Montano",
+            "fill": "rgb(100, 149, 237)",
+            "role": "Othello's predecesor as governor of Cyprus",
+            "description": "The governor of Cyprus before Othello. We see him first in Act II, as he recounts the status of the war and awaits the Venetian ships."
+        },
+        {
             "play_name": "Othello",
             "id": "Gratiano",
             "fill": "rgb(100, 149, 237)",
             "role": "Brabantio's  brother",
-            "description": " "
+            "description": "Brabanzio\u2019s kinsman who accompanies Lodovico to Cyprus. Amidst the chaos of the final scene, Graziano mentions that Desdemona\u2019s father has died."
         }
     ],
     "edges": [
         {
             "play_name": "Julius Caesar",
             "from": "Julius Caesar",
+            "to": "Marcus Brutus",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Julius Caesar",
+            "from": "Julius Caesar",
             "to": "Calphurnia",
             "label": "husband"
+        },
+        {
+            "play_name": "Julius Caesar",
+            "from": "Calphurnia",
+            "to": "Julius Caesar",
+            "label": "wife"
+        },
+        {
+            "play_name": "Julius Caesar",
+            "from": "Julius Caesar",
+            "to": "Octavius",
+            "label": "uncle"
         },
         {
             "play_name": "Julius Caesar",
@@ -554,8 +726,14 @@
         },
         {
             "play_name": "Julius Caesar",
-            "from": "Lucius",
-            "to": "Marcus Brutus",
+            "from": "Marcus Brutus",
+            "to": "Lucius",
+            "label": "servant"
+        },
+        {
+            "play_name": "Julius Caesar",
+            "from": "Portia",
+            "to": "Lucius",
             "label": "servant"
         },
         {
@@ -566,8 +744,20 @@
         },
         {
             "play_name": "Julius Caesar",
-            "from": "Marcus Brutus",
+            "from": "Portia",
+            "to": "Marcus Brutus",
+            "label": "wife"
+        },
+        {
+            "play_name": "Julius Caesar",
+            "from": "Brutus",
             "to": "Cassius",
+            "label": "brother-in-law"
+        },
+        {
+            "play_name": "Julius Caesar",
+            "from": "Cassius",
+            "to": "Marcus Brutus",
             "label": "brother-in-law"
         },
         {
@@ -599,6 +789,12 @@
             "from": "Antonio",
             "to": "Shylock",
             "label": "enemy"
+        },
+        {
+            "play_name": "The Merchant of Venice",
+            "from": "Bassanio",
+            "to": "Antonio",
+            "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
@@ -674,15 +870,45 @@
         },
         {
             "play_name": "The Merchant of Venice",
+            "from": "Jessica",
+            "to": "Shylock",
+            "label": "daughter"
+        },
+        {
+            "play_name": "The Merchant of Venice",
+            "from": "Jessica",
+            "to": "Lancelet Gobbo",
+            "label": "friend"
+        },
+        {
+            "play_name": "The Merchant of Venice",
             "from": "Tubal",
             "to": "Shylock",
             "label": "friend"
         },
         {
             "play_name": "The Merchant of Venice",
+            "from": "Shylock",
+            "to": "Tubal",
+            "label": "friend"
+        },
+        {
+            "play_name": "The Merchant of Venice",
+            "from": "Lancelet Gobbo",
+            "to": "Old Gobbo",
+            "label": "son"
+        },
+        {
+            "play_name": "The Merchant of Venice",
             "from": "Lancelet Gobbo",
             "to": "Shylock",
-            "label": "servant, ennemy"
+            "label": "servant"
+        },
+        {
+            "play_name": "The Merchant of Venice",
+            "from": "Lancelet Gobbo",
+            "to": "Shylock",
+            "label": "enemy"
         },
         {
             "play_name": "The Merchant of Venice",
@@ -740,13 +966,31 @@
         },
         {
             "play_name": "A Midsummer Night's Dream",
+            "from": "Hermia",
+            "to": "Egeus",
+            "label": "daughter"
+        },
+        {
+            "play_name": "A Midsummer Night's Dream",
+            "from": "Hermia",
+            "to": "Lysander",
+            "label": "lover"
+        },
+        {
+            "play_name": "A Midsummer Night's Dream",
+            "from": "Hermia",
+            "to": "Helena",
+            "label": "friend"
+        },
+        {
+            "play_name": "A Midsummer Night's Dream",
             "from": "Helena",
             "to": "Hermia",
             "label": "friend"
         },
         {
             "play_name": "A Midsummer Night's Dream",
-            "from": "Demeterius",
+            "from": "Demetrius",
             "to": "Hermia",
             "label": "enemy"
         },
@@ -765,7 +1009,13 @@
         {
             "play_name": "A Midsummer Night's Dream",
             "from": "Theseus",
-            "to": "Egeus",
+            "to": "Hippolyta",
+            "label": "bethrothed"
+        },
+        {
+            "play_name": "A Midsummer Night's Dream",
+            "from": "Theseus",
+            "to": "Egus",
             "label": "friend"
         },
         {
@@ -773,6 +1023,18 @@
             "from": "Hamlet",
             "to": "Claudius",
             "label": "nephew"
+        },
+        {
+            "play_name": "Hamlet",
+            "from": "Hamlet",
+            "to": "Gertrude",
+            "label": "son"
+        },
+        {
+            "play_name": "Hamlet",
+            "from": "Claudius",
+            "to": "Hamlet",
+            "label": "uncle"
         },
         {
             "play_name": "Hamlet",
@@ -788,6 +1050,18 @@
         },
         {
             "play_name": "Hamlet",
+            "from": "Laertes",
+            "to": "Polonius",
+            "label": "son"
+        },
+        {
+            "play_name": "Hamlet",
+            "from": "Ophelia",
+            "to": "Polonius",
+            "label": "daughter"
+        },
+        {
+            "play_name": "Hamlet",
             "from": "Polonius",
             "to": "Ophelia",
             "label": "father"
@@ -800,8 +1074,20 @@
         },
         {
             "play_name": "Hamlet",
+            "from": "Laertes",
+            "to": "Ophelia",
+            "label": "brother "
+        },
+        {
+            "play_name": "Hamlet",
             "from": "Horatio",
             "to": "Hamlet",
+            "label": "friend"
+        },
+        {
+            "play_name": "Hamlet",
+            "from": "Hamlet",
+            "to": "Horatio",
             "label": "friend"
         },
         {
@@ -815,6 +1101,12 @@
             "from": "Macbeth",
             "to": "Lady Macbeth",
             "label": "husband"
+        },
+        {
+            "play_name": "Macbeth",
+            "from": "Lady Macbeth",
+            "to": "Macbeth",
+            "label": "wife"
         },
         {
             "play_name": "Macbeth",
@@ -836,9 +1128,21 @@
         },
         {
             "play_name": "Macbeth",
+            "from": "Fleance",
+            "to": "Banquo",
+            "label": "son"
+        },
+        {
+            "play_name": "Macbeth",
             "from": "Macduff",
             "to": "Lady Macduff",
             "label": "husband"
+        },
+        {
+            "play_name": "Macbeth",
+            "from": "Lady Macduff",
+            "to": "Macduff",
+            "label": "wife"
         },
         {
             "play_name": "Macbeth",
@@ -848,9 +1152,21 @@
         },
         {
             "play_name": "Macbeth",
+            "from": "Young Siward",
+            "to": "Siward",
+            "label": "son"
+        },
+        {
+            "play_name": "Macbeth",
             "from": "Macduff",
             "to": "Boy",
             "label": "father"
+        },
+        {
+            "play_name": "Macbeth",
+            "from": "Boy",
+            "to": "Macduff",
+            "label": "son"
         },
         {
             "play_name": "Macbeth",
@@ -860,8 +1176,20 @@
         },
         {
             "play_name": "Macbeth",
+            "from": "Malcom",
+            "to": "king Duncan",
+            "label": "son"
+        },
+        {
+            "play_name": "Macbeth",
             "from": "Donalbain",
             "to": "Malcom",
+            "label": "brother"
+        },
+        {
+            "play_name": "Macbeth",
+            "from": "Malcom",
+            "to": "Donalbain",
             "label": "brother"
         },
         {
@@ -891,7 +1219,7 @@
         {
             "play_name": "Macbeth",
             "from": "Macbeth",
-            "to": "Young Siward",
+            "to": "young Siward",
             "label": "killer"
         },
         {
@@ -899,6 +1227,12 @@
             "from": "Macbeth",
             "to": "Boy",
             "label": "killer"
+        },
+        {
+            "play_name": "Macbeth",
+            "from": "Macbeth",
+            "to": "Macduff",
+            "label": "enemy"
         },
         {
             "play_name": "Macbeth",
@@ -914,6 +1248,24 @@
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Juliet",
+            "to": "Romeo",
+            "label": "lover"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Juliet",
+            "to": "Lady Capulet",
+            "label": "daughter"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Juliet",
+            "to": "Lord Capulet",
+            "label": "daughter"
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Lord Capulet",
             "to": "Juliet",
             "label": "father"
@@ -926,9 +1278,21 @@
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Lady Capulet",
+            "to": "Lord Capulet",
+            "label": "wife"
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Lord Capulet",
             "to": "Lady Capulet",
             "label": "husband"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Escalus",
+            "to": "Paris",
+            "label": "family"
         },
         {
             "play_name": "Romeo and Juliet",
@@ -975,8 +1339,38 @@
         {
             "play_name": "Romeo and Juliet",
             "from": "Lord Montague",
+            "to": "Lord Capulet",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Lord Montague",
+            "to": "Lady Capulet",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Lady Montague",
+            "to": "Lord Capulet",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Lady Montague",
+            "to": "Lady Capulet",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Lord Montague",
             "to": "Lady Montague",
             "label": "husband"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Lady Montague",
+            "to": "Lord Montague",
+            "label": "wife"
         },
         {
             "play_name": "Romeo and Juliet",
@@ -992,6 +1386,18 @@
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Romeo",
+            "to": "Lady Montague",
+            "label": "son"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Romeo",
+            "to": "Lord Montague",
+            "label": "son"
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Mercutio",
             "to": "Romeo",
             "label": "friend"
@@ -1004,14 +1410,38 @@
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Romeo",
+            "to": "Mercutio",
+            "label": "friend"
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Benvolio",
             "to": "Lord Montague",
             "label": "nephew"
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Lord Montague",
+            "to": "Benvolio",
+            "label": "uncle"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Benvolio",
+            "to": "Mercutio",
+            "label": "friend"
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Benvolio",
             "to": "Romeo",
+            "label": "cousin"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Romeo",
+            "to": "Benvolio",
             "label": "cousin"
         },
         {
@@ -1022,14 +1452,32 @@
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Escalus",
+            "to": "Mercutio",
+            "label": "family"
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Tybalt",
             "to": "Lady Capulet",
             "label": "nephew"
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Lady Capulet",
+            "to": "Tybalt",
+            "label": "aunt "
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Tybalt",
             "to": "Juliet",
+            "label": "cousin"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Juliet",
+            "to": "Tybalt",
             "label": "cousin"
         },
         {
@@ -1042,6 +1490,12 @@
             "play_name": "Romeo and Juliet",
             "from": "Tybalt",
             "to": "Lady Montague",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Romeo and Juliet",
+            "from": "Tybalt",
+            "to": "Romeo",
             "label": "enemy"
         },
         {
@@ -1094,6 +1548,12 @@
         },
         {
             "play_name": "Romeo and Juliet",
+            "from": "Gregory",
+            "to": "Sampson",
+            "label": "friend"
+        },
+        {
+            "play_name": "Romeo and Juliet",
             "from": "Peter",
             "to": "Lord Capulet",
             "label": "servant"
@@ -1115,6 +1575,186 @@
             "from": "Romeo",
             "to": "Rosaline",
             "label": "lover"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "King Lear",
+            "to": "Regan",
+            "label": "father"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "King Lear",
+            "to": "Cordelia",
+            "label": "father"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "King Lear",
+            "to": "Goneril",
+            "label": "father"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "Regan",
+            "to": "Goneril",
+            "label": "sister"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "Regan",
+            "to": "Cordelia",
+            "label": "sister"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "Cordelia",
+            "to": "Goneril",
+            "label": "sister"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "King of France",
+            "to": "Cordelia",
+            "label": "husband"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "Cornwall",
+            "to": "Regan",
+            "label": "husband"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "Albany",
+            "to": "Goneril",
+            "label": "husband"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "Oswald",
+            "to": "Goneril",
+            "label": "steward"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "Fool",
+            "to": "King Lear",
+            "label": "servant"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "Kent",
+            "to": "King Lear",
+            "label": "servant"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "Gloucester",
+            "to": "King Lear",
+            "label": "loyal"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "Edmund",
+            "to": "Gloucester",
+            "label": "illegitimate son"
+        },
+        {
+            "play_name": "King Lear",
+            "from": "Edgar",
+            "to": "Gloucester",
+            "label": "legitimate son"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Othello",
+            "to": "Desdemona",
+            "label": "husband"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Iago",
+            "to": "Othello",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Brabantio",
+            "to": "Othello",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Brabantio",
+            "to": "Desdemona",
+            "label": "father"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Iago",
+            "to": "Emilia",
+            "label": "husband"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Roderigo",
+            "to": "Desdemona",
+            "label": "lover"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Cassio",
+            "to": "Bianca",
+            "label": "lover"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Emilia",
+            "to": "Desdemona",
+            "label": "servant, friend"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Gratiano",
+            "to": "Lodovico",
+            "label": "father"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Brabantio",
+            "to": "Gratiano",
+            "label": "brother"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Iago",
+            "to": "Roderigo",
+            "label": "killer"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Montano",
+            "to": "Othello",
+            "label": "friend"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Roderigo",
+            "to": "Othello",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Iago",
+            "to": "Cassio",
+            "label": "enemy"
+        },
+        {
+            "play_name": "Othello",
+            "from": "Cassio",
+            "to": "Othello",
+            "label": "lieutenant"
         }
     ]
 }

@@ -46,11 +46,11 @@ anychart.data.loadJsonFile("../data/character_links.json", function (data) {
 
     //configure tooltips of edges
     chart.edges().tooltip().useHtml(true);
-    chart.edges().tooltip().format("<span style='font-weight:bold'>{%from} to {%to}</span><br>{%label}");
+    chart.edges().tooltip().format("<span style='font-weight:bold; font-family:fantasy'>{%from} to {%to}</span><br>{%label}");
 
     //configure tooltips of nodes
     chart.nodes().tooltip().useHtml(true);
-    chart.nodes().tooltip().format("<span style='font-weight:bold'>Name: </span><span>&nbsp;&nbsp;&nbsp;{%id}</span><br><br><span style='font-weight:bold'>Role: </span><span>&nbsp;&nbsp;&nbsp;{%role}</span><br><br><span style='font-weight:bold, font-family:fantasy'>Description: </span><br><br><span>{%description}</span>");
+    chart.nodes().tooltip().format("<span style='font-weight:bold; font-family:fantasy'>Name: </span><span style='font-family:fantasy'>&nbsp;&nbsp;&nbsp;{%id}</span><br><br><span style='font-weight:bold; font-family:fantasy'>Role: </span><span style= 'font-family:fantasy'>&nbsp;&nbsp;&nbsp;{%role}</span><br><br><span style='font-weight:bold; font-family:fantasy'>Description: </span><br><br><span style= 'font-family:fantasy'>{%description}</span>");
 
     // set the size of nodes
     chart.nodes().normal().height(25);

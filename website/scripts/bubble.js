@@ -49,26 +49,22 @@ anychart.onDocumentReady(function () {
 
   var treeData = anychart.data.tree(rawData, 'as-table');
   chart = anychart.circlePacking(treeData);
-  // set chart theme
-
-  chart.normal().labels().format(function () {
-    return this.name + '\n' + '\n' + 'Number of plays: ' + this.item.numChildren();
+  
+  // set chart labels
+  var labels = chart.normal().labels();
+  labels.format(function () {
+    return (this.name + '\n' + 'Number of plays: ' + this.item.numChildren());
   });
+  labels.fontFamily('fantasy');
+  labels.fontSize(16);
+  labels.position("center-top");
+  labels.offsetY(-55);
+  labels.fontColor('#fff');
+  labels.textShadow('none');
 
   chart.title().enabled(true).useHtml(true).text(
-    '<span style = "color: #fff; font-size:20px;">Shakespeare\'s Plays by genre</span>'
+    '<span style = "color: #fff; font-size:20px; font-family:fantasy">Shakespeare\'s Plays by genre</span>'
   );
-
-
-  chart.tooltip().titleFormat(function () {
-    var rv = this.name;
-    var parent = this.item.getParent();
-    while (parent) {
-      rv = parent.get('name') + ' → ' + rv;
-      parent = parent.getParent();
-    }
-    return rv;
-  });
 
   chart.tooltip().fontFamily('fantasy');
 

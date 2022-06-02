@@ -46,7 +46,7 @@ anychart.data.loadJsonFile("../data/character_links.json", function (data) {
 
     //configure tooltips of edges
     chart.edges().tooltip().useHtml(true);
-    chart.edges().tooltip().format("<span style='font-weight:bold; font-family:fantasy'>{%from} to {%to}</span><br>{%label}");
+    chart.edges().tooltip().format("<span style='font-weight:bold; font-family:fantasy'>{%from} to {%to}</span><br><span style='font-family:fantasy'>{%label}</span>");
 
     //configure tooltips of nodes
     chart.nodes().tooltip().useHtml(true);

@@ -77,7 +77,7 @@ anychart.onDocumentReady(function () {
   .tooltip()
   .useHtml(true)
   .titleFormat("<span style='font-weight:bold, font-family:fantasy'>{%name}</span>")
-  .format("<span style='font-weight:bold, font-family:fantasy'>Date:</span><span>{%date}</span>");
+  .format("<span style='font-weight:bold, font-family:fantasy'>Date:</span>&nbsp;<span>{%date}</span>");
 
   chart.palette(['#d81e05', '#558b2f', '#ffab00']);
 

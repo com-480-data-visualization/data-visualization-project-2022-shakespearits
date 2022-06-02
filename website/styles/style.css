@@ -29,7 +29,6 @@ body {
 	margin:auto;
 	font-family: 'cursive';
 	font-size: 1.1rem;
-	background-color: white;
 	position:relative;
 }
 
@@ -127,7 +126,7 @@ menu a:hover {
 .container h2{
 	margin-left: 20px;
 	font-size: 2rem;
-	color: rgb(180, 135, 95);
+	color: brown;
 	font-family: fantasy;
 	position: relative;
 	top: 30px;	
@@ -152,7 +151,7 @@ menu a:hover {
 }
 
 .sub-sub-container h4{
-	color: rgb(180, 135, 95);
+	color: brown;
 	font-family: fantasy;
 	font-size: 1.25rem;
 	position: inherit;
@@ -161,7 +160,7 @@ menu a:hover {
 }
 
 .sub-sub-container h5{
-	color: rgb(180, 135, 95);
+	color: brown;
 	font-family: fantasy;
 	font-size: 0.75rem;
 	position: inherit;
@@ -197,26 +196,19 @@ menu a:hover {
 	height: 300px;
 	margin: auto;
 	position: relative;
-	margin-left: auto;
-	margin-right: 30px;
-	margin-top: 50px;
+	padding: 50px;
 	font-family: fantasy;
 }
 
 .quotes .quotes-item {
     text-align: center;
+	color: brown;
 }
 
 .quotes .quotes-item h4 {
     font-size: 20px;
     color: #999;
     margin: 0 0 15px 0;
-}
-
-.quotes .quotes-item .quote-icon-left,
-.quotes .quotes-item .quote-icon-right {
-    color: #90c8fc;
-    font-size: 26px;
 }
 
 .quotes .quotes-item .quote-icon-left {
@@ -317,26 +309,19 @@ menu a:hover {
 	margin-left: 50px;
 }
 
-.quizPart h2{
-	font-size: 2rem;
-	color: brown;
-	font-family: fantasy;
-	position: relative;
-	margin-left: 50px;
-	background-color: white;
-}
-
 .quizPart p{
 	color: brown;
 	width: inherit;
 	position: relative;
 	font-family: fantasy;
-	margin-left: 50px;
+	font-size: 1.5rem;
+	padding: 50px;
 	background-color: white;
 }
 
 .quizPart img{
 	justify-content: right;
+	margin: 10px;
 }
 
 .question{

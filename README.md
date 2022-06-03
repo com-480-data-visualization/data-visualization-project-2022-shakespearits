@@ -3,7 +3,7 @@
 | Student's name | SCIPER |
 | -------------- | ------ |
 | Gillyboeuf | 299327 |
-| Papadopulos | 343179 |
+| Papadopoulos | 343179 |
 | Rescala | 337736 |
 
 <p align="center">

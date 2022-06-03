@@ -9,7 +9,7 @@ margin = {
 };
 
 //////// Read csv file ////////
-d3.csv('data/topics_per_player_per_act.csv').then((data) => {
+d3.csv('../data/topics_per_player_per_act.csv').then((data) => {
 
     // list all the plays in the dataset
     var allPlays = [...new Set(data.map(d => d.Play))]; 
@@ -56,33 +56,24 @@ d3.csv('data/topics_per_player_per_act.csv').then((data) => {
 
         d3.select("svg").remove();
 
-        // create legends
-        var svgLegend = d3.select('#beeswarmchart')
-            .append("svg")
-            .attr("width", width)
-            .attr("height", 100)
-            .append("g").attr("class", "legend-container");
-        
-        console.log(topicColors);
-        const topicLegend = svgLegend.selectAll('g')
-            .data(topicColors).enter()
-            .select('g')
-                // translate each group to the right based on its index
-                 .attr('transform', (d,i) => 'translate(' + (100 * i) + ',0)')
-
-        topicLegend.selectAll('circle')
-            .data(topicColors)
-            .join('circle')
-            .attr('r', 20)
-            .attr('cx', 10)
-            .attr('cy', 40)
-            .attr('fill', (d) => d.color)
-
         var svg = d3.select('#beeswarmchart')
             .append("svg")
             .attr("width", width)
             .attr("height", height)
-            .append("g").attr("class", "top-container");	
+            .append("g").attr("class", "top-container");
+
+        topicLegend = svg.selectAll('g')
+            .data(topicColors).enter()
+            .select('g')
+                // translate each group to the right based on its index
+                 .attr('transform', (d,i) => 'translate(' + (100 * i) + ',0)')
+        topicLegend.selectAll('circle')
+                 .data(topicColors)
+                 .join('circle')
+                 .attr('r', 20)
+                 .attr('cx', 10)
+                 .attr('cy', 40)
+                 .attr('fill', (d) => d.color)
 
         let xDomain = data.filter(function(d){ return d.Play == playName}).map(d => d.Act_Scene);
         const xScale = d3.scalePoint()
@@ -132,7 +123,7 @@ d3.csv('data/topics_per_player_per_act.csv').then((data) => {
             .call( g => g
                 .on("mouseover", function(d) { 
                 //console.log(d.Player, d.Act_Scene, d.value, d.Sentence); 
-                d = d.srcElement.__data__
+                //d = d.srcElement.__data__
                 //Move the tooltip to the right location
                 tooltipActScene.text(`Act ${d.Act} | Scene ${d.Scene}`);
                 tooltipPlayer.text(d.Player);
@@ -143,11 +134,10 @@ d3.csv('data/topics_per_player_per_act.csv').then((data) => {
                     document.getElementById("tooltipPlayer").getComputedTextLength(), 
                     document.getElementById("tooltipTopic").getComputedTextLength(),
                     document.getElementById("tooltipSentence").getComputedTextLength());
-                /*
-                tooltipBackground
+                /*tooltipBackground
                     .transition().duration(100)
                     .attr("x", -0.5 * maxSize*1.2)
-                    .attr("width", maxSize*1.2) */
+                    .attr("width", maxSize*1.2)*/
                 tooltipContainer
                     .transition().duration(200)
                     .attr("transform", "translate(" + d.x + "," + (d.y + 40) + ")")

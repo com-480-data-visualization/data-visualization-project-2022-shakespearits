@@ -1,4 +1,4 @@
-width = 1000;
+width = 1400;
 height = 500;
 
 margin = {
@@ -158,12 +158,12 @@ d3.csv('../data/topics_per_player_per_act.csv').then((data) => {
             .call( g => g
                 .on("mouseover", function(d) { 
                 //console.log(d.Player, d.Act_Scene, d.value, d.Sentence); 
-                //d = d.srcElement.__data__
+                //d = d.srcElement._data_
                 //Move the tooltip to the right location
                 tooltipActScene.text(`Act ${d.Act} | Scene ${d.Scene}`);
                 tooltipPlayer.text(d.Player);
-                tooltipTopic.text("Topic expression: " + Math.round(d.value));
-                tooltipSentence.text("One sentence: " + d.Play);
+                tooltipTopic.text("The topic of " + d.Category + " came up " + Math.round(d.value) + " time(s) in his/her sentences");
+                //tooltipSentence.text(`Exemple of line mentioning ${d.Category}: "${d.PlayerLine}"`);
                 //Find the largest title
                 var maxSize = Math.max(document.getElementById("tooltipActScene").getComputedTextLength(), 
                     document.getElementById("tooltipPlayer").getComputedTextLength(), 
@@ -235,4 +235,3 @@ d3.csv('../data/topics_per_player_per_act.csv').then((data) => {
     });
     
 }); //end d3.csv
-

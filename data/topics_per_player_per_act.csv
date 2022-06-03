@@ -1,0 +1,973 @@
+Play,Act,Scene,Player,Act_Scene,Act_Scene_Collapse,Category,value
+A midsummer nights dream,1,1,Egeus,Act 1 Scene 1,11,love,2.0
+A midsummer nights dream,1,1,Helena,Act 1 Scene 1,11,love,1.0
+A midsummer nights dream,1,1,Hermia,Act 1 Scene 1,11,love,3.0
+A midsummer nights dream,1,1,Lysander,Act 1 Scene 1,11,love,4.0
+A midsummer nights dream,1,1,Theseus,Act 1 Scene 1,11,love,3.0
+A midsummer nights dream,1,2,Bottom,Act 1 Scene 2,12,love,2.0
+A midsummer nights dream,1,2,Quince,Act 1 Scene 2,12,love,1.0
+A midsummer nights dream,2,1,Demetrius,Act 2 Scene 1,21,love,2.0
+A midsummer nights dream,2,1,Helena,Act 2 Scene 1,21,love,2.0
+A midsummer nights dream,2,1,Oberon,Act 2 Scene 1,21,love,2.0
+A midsummer nights dream,2,1,Puck,Act 2 Scene 1,21,love,1.0
+A midsummer nights dream,2,1,Titania,Act 2 Scene 1,21,love,2.0
+A midsummer nights dream,2,2,Helena,Act 2 Scene 2,22,love,1.0
+A midsummer nights dream,2,2,Hermia,Act 2 Scene 2,22,love,2.0
+A midsummer nights dream,2,2,Lysander,Act 2 Scene 2,22,love,2.0
+A midsummer nights dream,2,2,Puck,Act 2 Scene 2,22,love,1.0
+A midsummer nights dream,3,1,Bottom,Act 3 Scene 1,31,love,4.0
+A midsummer nights dream,3,1,Titania,Act 3 Scene 1,31,love,4.0
+A midsummer nights dream,3,2,Demetrius,Act 3 Scene 2,32,love,9.0
+A midsummer nights dream,3,2,Helena,Act 3 Scene 2,32,love,7.0
+A midsummer nights dream,3,2,Hermia,Act 3 Scene 2,32,love,3.0
+A midsummer nights dream,3,2,Lysander,Act 3 Scene 2,32,love,8.0
+A midsummer nights dream,3,2,Oberon,Act 3 Scene 2,32,love,3.0
+A midsummer nights dream,3,2,Puck,Act 3 Scene 2,32,love,2.0
+A midsummer nights dream,4,1,Bottom,Act 4 Scene 1,41,love,1.0
+A midsummer nights dream,4,1,Demetrius,Act 4 Scene 1,41,love,3.0
+A midsummer nights dream,4,1,Hippolyta,Act 4 Scene 1,41,love,1.0
+A midsummer nights dream,4,1,Oberon,Act 4 Scene 1,41,love,1.0
+A midsummer nights dream,4,1,Theseus,Act 4 Scene 1,41,love,1.0
+A midsummer nights dream,4,1,Titania,Act 4 Scene 1,41,love,2.0
+A midsummer nights dream,5,1,Hippolyta,Act 5 Scene 1,51,love,1.0
+A midsummer nights dream,5,1,Oberon,Act 5 Scene 1,51,love,1.0
+A midsummer nights dream,5,1,Philostrate,Act 5 Scene 1,51,love,1.0
+A midsummer nights dream,5,1,Pyramus,Act 5 Scene 1,51,love,1.0
+A midsummer nights dream,5,1,Theseus,Act 5 Scene 1,51,love,7.0
+A midsummer nights dream,5,1,Thisbe,Act 5 Scene 1,51,love,3.0
+Hamlet,1,2,Hamlet,Act 1 Scene 2,12,love,1.0
+Hamlet,1,2,Horatio,Act 1 Scene 2,12,love,1.0
+Hamlet,1,2,King claudius,Act 1 Scene 2,12,love,2.0
+Hamlet,1,3,Ophelia,Act 1 Scene 3,13,love,3.0
+Hamlet,1,4,Hamlet,Act 1 Scene 4,14,love,2.0
+Hamlet,1,4,Horatio,Act 1 Scene 4,14,love,1.0
+Hamlet,1,5,Ghost,Act 1 Scene 5,15,love,2.0
+Hamlet,1,5,Hamlet,Act 1 Scene 5,15,love,4.0
+Hamlet,2,1,Lord polonius,Act 2 Scene 1,21,love,2.0
+Hamlet,2,1,Ophelia,Act 2 Scene 1,21,love,1.0
+Hamlet,2,2,First player,Act 2 Scene 2,22,love,2.0
+Hamlet,2,2,Hamlet,Act 2 Scene 2,22,love,6.0
+Hamlet,2,2,Lord polonius,Act 2 Scene 2,22,love,6.0
+Hamlet,3,1,Hamlet,Act 3 Scene 1,31,love,6.0
+Hamlet,3,1,King claudius,Act 3 Scene 1,31,love,1.0
+Hamlet,3,1,Rosencrantz,Act 3 Scene 1,31,love,1.0
+Hamlet,3,2,Guildenstern,Act 3 Scene 2,32,love,1.0
+Hamlet,3,2,Hamlet,Act 3 Scene 2,32,love,2.0
+Hamlet,3,2,Player king,Act 3 Scene 2,32,love,8.0
+Hamlet,3,2,Player queen,Act 3 Scene 2,32,love,8.0
+Hamlet,3,2,Rosencrantz,Act 3 Scene 2,32,love,1.0
+Hamlet,3,3,Hamlet,Act 3 Scene 3,33,love,1.0
+Hamlet,3,4,Hamlet,Act 3 Scene 4,34,love,9.0
+Hamlet,3,4,Queen gertrude,Act 3 Scene 4,34,love,1.0
+Hamlet,4,1,King claudius,Act 4 Scene 1,41,love,1.0
+Hamlet,4,3,King claudius,Act 4 Scene 3,43,love,4.0
+Hamlet,4,5,King claudius,Act 4 Scene 5,45,love,1.0
+Hamlet,4,5,Laertes,Act 4 Scene 5,45,love,1.0
+Hamlet,4,5,Ophelia,Act 4 Scene 5,45,love,1.0
+Hamlet,4,7,King claudius,Act 4 Scene 7,47,love,6.0
+Hamlet,5,1,Hamlet,Act 5 Scene 1,51,love,2.0
+Hamlet,5,1,Laertes,Act 5 Scene 1,51,love,1.0
+Hamlet,5,1,Queen gertrude,Act 5 Scene 1,51,love,1.0
+Hamlet,5,2,Hamlet,Act 5 Scene 2,52,love,2.0
+Hamlet,5,2,Laertes,Act 5 Scene 2,52,love,1.0
+Hamlet,5,2,Lord,Act 5 Scene 2,52,love,1.0
+Julius caesar,1,1,Flavius,Act 1 Scene 1,11,love,1.0
+Julius caesar,1,2,Brutus,Act 1 Scene 2,12,love,5.0
+Julius caesar,1,2,Cassius,Act 1 Scene 2,12,love,3.0
+Julius caesar,2,1,Brutus,Act 2 Scene 1,21,love,3.0
+Julius caesar,2,1,Cassius,Act 2 Scene 1,21,love,1.0
+Julius caesar,2,1,Lucius,Act 2 Scene 1,21,love,1.0
+Julius caesar,2,1,Portia,Act 2 Scene 1,21,love,1.0
+Julius caesar,2,2,Caesar,Act 2 Scene 2,22,love,3.0
+Julius caesar,2,2,Decius brutus,Act 2 Scene 2,22,love,2.0
+Julius caesar,3,1,Antony,Act 3 Scene 1,31,love,3.0
+Julius caesar,3,1,Brutus,Act 3 Scene 1,31,love,2.0
+Julius caesar,3,1,Decius brutus,Act 3 Scene 1,31,love,1.0
+Julius caesar,3,1,Servant,Act 3 Scene 1,31,love,3.0
+Julius caesar,3,2,Antony,Act 3 Scene 2,32,love,7.0
+Julius caesar,3,2,Brutus,Act 3 Scene 2,32,love,7.0
+Julius caesar,4,2,Brutus,Act 4 Scene 2,42,love,2.0
+Julius caesar,4,3,Brutus,Act 4 Scene 3,43,love,1.0
+Julius caesar,4,3,Cassius,Act 4 Scene 3,43,love,3.0
+Julius caesar,5,1,Brutus,Act 5 Scene 1,51,love,1.0
+Julius caesar,5,1,Octavius,Act 5 Scene 1,51,love,1.0
+Julius caesar,5,5,Brutus,Act 5 Scene 5,55,love,2.0
+King lear,1,1,Burgundy,Act 1 Scene 1,11,love,1.0
+King lear,1,1,Cordelia,Act 1 Scene 1,11,love,6.0
+King lear,1,1,Goneril,Act 1 Scene 1,11,love,4.0
+King lear,1,1,Kent,Act 1 Scene 1,11,love,2.0
+King lear,1,1,King lear,Act 1 Scene 1,11,love,6.0
+King lear,1,1,King of france,Act 1 Scene 1,11,love,3.0
+King lear,1,1,Regan,Act 1 Scene 1,11,love,1.0
+King lear,1,2,Edmund,Act 1 Scene 2,12,love,5.0
+King lear,1,2,Gloucester,Act 1 Scene 2,12,love,1.0
+King lear,1,4,Albany,Act 1 Scene 4,14,love,1.0
+King lear,1,4,Fool,Act 1 Scene 4,14,love,2.0
+King lear,1,4,Goneril,Act 1 Scene 4,14,love,1.0
+King lear,1,4,Kent,Act 1 Scene 4,14,love,2.0
+King lear,1,4,King lear,Act 1 Scene 4,14,love,3.0
+King lear,1,4,Knight,Act 1 Scene 4,14,love,2.0
+King lear,2,2,Kent,Act 2 Scene 2,22,love,2.0
+King lear,2,4,Fool,Act 2 Scene 4,24,love,2.0
+King lear,2,4,King lear,Act 2 Scene 4,24,love,2.0
+King lear,2,4,Regan,Act 2 Scene 4,24,love,1.0
+King lear,3,1,Kent,Act 3 Scene 1,31,love,1.0
+King lear,3,2,Kent,Act 3 Scene 2,32,love,1.0
+King lear,3,3,Gloucester,Act 3 Scene 3,33,love,1.0
+King lear,3,4,Edgar,Act 3 Scene 4,34,love,2.0
+King lear,3,4,Gloucester,Act 3 Scene 4,34,love,1.0
+King lear,3,4,King lear,Act 3 Scene 4,34,love,1.0
+King lear,4,1,Gloucester,Act 4 Scene 1,41,love,1.0
+King lear,4,2,Albany,Act 4 Scene 2,42,love,1.0
+King lear,4,2,Goneril,Act 4 Scene 2,42,love,1.0
+King lear,4,5,Regan,Act 4 Scene 5,45,love,3.0
+King lear,4,6,Edgar,Act 4 Scene 6,46,love,1.0
+King lear,4,6,Gloucester,Act 4 Scene 6,46,love,1.0
+King lear,4,7,Cordelia,Act 4 Scene 7,47,love,1.0
+King lear,4,7,King lear,Act 4 Scene 7,47,love,2.0
+King lear,5,1,Albany,Act 5 Scene 1,51,love,1.0
+King lear,5,1,Edgar,Act 5 Scene 1,51,love,1.0
+King lear,5,1,Regan,Act 5 Scene 1,51,love,1.0
+King lear,5,3,Albany,Act 5 Scene 3,53,love,1.0
+King lear,5,3,Edgar,Act 5 Scene 3,53,love,2.0
+King lear,5,3,Edmund,Act 5 Scene 3,53,love,1.0
+King lear,5,3,Kent,Act 5 Scene 3,53,love,1.0
+King lear,5,3,Regan,Act 5 Scene 3,53,love,1.0
+Macbeth,1,4,Macbeth,Act 1 Scene 4,14,love,1.0
+Macbeth,1,5,Lady macbeth,Act 1 Scene 5,15,love,3.0
+Macbeth,1,6,Banquo,Act 1 Scene 6,16,love,1.0
+Macbeth,1,6,Duncan,Act 1 Scene 6,16,love,2.0
+Macbeth,1,7,Lady macbeth,Act 1 Scene 7,17,love,1.0
+Macbeth,2,3,Macbeth,Act 2 Scene 3,23,love,2.0
+Macbeth,2,3,Porter,Act 2 Scene 3,23,love,1.0
+Macbeth,2,4,Old man,Act 2 Scene 4,24,love,1.0
+Macbeth,2,4,Ross,Act 2 Scene 4,24,love,1.0
+Macbeth,3,1,Macbeth,Act 3 Scene 1,31,love,1.0
+Macbeth,3,2,Lady macbeth,Act 3 Scene 2,32,love,1.0
+Macbeth,3,4,Lady macbeth,Act 3 Scene 4,34,love,1.0
+Macbeth,3,4,Macbeth,Act 3 Scene 4,34,love,2.0
+Macbeth,4,3,Macduff,Act 4 Scene 3,43,love,1.0
+Macbeth,4,3,Malcolm,Act 4 Scene 3,43,love,5.0
+Macbeth,5,1,Gentlewoman,Act 5 Scene 1,51,love,1.0
+Macbeth,5,2,Angus,Act 5 Scene 2,52,love,2.0
+Macbeth,5,8,Macbeth,Act 5 Scene 8,58,love,1.0
+Macbeth,5,8,Macduff,Act 5 Scene 8,58,love,1.0
+Merchant of venice,1,1,Antonio,Act 1 Scene 1,11,love,1.0
+Merchant of venice,1,1,Bassanio,Act 1 Scene 1,11,love,2.0
+Merchant of venice,1,1,Gratiano,Act 1 Scene 1,11,love,3.0
+Merchant of venice,1,1,Nerissa,Act 1 Scene 1,11,love,2.0
+Merchant of venice,1,1,Portia,Act 1 Scene 1,11,love,1.0
+Merchant of venice,1,1,Salarino,Act 1 Scene 1,11,love,3.0
+Merchant of venice,1,3,Antonio,Act 1 Scene 3,13,love,2.0
+Merchant of venice,1,3,Bassanio,Act 1 Scene 3,13,love,1.0
+Merchant of venice,1,3,Shylock,Act 1 Scene 3,13,love,1.0
+Merchant of venice,2,1,Morocco,Act 2 Scene 1,21,love,2.0
+Merchant of venice,2,2,Bassanio,Act 2 Scene 2,22,love,1.0
+Merchant of venice,2,3,Jessica,Act 2 Scene 3,23,love,1.0
+Merchant of venice,2,6,Gratiano,Act 2 Scene 6,26,love,1.0
+Merchant of venice,2,6,Jessica,Act 2 Scene 6,26,love,3.0
+Merchant of venice,2,6,Lorenzo,Act 2 Scene 6,26,love,1.0
+Merchant of venice,2,7,Morocco,Act 2 Scene 7,27,love,2.0
+Merchant of venice,2,8,Salanio,Act 2 Scene 8,28,love,1.0
+Merchant of venice,2,8,Salarino,Act 2 Scene 8,28,love,2.0
+Merchant of venice,3,2,Bassanio,Act 3 Scene 2,32,love,5.0
+Merchant of venice,3,2,Gratiano,Act 3 Scene 2,32,love,2.0
+Merchant of venice,3,2,Portia,Act 3 Scene 2,32,love,4.0
+Merchant of venice,3,4,Lorenzo,Act 3 Scene 4,34,love,1.0
+Merchant of venice,3,4,Portia,Act 3 Scene 4,34,love,3.0
+Merchant of venice,4,1,Antonio,Act 4 Scene 1,41,love,3.0
+Merchant of venice,4,1,Clerk,Act 4 Scene 1,41,love,1.0
+Merchant of venice,4,1,Portia,Act 4 Scene 1,41,love,2.0
+Merchant of venice,4,1,Shylock,Act 4 Scene 1,41,love,3.0
+Merchant of venice,5,1,Jessica,Act 5 Scene 1,51,love,1.0
+Merchant of venice,5,1,Lorenzo,Act 5 Scene 1,51,love,4.0
+Merchant of venice,5,1,Portia,Act 5 Scene 1,51,love,2.0
+Othello,1,1,Iago,Act 1 Scene 1,11,love,5.0
+Othello,1,1,Roderigo,Act 1 Scene 1,11,love,3.0
+Othello,1,2,Brabantio,Act 1 Scene 2,12,love,2.0
+Othello,1,2,Othello,Act 1 Scene 2,12,love,1.0
+Othello,1,3,Brabantio,Act 1 Scene 3,13,love,1.0
+Othello,1,3,Desdemona,Act 1 Scene 3,13,love,2.0
+Othello,1,3,Iago,Act 1 Scene 3,13,love,7.0
+Othello,1,3,Othello,Act 1 Scene 3,13,love,5.0
+Othello,2,1,Cassio,Act 2 Scene 1,21,love,1.0
+Othello,2,1,Iago,Act 2 Scene 1,21,love,11.0
+Othello,2,1,Othello,Act 2 Scene 1,21,love,1.0
+Othello,2,2,Herald,Act 2 Scene 2,22,love,1.0
+Othello,2,3,Cassio,Act 2 Scene 3,23,love,1.0
+Othello,2,3,Iago,Act 2 Scene 3,23,love,12.0
+Othello,2,3,Othello,Act 2 Scene 3,23,love,4.0
+Othello,2,3,Roderigo,Act 2 Scene 3,23,love,1.0
+Othello,3,3,Cassio,Act 3 Scene 3,33,love,1.0
+Othello,3,3,Desdemona,Act 3 Scene 3,33,love,2.0
+Othello,3,3,Emilia,Act 3 Scene 3,33,love,1.0
+Othello,3,3,Iago,Act 3 Scene 3,33,love,11.0
+Othello,3,3,Othello,Act 3 Scene 3,33,love,11.0
+Othello,3,4,Bianca,Act 3 Scene 4,34,love,2.0
+Othello,3,4,Cassio,Act 3 Scene 4,34,love,3.0
+Othello,3,4,Desdemona,Act 3 Scene 4,34,love,1.0
+Othello,4,1,Cassio,Act 4 Scene 1,41,love,1.0
+Othello,4,1,Desdemona,Act 4 Scene 1,41,love,1.0
+Othello,4,1,Iago,Act 4 Scene 1,41,love,4.0
+Othello,4,1,Lodovico,Act 4 Scene 1,41,love,1.0
+Othello,4,1,Othello,Act 4 Scene 1,41,love,2.0
+Othello,4,2,Othello,Act 4 Scene 2,42,love,1.0
+Othello,4,2,Roderigo,Act 4 Scene 2,42,love,1.0
+Othello,4,3,Desdemona,Act 4 Scene 3,43,love,3.0
+Othello,4,3,Emilia,Act 4 Scene 3,43,love,2.0
+Othello,5,1,Othello,Act 5 Scene 1,51,love,1.0
+Othello,5,1,Roderigo,Act 5 Scene 1,51,love,1.0
+Othello,5,2,Desdemona,Act 5 Scene 2,52,love,3.0
+Othello,5,2,Emilia,Act 5 Scene 2,52,love,1.0
+Othello,5,2,Gratiano,Act 5 Scene 2,52,love,1.0
+Othello,5,2,Othello,Act 5 Scene 2,52,love,5.0
+Romeo and juliet,1,1,Gregory,Act 1 Scene 1,11,love,2.0
+Romeo and juliet,1,1,Prince,Act 1 Scene 1,11,love,1.0
+Romeo and juliet,1,1,Romeo,Act 1 Scene 1,11,love,10.0
+Romeo and juliet,1,1,Sampson,Act 1 Scene 1,11,love,2.0
+Romeo and juliet,1,2,Benvolio,Act 1 Scene 2,12,love,1.0
+Romeo and juliet,1,2,Capulet,Act 1 Scene 2,12,love,3.0
+Romeo and juliet,1,3,Lady capulet,Act 1 Scene 3,13,love,2.0
+Romeo and juliet,1,4,Mercutio,Act 1 Scene 4,14,love,3.0
+Romeo and juliet,1,4,Romeo,Act 1 Scene 4,14,love,2.0
+Romeo and juliet,1,5,Juliet,Act 1 Scene 5,15,love,5.0
+Romeo and juliet,1,5,Romeo,Act 1 Scene 5,15,love,2.0
+Romeo and juliet,2,0,Chorus,Act 2 Scene 0,20,love,4.0
+Romeo and juliet,2,1,Benvolio,Act 2 Scene 1,21,love,1.0
+Romeo and juliet,2,1,Mercutio,Act 2 Scene 1,21,love,3.0
+Romeo and juliet,2,2,Juliet,Act 2 Scene 2,22,love,8.0
+Romeo and juliet,2,2,Romeo,Act 2 Scene 2,22,love,6.0
+Romeo and juliet,2,3,Friar laurence,Act 2 Scene 3,23,love,4.0
+Romeo and juliet,2,3,Romeo,Act 2 Scene 3,23,love,5.0
+Romeo and juliet,2,4,Mercutio,Act 2 Scene 4,24,love,2.0
+Romeo and juliet,2,4,Nurse,Act 2 Scene 4,24,love,1.0
+Romeo and juliet,2,4,Romeo,Act 2 Scene 4,24,love,1.0
+Romeo and juliet,2,5,Juliet,Act 2 Scene 5,25,love,1.0
+Romeo and juliet,2,5,Nurse,Act 2 Scene 5,25,love,2.0
+Romeo and juliet,2,6,Friar laurence,Act 2 Scene 6,26,love,5.0
+Romeo and juliet,2,6,Juliet,Act 2 Scene 6,26,love,1.0
+Romeo and juliet,2,6,Romeo,Act 2 Scene 6,26,love,3.0
+Romeo and juliet,3,1,Mercutio,Act 3 Scene 1,31,love,1.0
+Romeo and juliet,3,1,Prince,Act 3 Scene 1,31,love,1.0
+Romeo and juliet,3,1,Romeo,Act 3 Scene 1,31,love,3.0
+Romeo and juliet,3,2,Juliet,Act 3 Scene 2,32,love,3.0
+Romeo and juliet,3,2,Nurse,Act 3 Scene 2,32,love,1.0
+Romeo and juliet,3,3,Friar laurence,Act 3 Scene 3,33,love,3.0
+Romeo and juliet,3,3,Romeo,Act 3 Scene 3,33,love,4.0
+Romeo and juliet,3,4,Capulet,Act 3 Scene 4,34,love,2.0
+Romeo and juliet,3,5,Juliet,Act 3 Scene 5,35,love,2.0
+Romeo and juliet,3,5,Lady capulet,Act 3 Scene 5,35,love,1.0
+Romeo and juliet,4,1,Juliet,Act 4 Scene 1,41,love,1.0
+Romeo and juliet,4,1,Paris,Act 4 Scene 1,41,love,2.0
+Romeo and juliet,4,2,Juliet,Act 4 Scene 2,42,love,1.0
+Romeo and juliet,4,5,Friar laurence,Act 4 Scene 5,45,love,1.0
+Romeo and juliet,4,5,Lady capulet,Act 4 Scene 5,45,love,1.0
+Romeo and juliet,4,5,Paris,Act 4 Scene 5,45,love,1.0
+Romeo and juliet,5,1,Romeo,Act 5 Scene 1,51,love,1.0
+Romeo and juliet,5,3,Juliet,Act 5 Scene 3,53,love,1.0
+Romeo and juliet,5,3,Montague,Act 5 Scene 3,53,love,1.0
+Romeo and juliet,5,3,Paris,Act 5 Scene 3,53,love,1.0
+Romeo and juliet,5,3,Romeo,Act 5 Scene 3,53,love,4.0
+A midsummer nights dream,1,1,Egeus,Act 1 Scene 1,11,family,3.0
+A midsummer nights dream,1,1,Hermia,Act 1 Scene 1,11,family,2.0
+A midsummer nights dream,1,1,Lysander,Act 1 Scene 1,11,family,3.0
+A midsummer nights dream,1,1,Theseus,Act 1 Scene 1,11,family,3.0
+A midsummer nights dream,1,2,Bottom,Act 1 Scene 2,12,family,2.0
+A midsummer nights dream,2,1,Demetrius,Act 2 Scene 1,21,family,2.0
+A midsummer nights dream,2,1,Helena,Act 2 Scene 1,21,family,1.0
+A midsummer nights dream,2,1,Oberon,Act 2 Scene 1,21,family,1.0
+A midsummer nights dream,2,1,Puck,Act 2 Scene 1,21,family,1.0
+A midsummer nights dream,2,1,Titania,Act 2 Scene 1,21,family,4.0
+A midsummer nights dream,2,2,Helena,Act 2 Scene 2,22,family,1.0
+A midsummer nights dream,2,2,Hermia,Act 2 Scene 2,22,family,1.0
+A midsummer nights dream,2,2,Lysander,Act 2 Scene 2,22,family,1.0
+A midsummer nights dream,3,1,Bottom,Act 3 Scene 1,31,family,1.0
+A midsummer nights dream,3,1,Starveling,Act 3 Scene 1,31,family,1.0
+A midsummer nights dream,3,2,Demetrius,Act 3 Scene 2,32,family,1.0
+A midsummer nights dream,3,2,Helena,Act 3 Scene 2,32,family,2.0
+A midsummer nights dream,3,2,Hermia,Act 3 Scene 2,32,family,1.0
+A midsummer nights dream,3,2,Lysander,Act 3 Scene 2,32,family,1.0
+A midsummer nights dream,3,2,Puck,Act 3 Scene 2,32,family,2.0
+A midsummer nights dream,4,1,Bottom,Act 4 Scene 1,41,family,1.0
+A midsummer nights dream,4,1,Demetrius,Act 4 Scene 1,41,family,1.0
+A midsummer nights dream,4,1,Egeus,Act 4 Scene 1,41,family,2.0
+A midsummer nights dream,4,2,Flute,Act 4 Scene 2,42,family,1.0
+A midsummer nights dream,4,2,Quince,Act 4 Scene 2,42,family,2.0
+A midsummer nights dream,5,1,Demetrius,Act 5 Scene 1,51,family,1.0
+A midsummer nights dream,5,1,Hippolyta,Act 5 Scene 1,51,family,1.0
+A midsummer nights dream,5,1,Oberon,Act 5 Scene 1,51,family,2.0
+A midsummer nights dream,5,1,Theseus,Act 5 Scene 1,51,family,2.0
+Hamlet,1,1,Horatio,Act 1 Scene 1,11,family,1.0
+Hamlet,1,2,Hamlet,Act 1 Scene 2,12,family,6.0
+Hamlet,1,2,King claudius,Act 1 Scene 2,12,family,7.0
+Hamlet,1,2,Laertes,Act 1 Scene 2,12,family,2.0
+Hamlet,1,2,Lord polonius,Act 1 Scene 2,12,family,2.0
+Hamlet,1,2,Queen gertrude,Act 1 Scene 2,12,family,2.0
+Hamlet,1,3,Laertes,Act 1 Scene 3,13,family,2.0
+Hamlet,1,3,Lord polonius,Act 1 Scene 3,13,family,3.0
+Hamlet,1,5,Ghost,Act 1 Scene 5,15,family,5.0
+Hamlet,2,1,Lord polonius,Act 2 Scene 1,21,family,2.0
+Hamlet,2,2,First player,Act 2 Scene 2,22,family,1.0
+Hamlet,2,2,Hamlet,Act 2 Scene 2,22,family,10.0
+Hamlet,2,2,King claudius,Act 2 Scene 2,22,family,2.0
+Hamlet,2,2,Lord polonius,Act 2 Scene 2,22,family,8.0
+Hamlet,2,2,Queen gertrude,Act 2 Scene 2,22,family,1.0
+Hamlet,2,2,Rosencrantz,Act 2 Scene 2,22,family,1.0
+Hamlet,2,2,Voltimand,Act 2 Scene 2,22,family,1.0
+Hamlet,3,1,Hamlet,Act 3 Scene 1,31,family,4.0
+Hamlet,3,1,King claudius,Act 3 Scene 1,31,family,2.0
+Hamlet,3,1,Lord polonius,Act 3 Scene 1,31,family,2.0
+Hamlet,3,2,Hamlet,Act 3 Scene 2,32,family,5.0
+Hamlet,3,2,King claudius,Act 3 Scene 2,32,family,1.0
+Hamlet,3,2,Player king,Act 3 Scene 2,32,family,5.0
+Hamlet,3,2,Player queen,Act 3 Scene 2,32,family,4.0
+Hamlet,3,3,Hamlet,Act 3 Scene 3,33,family,2.0
+Hamlet,3,3,King claudius,Act 3 Scene 3,33,family,1.0
+Hamlet,3,4,Ghost,Act 3 Scene 4,34,family,1.0
+Hamlet,3,4,Hamlet,Act 3 Scene 4,34,family,5.0
+Hamlet,3,4,Lord polonius,Act 3 Scene 4,34,family,1.0
+Hamlet,3,4,Queen gertrude,Act 3 Scene 4,34,family,2.0
+Hamlet,4,2,Hamlet,Act 4 Scene 2,42,family,2.0
+Hamlet,4,3,Hamlet,Act 4 Scene 3,43,family,3.0
+Hamlet,4,3,King claudius,Act 4 Scene 3,43,family,1.0
+Hamlet,4,4,Hamlet,Act 4 Scene 4,44,family,2.0
+Hamlet,4,5,King claudius,Act 4 Scene 5,45,family,4.0
+Hamlet,4,5,Laertes,Act 4 Scene 5,45,family,1.0
+Hamlet,4,5,Ophelia,Act 4 Scene 5,45,family,2.0
+Hamlet,4,7,King claudius,Act 4 Scene 7,47,family,6.0
+Hamlet,4,7,Laertes,Act 4 Scene 7,47,family,2.0
+Hamlet,5,1,First priest,Act 5 Scene 1,51,family,1.0
+Hamlet,5,1,Laertes,Act 5 Scene 1,51,family,1.0
+Hamlet,5,2,Hamlet,Act 5 Scene 2,52,family,2.0
+Hamlet,5,2,King claudius,Act 5 Scene 2,52,family,1.0
+Julius caesar,1,1,Marullus,Act 1 Scene 1,11,family,2.0
+Julius caesar,1,2,Brutus,Act 1 Scene 2,12,family,5.0
+Julius caesar,1,2,Caesar,Act 1 Scene 2,12,family,2.0
+Julius caesar,1,2,Cassius,Act 1 Scene 2,12,family,1.0
+Julius caesar,2,1,Brutus,Act 2 Scene 1,21,family,1.0
+Julius caesar,2,1,Casca,Act 2 Scene 1,21,family,1.0
+Julius caesar,2,1,Cassius,Act 2 Scene 1,21,family,3.0
+Julius caesar,2,1,Lucius,Act 2 Scene 1,21,family,1.0
+Julius caesar,2,1,Portia,Act 2 Scene 1,21,family,1.0
+Julius caesar,2,2,Caesar,Act 2 Scene 2,22,family,2.0
+Julius caesar,2,2,Decius brutus,Act 2 Scene 2,22,family,1.0
+Julius caesar,2,2,Trebonius,Act 2 Scene 2,22,family,1.0
+Julius caesar,3,1,Brutus,Act 3 Scene 1,31,family,2.0
+Julius caesar,3,1,Caesar,Act 3 Scene 1,31,family,1.0
+Julius caesar,3,1,Cassius,Act 3 Scene 1,31,family,2.0
+Julius caesar,3,1,Decius brutus,Act 3 Scene 1,31,family,1.0
+Julius caesar,3,2,Antony,Act 3 Scene 2,32,family,5.0
+Julius caesar,3,2,Brutus,Act 3 Scene 2,32,family,1.0
+Julius caesar,3,2,First citizen,Act 3 Scene 2,32,family,1.0
+Julius caesar,3,2,Fourth citizen,Act 3 Scene 2,32,family,1.0
+Julius caesar,3,3,Cinna the poet,Act 3 Scene 3,33,family,1.0
+Julius caesar,3,3,Fourth citizen,Act 3 Scene 3,33,family,1.0
+Julius caesar,4,1,Antony,Act 4 Scene 1,41,family,2.0
+Julius caesar,4,1,Octavius,Act 4 Scene 1,41,family,1.0
+Julius caesar,4,3,Brutus,Act 4 Scene 3,43,family,4.0
+Julius caesar,4,3,Cassius,Act 4 Scene 3,43,family,1.0
+Julius caesar,5,1,Antony,Act 5 Scene 1,51,family,1.0
+Julius caesar,5,1,Cassius,Act 5 Scene 1,51,family,1.0
+Julius caesar,5,3,Cassius,Act 5 Scene 3,53,family,1.0
+Julius caesar,5,3,Messala,Act 5 Scene 3,53,family,2.0
+Julius caesar,5,4,Cato,Act 5 Scene 4,54,family,2.0
+King lear,1,1,Burgundy,Act 1 Scene 1,11,family,1.0
+King lear,1,1,Cordelia,Act 1 Scene 1,11,family,3.0
+King lear,1,1,Gloucester,Act 1 Scene 1,11,family,5.0
+King lear,1,1,Goneril,Act 1 Scene 1,11,family,6.0
+King lear,1,1,Kent,Act 1 Scene 1,11,family,3.0
+King lear,1,1,King lear,Act 1 Scene 1,11,family,6.0
+King lear,1,1,King of france,Act 1 Scene 1,11,family,1.0
+King lear,1,1,Lear,Act 1 Scene 1,11,family,1.0
+King lear,1,1,Regan,Act 1 Scene 1,11,family,1.0
+King lear,1,2,Edgar,Act 1 Scene 2,12,family,1.0
+King lear,1,2,Edmund,Act 1 Scene 2,12,family,8.0
+King lear,1,2,Gloucester,Act 1 Scene 2,12,family,8.0
+King lear,1,3,Goneril,Act 1 Scene 3,13,family,1.0
+King lear,1,4,Fool,Act 1 Scene 4,14,family,1.0
+King lear,1,4,Goneril,Act 1 Scene 4,14,family,1.0
+King lear,1,4,Kent,Act 1 Scene 4,14,family,1.0
+King lear,1,4,King lear,Act 1 Scene 4,14,family,3.0
+King lear,1,4,Knight,Act 1 Scene 4,14,family,1.0
+King lear,1,5,Fool,Act 1 Scene 5,15,family,2.0
+King lear,1,5,King lear,Act 1 Scene 5,15,family,1.0
+King lear,2,1,Cornwall,Act 2 Scene 1,21,family,2.0
+King lear,2,1,Edmund,Act 2 Scene 1,21,family,6.0
+King lear,2,1,Regan,Act 2 Scene 1,21,family,3.0
+King lear,2,2,Cornwall,Act 2 Scene 2,22,family,1.0
+King lear,2,2,Kent,Act 2 Scene 2,22,family,3.0
+King lear,2,2,Regan,Act 2 Scene 2,22,family,2.0
+King lear,2,4,Cornwall,Act 2 Scene 4,24,family,1.0
+King lear,2,4,Fool,Act 2 Scene 4,24,family,2.0
+King lear,2,4,Kent,Act 2 Scene 4,24,family,4.0
+King lear,2,4,King lear,Act 2 Scene 4,24,family,5.0
+King lear,2,4,Regan,Act 2 Scene 4,24,family,2.0
+King lear,3,1,Kent,Act 3 Scene 1,31,family,1.0
+King lear,3,2,Fool,Act 3 Scene 2,32,family,1.0
+King lear,3,3,Edmund,Act 3 Scene 3,33,family,1.0
+King lear,3,3,Gloucester,Act 3 Scene 3,33,family,1.0
+King lear,3,4,Gloucester,Act 3 Scene 4,34,family,2.0
+King lear,3,4,King lear,Act 3 Scene 4,34,family,1.0
+King lear,3,5,Cornwall,Act 3 Scene 5,35,family,2.0
+King lear,3,6,Fool,Act 3 Scene 6,36,family,1.0
+King lear,3,7,Cornwall,Act 3 Scene 7,37,family,2.0
+King lear,3,7,Gloucester,Act 3 Scene 7,37,family,2.0
+King lear,4,1,Gloucester,Act 4 Scene 1,41,family,2.0
+King lear,4,1,Old man,Act 4 Scene 1,41,family,1.0
+King lear,4,2,Albany,Act 4 Scene 2,42,family,2.0
+King lear,4,2,Goneril,Act 4 Scene 2,42,family,1.0
+King lear,4,3,Kent,Act 4 Scene 3,43,family,1.0
+King lear,4,5,Oswald,Act 4 Scene 5,45,family,1.0
+King lear,4,6,King lear,Act 4 Scene 6,46,family,2.0
+King lear,4,7,Kent,Act 4 Scene 7,47,family,1.0
+King lear,4,7,King lear,Act 4 Scene 7,47,family,1.0
+King lear,5,1,Albany,Act 5 Scene 1,51,family,1.0
+King lear,5,1,Edmund,Act 5 Scene 1,51,family,2.0
+King lear,5,1,Goneril,Act 5 Scene 1,51,family,1.0
+King lear,5,2,Edgar,Act 5 Scene 2,52,family,1.0
+King lear,5,3,Cordelia,Act 5 Scene 3,53,family,1.0
+King lear,5,3,Edgar,Act 5 Scene 3,53,family,2.0
+King lear,5,3,Edmund,Act 5 Scene 3,53,family,4.0
+King lear,5,3,Gentleman,Act 5 Scene 3,53,family,1.0
+King lear,5,3,Goneril,Act 5 Scene 3,53,family,1.0
+Macbeth,1,2,Malcolm,Act 1 Scene 2,12,family,1.0
+Macbeth,1,3,Banquo,Act 1 Scene 3,13,family,1.0
+Macbeth,1,3,First witch,Act 1 Scene 3,13,family,1.0
+Macbeth,1,4,Macbeth,Act 1 Scene 4,14,family,1.0
+Macbeth,1,6,Duncan,Act 1 Scene 6,16,family,1.0
+Macbeth,2,1,Banquo,Act 2 Scene 1,21,family,1.0
+Macbeth,2,2,Lady macbeth,Act 2 Scene 2,22,family,2.0
+Macbeth,2,2,Macbeth,Act 2 Scene 2,22,family,1.0
+Macbeth,2,3,Macduff,Act 2 Scene 3,23,family,2.0
+Macbeth,3,1,Banquo,Act 3 Scene 1,31,family,1.0
+Macbeth,3,1,Macbeth,Act 3 Scene 1,31,family,3.0
+Macbeth,3,2,Lady macbeth,Act 3 Scene 2,32,family,1.0
+Macbeth,3,3,Third murderer,Act 3 Scene 3,33,family,1.0
+Macbeth,3,4,Lady macbeth,Act 3 Scene 4,34,family,1.0
+Macbeth,3,4,Macbeth,Act 3 Scene 4,34,family,3.0
+Macbeth,3,6,Lord,Act 3 Scene 6,36,family,1.0
+Macbeth,4,1,First witch,Act 4 Scene 1,41,family,1.0
+Macbeth,4,2,Lady macduff,Act 4 Scene 2,42,family,2.0
+Macbeth,4,2,Ross,Act 4 Scene 2,42,family,3.0
+Macbeth,4,2,Son,Act 4 Scene 2,42,family,2.0
+Macbeth,4,3,Macduff,Act 4 Scene 3,43,family,2.0
+Macbeth,4,3,Malcolm,Act 4 Scene 3,43,family,2.0
+Macbeth,4,3,Ross,Act 4 Scene 3,43,family,2.0
+Macbeth,5,2,Menteith,Act 5 Scene 2,52,family,1.0
+Macbeth,5,7,Macduff,Act 5 Scene 7,57,family,1.0
+Macbeth,5,8,Malcolm,Act 5 Scene 8,58,family,1.0
+Merchant of venice,1,1,Bassanio,Act 1 Scene 1,11,family,1.0
+Merchant of venice,1,1,Lorenzo,Act 1 Scene 1,11,family,2.0
+Merchant of venice,1,1,Nerissa,Act 1 Scene 1,11,family,3.0
+Merchant of venice,1,1,Portia,Act 1 Scene 1,11,family,6.0
+Merchant of venice,1,1,Salanio,Act 1 Scene 1,11,family,1.0
+Merchant of venice,1,3,Antonio,Act 1 Scene 3,13,family,1.0
+Merchant of venice,1,3,Shylock,Act 1 Scene 3,13,family,3.0
+Merchant of venice,2,1,Portia,Act 2 Scene 1,21,family,2.0
+Merchant of venice,2,2,Bassanio,Act 2 Scene 2,22,family,2.0
+Merchant of venice,2,2,Gratiano,Act 2 Scene 2,22,family,1.0
+Merchant of venice,2,2,Launcelot,Act 2 Scene 2,22,family,10.0
+Merchant of venice,2,2,Leonardo,Act 2 Scene 2,22,family,1.0
+Merchant of venice,2,3,Jessica,Act 2 Scene 3,23,family,5.0
+Merchant of venice,2,4,Lorenzo,Act 2 Scene 4,24,family,1.0
+Merchant of venice,2,6,Lorenzo,Act 2 Scene 6,26,family,1.0
+Merchant of venice,2,8,Salanio,Act 2 Scene 8,28,family,1.0
+Merchant of venice,2,9,Arragon,Act 2 Scene 9,29,family,2.0
+Merchant of venice,3,1,Salanio,Act 3 Scene 1,31,family,1.0
+Merchant of venice,3,1,Shylock,Act 3 Scene 1,31,family,2.0
+Merchant of venice,3,1,Tubal,Act 3 Scene 1,31,family,2.0
+Merchant of venice,3,2,Bassanio,Act 3 Scene 2,32,family,4.0
+Merchant of venice,3,2,Gratiano,Act 3 Scene 2,32,family,1.0
+Merchant of venice,3,4,Portia,Act 3 Scene 4,34,family,1.0
+Merchant of venice,3,5,Jessica,Act 3 Scene 5,35,family,1.0
+Merchant of venice,3,5,Launcelot,Act 3 Scene 5,35,family,3.0
+Merchant of venice,3,5,Lorenzo,Act 3 Scene 5,35,family,4.0
+Merchant of venice,4,1,Antonio,Act 4 Scene 1,41,family,1.0
+Merchant of venice,4,1,Bassanio,Act 4 Scene 1,41,family,2.0
+Merchant of venice,4,1,Clerk,Act 4 Scene 1,41,family,2.0
+Merchant of venice,4,1,Duke,Act 4 Scene 1,41,family,1.0
+Merchant of venice,4,1,Gratiano,Act 4 Scene 1,41,family,1.0
+Merchant of venice,4,1,Portia,Act 4 Scene 1,41,family,2.0
+Merchant of venice,4,1,Shylock,Act 4 Scene 1,41,family,3.0
+Merchant of venice,5,1,Bassanio,Act 5 Scene 1,51,family,2.0
+Merchant of venice,5,1,Gratiano,Act 5 Scene 1,51,family,1.0
+Merchant of venice,5,1,Lorenzo,Act 5 Scene 1,51,family,2.0
+Merchant of venice,5,1,Nerissa,Act 5 Scene 1,51,family,1.0
+Merchant of venice,5,1,Portia,Act 5 Scene 1,51,family,3.0
+Merchant of venice,5,1,Stephano,Act 5 Scene 1,51,family,1.0
+Othello,1,1,Brabantio,Act 1 Scene 1,11,family,1.0
+Othello,1,1,Iago,Act 1 Scene 1,11,family,6.0
+Othello,1,1,Roderigo,Act 1 Scene 1,11,family,1.0
+Othello,1,2,Brabantio,Act 1 Scene 2,12,family,1.0
+Othello,1,2,Iago,Act 1 Scene 2,12,family,3.0
+Othello,1,3,Brabantio,Act 1 Scene 3,13,family,2.0
+Othello,1,3,Desdemona,Act 1 Scene 3,13,family,2.0
+Othello,1,3,Duke of venice,Act 1 Scene 3,13,family,5.0
+Othello,1,3,First senator,Act 1 Scene 3,13,family,1.0
+Othello,1,3,Othello,Act 1 Scene 3,13,family,6.0
+Othello,2,1,Iago,Act 2 Scene 1,21,family,1.0
+Othello,2,3,Iago,Act 2 Scene 3,23,family,4.0
+Othello,2,3,Othello,Act 2 Scene 3,23,family,2.0
+Othello,3,1,Cassio,Act 3 Scene 1,31,family,1.0
+Othello,3,1,Emilia,Act 3 Scene 1,31,family,1.0
+Othello,3,3,Emilia,Act 3 Scene 3,33,family,1.0
+Othello,3,3,Iago,Act 3 Scene 3,33,family,4.0
+Othello,3,3,Othello,Act 3 Scene 3,33,family,5.0
+Othello,3,4,Cassio,Act 3 Scene 4,34,family,1.0
+Othello,3,4,Desdemona,Act 3 Scene 4,34,family,2.0
+Othello,3,4,Othello,Act 3 Scene 4,34,family,3.0
+Othello,4,1,Cassio,Act 4 Scene 1,41,family,4.0
+Othello,4,1,Desdemona,Act 4 Scene 1,41,family,1.0
+Othello,4,1,Iago,Act 4 Scene 1,41,family,4.0
+Othello,4,2,Desdemona,Act 4 Scene 2,42,family,3.0
+Othello,4,2,Emilia,Act 4 Scene 2,42,family,1.0
+Othello,4,2,Othello,Act 4 Scene 2,42,family,1.0
+Othello,4,3,Desdemona,Act 4 Scene 3,43,family,1.0
+Othello,4,3,Emilia,Act 4 Scene 3,43,family,1.0
+Othello,5,2,Emilia,Act 5 Scene 2,52,family,3.0
+Othello,5,2,Othello,Act 5 Scene 2,52,family,5.0
+Romeo and juliet,1,1,Benvolio,Act 1 Scene 1,11,family,1.0
+Romeo and juliet,1,1,Montague,Act 1 Scene 1,11,family,1.0
+Romeo and juliet,1,1,Romeo,Act 1 Scene 1,11,family,3.0
+Romeo and juliet,1,2,Capulet,Act 1 Scene 2,12,family,1.0
+Romeo and juliet,1,2,Romeo,Act 1 Scene 2,12,family,6.0
+Romeo and juliet,1,3,Lady capulet,Act 1 Scene 3,13,family,5.0
+Romeo and juliet,1,3,Nurse,Act 1 Scene 3,13,family,2.0
+Romeo and juliet,1,5,Capulet,Act 1 Scene 5,15,family,2.0
+Romeo and juliet,1,5,Nurse,Act 1 Scene 5,15,family,5.0
+Romeo and juliet,1,5,Second capulet,Act 1 Scene 5,15,family,2.0
+Romeo and juliet,2,0,Chorus,Act 2 Scene 0,20,family,1.0
+Romeo and juliet,2,1,Benvolio,Act 2 Scene 1,21,family,2.0
+Romeo and juliet,2,1,Mercutio,Act 2 Scene 1,21,family,2.0
+Romeo and juliet,2,2,Juliet,Act 2 Scene 2,22,family,2.0
+Romeo and juliet,2,2,Romeo,Act 2 Scene 2,22,family,2.0
+Romeo and juliet,2,3,Friar laurence,Act 2 Scene 3,23,family,1.0
+Romeo and juliet,2,3,Romeo,Act 2 Scene 3,23,family,3.0
+Romeo and juliet,2,4,Mercutio,Act 2 Scene 4,24,family,1.0
+Romeo and juliet,2,5,Nurse,Act 2 Scene 5,25,family,3.0
+Romeo and juliet,3,2,Juliet,Act 3 Scene 2,32,family,4.0
+Romeo and juliet,3,2,Nurse,Act 3 Scene 2,32,family,1.0
+Romeo and juliet,3,3,Friar laurence,Act 3 Scene 3,33,family,2.0
+Romeo and juliet,3,3,Romeo,Act 3 Scene 3,33,family,1.0
+Romeo and juliet,3,4,Capulet,Act 3 Scene 4,34,family,2.0
+Romeo and juliet,3,5,Capulet,Act 3 Scene 5,35,family,1.0
+Romeo and juliet,3,5,Juliet,Act 3 Scene 5,35,family,5.0
+Romeo and juliet,3,5,Lady capulet,Act 3 Scene 5,35,family,1.0
+Romeo and juliet,3,5,Nurse,Act 3 Scene 5,35,family,3.0
+Romeo and juliet,4,1,Friar laurence,Act 4 Scene 1,41,family,4.0
+Romeo and juliet,4,1,Juliet,Act 4 Scene 1,41,family,2.0
+Romeo and juliet,4,1,Paris,Act 4 Scene 1,41,family,2.0
+Romeo and juliet,4,2,Capulet,Act 4 Scene 2,42,family,1.0
+Romeo and juliet,4,3,Juliet,Act 4 Scene 3,43,family,4.0
+Romeo and juliet,4,5,Capulet,Act 4 Scene 5,45,family,4.0
+Romeo and juliet,4,5,Friar laurence,Act 4 Scene 5,45,family,7.0
+Romeo and juliet,4,5,Lady capulet,Act 4 Scene 5,45,family,1.0
+Romeo and juliet,5,1,Balthasar,Act 5 Scene 1,51,family,1.0
+Romeo and juliet,5,1,Romeo,Act 5 Scene 1,51,family,2.0
+Romeo and juliet,5,2,Friar john,Act 5 Scene 2,52,family,1.0
+Romeo and juliet,5,3,Capulet,Act 5 Scene 3,53,family,2.0
+Romeo and juliet,5,3,Friar laurence,Act 5 Scene 3,53,family,5.0
+Romeo and juliet,5,3,Montague,Act 5 Scene 3,53,family,2.0
+Romeo and juliet,5,3,Prince,Act 5 Scene 3,53,family,2.0
+Romeo and juliet,5,3,Romeo,Act 5 Scene 3,53,family,2.0
+A midsummer nights dream,1,1,Egeus,Act 1 Scene 1,11,power,2.0
+A midsummer nights dream,1,1,Hermia,Act 1 Scene 1,11,power,1.0
+A midsummer nights dream,1,1,Lysander,Act 1 Scene 1,11,power,3.0
+A midsummer nights dream,1,1,Theseus,Act 1 Scene 1,11,power,3.0
+A midsummer nights dream,2,1,Helena,Act 2 Scene 1,21,power,5.0
+A midsummer nights dream,2,1,Puck,Act 2 Scene 1,21,power,1.0
+A midsummer nights dream,2,2,Puck,Act 2 Scene 2,22,power,3.0
+A midsummer nights dream,3,1,Titania,Act 3 Scene 1,31,power,1.0
+A midsummer nights dream,3,2,Hermia,Act 3 Scene 2,32,power,1.0
+A midsummer nights dream,3,2,Lysander,Act 3 Scene 2,32,power,1.0
+A midsummer nights dream,3,2,Puck,Act 3 Scene 2,32,power,2.0
+A midsummer nights dream,4,1,Demetrius,Act 4 Scene 1,41,power,1.0
+A midsummer nights dream,4,1,Oberon,Act 4 Scene 1,41,power,1.0
+A midsummer nights dream,5,1,Theseus,Act 5 Scene 1,51,power,1.0
+Hamlet,1,1,Bernardo,Act 1 Scene 1,11,power,2.0
+Hamlet,1,1,Horatio,Act 1 Scene 1,11,power,2.0
+Hamlet,1,1,Marcellus,Act 1 Scene 1,11,power,1.0
+Hamlet,1,2,Hamlet,Act 1 Scene 2,12,power,3.0
+Hamlet,1,2,Horatio,Act 1 Scene 2,12,power,1.0
+Hamlet,1,2,King claudius,Act 1 Scene 2,12,power,2.0
+Hamlet,1,3,Lord polonius,Act 1 Scene 3,13,power,2.0
+Hamlet,1,4,Hamlet,Act 1 Scene 4,14,power,2.0
+Hamlet,1,4,Marcellus,Act 1 Scene 4,14,power,1.0
+Hamlet,1,5,Ghost,Act 1 Scene 5,15,power,1.0
+Hamlet,2,1,Lord polonius,Act 2 Scene 1,21,power,2.0
+Hamlet,2,2,Hamlet,Act 2 Scene 2,22,power,7.0
+Hamlet,2,2,Lord polonius,Act 2 Scene 2,22,power,1.0
+Hamlet,2,2,Rosencrantz,Act 2 Scene 2,22,power,4.0
+Hamlet,3,1,Hamlet,Act 3 Scene 1,31,power,3.0
+Hamlet,3,1,King claudius,Act 3 Scene 1,31,power,1.0
+Hamlet,3,1,Ophelia,Act 3 Scene 1,31,power,1.0
+Hamlet,3,1,Queen gertrude,Act 3 Scene 1,31,power,1.0
+Hamlet,3,2,Guildenstern,Act 3 Scene 2,32,power,1.0
+Hamlet,3,2,Hamlet,Act 3 Scene 2,32,power,3.0
+Hamlet,3,2,Ophelia,Act 3 Scene 2,32,power,1.0
+Hamlet,3,2,Rosencrantz,Act 3 Scene 2,32,power,1.0
+Hamlet,3,3,King claudius,Act 3 Scene 3,33,power,1.0
+Hamlet,3,3,Rosencrantz,Act 3 Scene 3,33,power,2.0
+Hamlet,3,4,Hamlet,Act 3 Scene 4,34,power,4.0
+Hamlet,4,2,Hamlet,Act 4 Scene 2,42,power,3.0
+Hamlet,4,3,Hamlet,Act 4 Scene 3,43,power,3.0
+Hamlet,4,3,King claudius,Act 4 Scene 3,43,power,3.0
+Hamlet,4,4,Hamlet,Act 4 Scene 4,44,power,4.0
+Hamlet,4,5,King claudius,Act 4 Scene 5,45,power,2.0
+Hamlet,4,6,Horatio,Act 4 Scene 6,46,power,1.0
+Hamlet,5,1,First clown,Act 5 Scene 1,51,power,1.0
+Hamlet,5,1,First priest,Act 5 Scene 1,51,power,1.0
+Hamlet,5,1,Hamlet,Act 5 Scene 1,51,power,1.0
+Hamlet,5,2,Hamlet,Act 5 Scene 2,52,power,3.0
+Hamlet,5,2,Horatio,Act 5 Scene 2,52,power,2.0
+Hamlet,5,2,King claudius,Act 5 Scene 2,52,power,3.0
+Hamlet,5,2,Lord,Act 5 Scene 2,52,power,1.0
+Julius caesar,1,1,Second commoner,Act 1 Scene 1,11,power,1.0
+Julius caesar,1,2,Cassius,Act 1 Scene 2,12,power,1.0
+Julius caesar,1,3,Casca,Act 1 Scene 3,13,power,1.0
+Julius caesar,1,3,Cassius,Act 1 Scene 3,13,power,2.0
+Julius caesar,2,1,Cassius,Act 2 Scene 1,21,power,1.0
+Julius caesar,2,3,Artemidorus,Act 2 Scene 3,23,power,1.0
+Julius caesar,3,1,Antony,Act 3 Scene 1,31,power,2.0
+Julius caesar,3,1,Brutus,Act 3 Scene 1,31,power,2.0
+Julius caesar,3,1,Caesar,Act 3 Scene 1,31,power,1.0
+Julius caesar,3,1,Servant,Act 3 Scene 1,31,power,2.0
+Julius caesar,3,2,Antony,Act 3 Scene 2,32,power,1.0
+Julius caesar,3,2,Brutus,Act 3 Scene 2,32,power,2.0
+Julius caesar,4,1,Antony,Act 4 Scene 1,41,power,1.0
+Julius caesar,4,2,Lucilius,Act 4 Scene 2,42,power,1.0
+Julius caesar,4,2,Pindarus,Act 4 Scene 2,42,power,1.0
+Julius caesar,4,3,Brutus,Act 4 Scene 3,43,power,2.0
+Julius caesar,5,1,Brutus,Act 5 Scene 1,51,power,2.0
+Julius caesar,5,1,Octavius,Act 5 Scene 1,51,power,2.0
+Julius caesar,5,4,Lucilius,Act 5 Scene 4,54,power,1.0
+Julius caesar,5,5,Octavius,Act 5 Scene 5,55,power,1.0
+King lear,1,1,Gloucester,Act 1 Scene 1,11,power,1.0
+King lear,1,1,Goneril,Act 1 Scene 1,11,power,2.0
+King lear,1,1,Kent,Act 1 Scene 1,11,power,3.0
+King lear,1,1,King lear,Act 1 Scene 1,11,power,2.0
+King lear,1,2,Edmund,Act 1 Scene 2,12,power,4.0
+King lear,1,2,Gloucester,Act 1 Scene 2,12,power,2.0
+King lear,1,4,Fool,Act 1 Scene 4,14,power,1.0
+King lear,1,4,Goneril,Act 1 Scene 4,14,power,1.0
+King lear,1,4,Kent,Act 1 Scene 4,14,power,1.0
+King lear,1,4,King lear,Act 1 Scene 4,14,power,1.0
+King lear,1,5,King lear,Act 1 Scene 5,15,power,1.0
+King lear,2,1,Cornwall,Act 2 Scene 1,21,power,2.0
+King lear,2,1,Edmund,Act 2 Scene 1,21,power,1.0
+King lear,2,1,Gloucester,Act 2 Scene 1,21,power,2.0
+King lear,2,2,Gloucester,Act 2 Scene 2,22,power,3.0
+King lear,2,2,Kent,Act 2 Scene 2,22,power,1.0
+King lear,2,2,Oswald,Act 2 Scene 2,22,power,3.0
+King lear,2,4,Gloucester,Act 2 Scene 4,24,power,1.0
+King lear,2,4,Goneril,Act 2 Scene 4,24,power,1.0
+King lear,2,4,Kent,Act 2 Scene 4,24,power,1.0
+King lear,2,4,King lear,Act 2 Scene 4,24,power,6.0
+King lear,2,4,Regan,Act 2 Scene 4,24,power,1.0
+King lear,3,1,Kent,Act 3 Scene 1,31,power,3.0
+King lear,3,2,Fool,Act 3 Scene 2,32,power,1.0
+King lear,3,2,Kent,Act 3 Scene 2,32,power,1.0
+King lear,3,3,Gloucester,Act 3 Scene 3,33,power,4.0
+King lear,3,4,Edgar,Act 3 Scene 4,34,power,1.0
+King lear,3,4,Gloucester,Act 3 Scene 4,34,power,2.0
+King lear,3,4,King lear,Act 3 Scene 4,34,power,1.0
+King lear,3,6,Edgar,Act 3 Scene 6,36,power,1.0
+King lear,3,6,Gloucester,Act 3 Scene 6,36,power,2.0
+King lear,3,6,Kent,Act 3 Scene 6,36,power,1.0
+King lear,3,6,King lear,Act 3 Scene 6,36,power,1.0
+King lear,3,7,Cornwall,Act 3 Scene 7,37,power,1.0
+King lear,4,1,Gloucester,Act 4 Scene 1,41,power,1.0
+King lear,4,2,Albany,Act 4 Scene 2,42,power,1.0
+King lear,4,3,Gentleman,Act 4 Scene 3,43,power,2.0
+King lear,4,3,Kent,Act 4 Scene 3,43,power,4.0
+King lear,4,4,Cordelia,Act 4 Scene 4,44,power,1.0
+King lear,4,4,Doctor,Act 4 Scene 4,44,power,1.0
+King lear,4,5,Regan,Act 4 Scene 5,45,power,1.0
+King lear,4,6,Edgar,Act 4 Scene 6,46,power,1.0
+King lear,4,6,Gentleman,Act 4 Scene 6,46,power,1.0
+King lear,4,6,Gloucester,Act 4 Scene 6,46,power,3.0
+King lear,4,6,King lear,Act 4 Scene 6,46,power,2.0
+King lear,4,6,Oswald,Act 4 Scene 6,46,power,1.0
+King lear,4,7,Kent,Act 4 Scene 7,47,power,1.0
+King lear,5,1,Albany,Act 5 Scene 1,51,power,1.0
+King lear,5,1,Edgar,Act 5 Scene 1,51,power,1.0
+King lear,5,1,Edmund,Act 5 Scene 1,51,power,1.0
+King lear,5,3,Albany,Act 5 Scene 3,53,power,2.0
+King lear,5,3,Edgar,Act 5 Scene 3,53,power,1.0
+King lear,5,3,Edmund,Act 5 Scene 3,53,power,3.0
+King lear,5,3,Goneril,Act 5 Scene 3,53,power,1.0
+King lear,5,3,Kent,Act 5 Scene 3,53,power,3.0
+Macbeth,1,2,Malcolm,Act 1 Scene 2,12,power,2.0
+Macbeth,1,2,Sergeant,Act 1 Scene 2,12,power,1.0
+Macbeth,1,3,Angus,Act 1 Scene 3,13,power,1.0
+Macbeth,1,3,First witch,Act 1 Scene 3,13,power,1.0
+Macbeth,1,3,Macbeth,Act 1 Scene 3,13,power,1.0
+Macbeth,1,3,Ross,Act 1 Scene 3,13,power,1.0
+Macbeth,1,3,Third witch,Act 1 Scene 3,13,power,1.0
+Macbeth,1,5,Lady macbeth,Act 1 Scene 5,15,power,3.0
+Macbeth,1,5,Messenger,Act 1 Scene 5,15,power,1.0
+Macbeth,2,3,Banquo,Act 2 Scene 3,23,power,1.0
+Macbeth,2,3,Lennox,Act 2 Scene 3,23,power,1.0
+Macbeth,2,3,Macduff,Act 2 Scene 3,23,power,5.0
+Macbeth,3,1,Macbeth,Act 3 Scene 1,31,power,5.0
+Macbeth,3,1,Second murderer,Act 3 Scene 1,31,power,1.0
+Macbeth,3,2,Lady macbeth,Act 3 Scene 2,32,power,1.0
+Macbeth,3,5,Hecate,Act 3 Scene 5,35,power,1.0
+Macbeth,3,6,Lord,Act 3 Scene 6,36,power,1.0
+Macbeth,4,1,First witch,Act 4 Scene 1,41,power,1.0
+Macbeth,4,1,Macbeth,Act 4 Scene 1,41,power,1.0
+Macbeth,4,1,Second apparition,Act 4 Scene 1,41,power,1.0
+Macbeth,4,1,Second witch,Act 4 Scene 1,41,power,1.0
+Macbeth,4,3,Macduff,Act 4 Scene 3,43,power,1.0
+Macbeth,4,3,Malcolm,Act 4 Scene 3,43,power,4.0
+Macbeth,4,3,Ross,Act 4 Scene 3,43,power,1.0
+Macbeth,5,1,Lady macbeth,Act 5 Scene 1,51,power,1.0
+Macbeth,5,2,Caithness,Act 5 Scene 2,52,power,1.0
+Macbeth,5,2,Lennox,Act 5 Scene 2,52,power,1.0
+Macbeth,5,2,Menteith,Act 5 Scene 2,52,power,1.0
+Macbeth,5,3,Macbeth,Act 5 Scene 3,53,power,2.0
+Macbeth,5,5,Macbeth,Act 5 Scene 5,55,power,1.0
+Macbeth,5,6,Siward,Act 5 Scene 6,56,power,1.0
+Macbeth,5,7,Macbeth,Act 5 Scene 7,57,power,1.0
+Macbeth,5,8,Macbeth,Act 5 Scene 8,58,power,1.0
+Merchant of venice,1,1,Antonio,Act 1 Scene 1,11,power,1.0
+Merchant of venice,1,1,Gratiano,Act 1 Scene 1,11,power,1.0
+Merchant of venice,1,1,Portia,Act 1 Scene 1,11,power,1.0
+Merchant of venice,1,1,Servant,Act 1 Scene 1,11,power,1.0
+Merchant of venice,1,3,Antonio,Act 1 Scene 3,13,power,1.0
+Merchant of venice,2,2,Bassanio,Act 2 Scene 2,22,power,2.0
+Merchant of venice,2,2,Gobbo,Act 2 Scene 2,22,power,4.0
+Merchant of venice,2,2,Gratiano,Act 2 Scene 2,22,power,1.0
+Merchant of venice,2,2,Launcelot,Act 2 Scene 2,22,power,1.0
+Merchant of venice,2,4,Launcelot,Act 2 Scene 4,24,power,2.0
+Merchant of venice,2,5,Launcelot,Act 2 Scene 5,25,power,1.0
+Merchant of venice,2,9,Arragon,Act 2 Scene 9,29,power,2.0
+Merchant of venice,3,1,Servant,Act 3 Scene 1,31,power,1.0
+Merchant of venice,3,1,Shylock,Act 3 Scene 1,31,power,1.0
+Merchant of venice,3,2,Bassanio,Act 3 Scene 2,32,power,2.0
+Merchant of venice,3,2,Jessica,Act 3 Scene 2,32,power,2.0
+Merchant of venice,3,2,Portia,Act 3 Scene 2,32,power,2.0
+Merchant of venice,3,4,Lorenzo,Act 3 Scene 4,34,power,2.0
+Merchant of venice,4,1,Antonio,Act 4 Scene 1,41,power,1.0
+Merchant of venice,4,1,Bassanio,Act 4 Scene 1,41,power,2.0
+Merchant of venice,4,1,Duke,Act 4 Scene 1,41,power,1.0
+Merchant of venice,4,1,Gratiano,Act 4 Scene 1,41,power,1.0
+Merchant of venice,4,1,Portia,Act 4 Scene 1,41,power,10.0
+Merchant of venice,4,1,Shylock,Act 4 Scene 1,41,power,4.0
+Merchant of venice,5,1,Bassanio,Act 5 Scene 1,51,power,1.0
+Merchant of venice,5,1,Gratiano,Act 5 Scene 1,51,power,1.0
+Merchant of venice,5,1,Launcelot,Act 5 Scene 1,51,power,1.0
+Merchant of venice,5,1,Lorenzo,Act 5 Scene 1,51,power,1.0
+Merchant of venice,5,1,Portia,Act 5 Scene 1,51,power,2.0
+Merchant of venice,5,1,Stephano,Act 5 Scene 1,51,power,1.0
+Othello,1,1,Brabantio,Act 1 Scene 1,11,power,2.0
+Othello,1,2,Brabantio,Act 1 Scene 2,12,power,1.0
+Othello,1,2,Iago,Act 1 Scene 2,12,power,1.0
+Othello,1,2,Othello,Act 1 Scene 2,12,power,1.0
+Othello,1,3,Brabantio,Act 1 Scene 3,13,power,1.0
+Othello,1,3,Desdemona,Act 1 Scene 3,13,power,1.0
+Othello,1,3,Duke of venice,Act 1 Scene 3,13,power,3.0
+Othello,1,3,Iago,Act 1 Scene 3,13,power,3.0
+Othello,1,3,Othello,Act 1 Scene 3,13,power,2.0
+Othello,2,1,Cassio,Act 2 Scene 1,21,power,1.0
+Othello,2,1,Desdemona,Act 2 Scene 1,21,power,1.0
+Othello,2,1,Iago,Act 2 Scene 1,21,power,2.0
+Othello,2,1,Othello,Act 2 Scene 1,21,power,1.0
+Othello,2,3,Iago,Act 2 Scene 3,23,power,2.0
+Othello,2,3,Montano,Act 2 Scene 3,23,power,1.0
+Othello,3,3,Desdemona,Act 3 Scene 3,33,power,1.0
+Othello,3,3,Iago,Act 3 Scene 3,33,power,2.0
+Othello,4,1,Lodovico,Act 4 Scene 1,41,power,1.0
+Othello,4,1,Othello,Act 4 Scene 1,41,power,2.0
+Othello,4,2,Roderigo,Act 4 Scene 2,42,power,1.0
+Othello,5,2,Emilia,Act 5 Scene 2,52,power,2.0
+Othello,5,2,Lodovico,Act 5 Scene 2,52,power,3.0
+Othello,5,2,Othello,Act 5 Scene 2,52,power,2.0
+Romeo and juliet,1,1,Sampson,Act 1 Scene 1,11,power,2.0
+Romeo and juliet,1,2,Benvolio,Act 1 Scene 2,12,power,1.0
+Romeo and juliet,1,2,Servant,Act 1 Scene 2,12,power,1.0
+Romeo and juliet,1,3,Juliet,Act 1 Scene 3,13,power,1.0
+Romeo and juliet,1,5,Capulet,Act 1 Scene 5,15,power,1.0
+Romeo and juliet,2,3,Friar laurence,Act 2 Scene 3,23,power,4.0
+Romeo and juliet,2,4,Peter,Act 2 Scene 4,24,power,1.0
+Romeo and juliet,3,1,Mercutio,Act 3 Scene 1,31,power,1.0
+Romeo and juliet,3,1,Montague,Act 3 Scene 1,31,power,1.0
+Romeo and juliet,3,2,Juliet,Act 3 Scene 2,32,power,1.0
+Romeo and juliet,3,3,Friar laurence,Act 3 Scene 3,33,power,2.0
+Romeo and juliet,3,5,Juliet,Act 3 Scene 5,35,power,1.0
+Romeo and juliet,4,1,Friar laurence,Act 4 Scene 1,41,power,1.0
+Romeo and juliet,4,1,Juliet,Act 4 Scene 1,41,power,1.0
+Romeo and juliet,5,1,Apothecary,Act 5 Scene 1,51,power,2.0
+Romeo and juliet,5,1,Romeo,Act 5 Scene 1,51,power,1.0
+Romeo and juliet,5,3,Balthasar,Act 5 Scene 3,53,power,4.0
+Romeo and juliet,5,3,Friar laurence,Act 5 Scene 3,53,power,2.0
+Romeo and juliet,5,3,Page,Act 5 Scene 3,53,power,1.0
+Romeo and juliet,5,3,Prince,Act 5 Scene 3,53,power,1.0
+Romeo and juliet,5,3,Romeo,Act 5 Scene 3,53,power,2.0
+A midsummer nights dream,2,1,Helena,Act 2 Scene 1,21,war,1.0
+A midsummer nights dream,2,1,Oberon,Act 2 Scene 1,21,war,1.0
+A midsummer nights dream,2,1,Titania,Act 2 Scene 1,21,war,1.0
+A midsummer nights dream,2,2,Helena,Act 2 Scene 2,22,war,1.0
+A midsummer nights dream,2,2,Lysander,Act 2 Scene 2,22,war,1.0
+A midsummer nights dream,2,2,Titania,Act 2 Scene 2,22,war,2.0
+A midsummer nights dream,3,1,Bottom,Act 3 Scene 1,31,war,1.0
+A midsummer nights dream,3,2,Helena,Act 3 Scene 2,32,war,2.0
+A midsummer nights dream,3,2,Hermia,Act 3 Scene 2,32,war,1.0
+A midsummer nights dream,3,2,Lysander,Act 3 Scene 2,32,war,1.0
+A midsummer nights dream,4,1,Bottom,Act 4 Scene 1,41,war,1.0
+A midsummer nights dream,4,1,Lysander,Act 4 Scene 1,41,war,1.0
+A midsummer nights dream,5,1,Philostrate,Act 5 Scene 1,51,war,1.0
+A midsummer nights dream,5,1,Theseus,Act 5 Scene 1,51,war,1.0
+Hamlet,1,1,Bernardo,Act 1 Scene 1,11,war,1.0
+Hamlet,1,1,Horatio,Act 1 Scene 1,11,war,1.0
+Hamlet,1,2,Hamlet,Act 1 Scene 2,12,war,2.0
+Hamlet,1,2,King claudius,Act 1 Scene 2,12,war,2.0
+Hamlet,1,3,Laertes,Act 1 Scene 3,13,war,1.0
+Hamlet,1,4,Hamlet,Act 1 Scene 4,14,war,2.0
+Hamlet,2,1,Lord polonius,Act 2 Scene 1,21,war,2.0
+Hamlet,2,2,First player,Act 2 Scene 2,22,war,1.0
+Hamlet,2,2,Hamlet,Act 2 Scene 2,22,war,2.0
+Hamlet,3,2,Hamlet,Act 3 Scene 2,32,war,2.0
+Hamlet,3,2,Player queen,Act 3 Scene 2,32,war,1.0
+Hamlet,3,3,Rosencrantz,Act 3 Scene 3,33,war,1.0
+Hamlet,3,4,Ghost,Act 3 Scene 4,34,war,1.0
+Hamlet,3,4,Hamlet,Act 3 Scene 4,34,war,2.0
+Hamlet,3,4,Queen gertrude,Act 3 Scene 4,34,war,2.0
+Hamlet,4,4,Hamlet,Act 4 Scene 4,44,war,3.0
+Hamlet,4,5,King claudius,Act 4 Scene 5,45,war,1.0
+Hamlet,4,7,King claudius,Act 4 Scene 7,47,war,1.0
+Hamlet,5,1,Hamlet,Act 5 Scene 1,51,war,1.0
+Hamlet,5,2,Hamlet,Act 5 Scene 2,52,war,1.0
+Hamlet,5,2,King claudius,Act 5 Scene 2,52,war,1.0
+Hamlet,5,2,Osric,Act 5 Scene 2,52,war,2.0
+Hamlet,5,2,Prince fortinbras,Act 5 Scene 2,52,war,2.0
+Julius caesar,1,1,Marullus,Act 1 Scene 1,11,war,1.0
+Julius caesar,1,2,Brutus,Act 1 Scene 2,12,war,2.0
+Julius caesar,1,3,Casca,Act 1 Scene 3,13,war,1.0
+Julius caesar,2,1,Brutus,Act 2 Scene 1,21,war,2.0
+Julius caesar,2,2,Caesar,Act 2 Scene 2,22,war,3.0
+Julius caesar,2,2,Calpurnia,Act 2 Scene 2,22,war,1.0
+Julius caesar,2,3,Artemidorus,Act 2 Scene 3,23,war,1.0
+Julius caesar,3,1,Antony,Act 3 Scene 1,31,war,2.0
+Julius caesar,3,1,Brutus,Act 3 Scene 1,31,war,1.0
+Julius caesar,3,1,Caesar,Act 3 Scene 1,31,war,1.0
+Julius caesar,3,2,Antony,Act 3 Scene 2,32,war,2.0
+Julius caesar,4,1,Antony,Act 4 Scene 1,41,war,1.0
+Julius caesar,4,2,Brutus,Act 4 Scene 2,42,war,1.0
+Julius caesar,4,3,Brutus,Act 4 Scene 3,43,war,1.0
+Julius caesar,4,3,Cassius,Act 4 Scene 3,43,war,1.0
+Julius caesar,5,1,Antony,Act 5 Scene 1,51,war,1.0
+Julius caesar,5,1,Brutus,Act 5 Scene 1,51,war,1.0
+Julius caesar,5,1,Cassius,Act 5 Scene 1,51,war,2.0
+Julius caesar,5,1,Messenger,Act 5 Scene 1,51,war,2.0
+Julius caesar,5,1,Octavius,Act 5 Scene 1,51,war,3.0
+Julius caesar,5,3,Titinius,Act 5 Scene 3,53,war,1.0
+Julius caesar,5,4,Cato,Act 5 Scene 4,54,war,1.0
+Julius caesar,5,4,Lucilius,Act 5 Scene 4,54,war,3.0
+Julius caesar,5,5,Antony,Act 5 Scene 5,55,war,1.0
+Julius caesar,5,5,Brutus,Act 5 Scene 5,55,war,1.0
+Julius caesar,5,5,Clitus,Act 5 Scene 5,55,war,1.0
+Julius caesar,5,5,Dardanius,Act 5 Scene 5,55,war,1.0
+King lear,1,1,King lear,Act 1 Scene 1,11,war,1.0
+King lear,1,1,Regan,Act 1 Scene 1,11,war,1.0
+King lear,1,4,Kent,Act 1 Scene 4,14,war,1.0
+King lear,1,4,Knight,Act 1 Scene 4,14,war,1.0
+King lear,2,1,Edmund,Act 2 Scene 1,21,war,1.0
+King lear,2,4,King lear,Act 2 Scene 4,24,war,1.0
+King lear,3,4,Edgar,Act 3 Scene 4,34,war,2.0
+King lear,3,4,King lear,Act 3 Scene 4,34,war,1.0
+King lear,3,6,Gloucester,Act 3 Scene 6,36,war,1.0
+King lear,3,7,Cornwall,Act 3 Scene 7,37,war,1.0
+King lear,4,1,Gloucester,Act 4 Scene 1,41,war,1.0
+King lear,4,2,Oswald,Act 4 Scene 2,42,war,1.0
+King lear,4,6,Edgar,Act 4 Scene 6,46,war,1.0
+King lear,4,6,Gentleman,Act 4 Scene 6,46,war,2.0
+King lear,4,6,King lear,Act 4 Scene 6,46,war,1.0
+King lear,4,6,Oswald,Act 4 Scene 6,46,war,1.0
+King lear,5,1,Albany,Act 5 Scene 1,51,war,1.0
+King lear,5,1,Edgar,Act 5 Scene 1,51,war,1.0
+King lear,5,1,Edmund,Act 5 Scene 1,51,war,1.0
+King lear,5,1,Goneril,Act 5 Scene 1,51,war,1.0
+King lear,5,3,Albany,Act 5 Scene 3,53,war,2.0
+King lear,5,3,Edgar,Act 5 Scene 3,53,war,2.0
+King lear,5,3,Herald,Act 5 Scene 3,53,war,1.0
+Macbeth,1,2,Malcolm,Act 1 Scene 2,12,war,1.0
+Macbeth,1,2,Ross,Act 1 Scene 2,12,war,1.0
+Macbeth,1,3,Angus,Act 1 Scene 3,13,war,1.0
+Macbeth,1,7,Macbeth,Act 1 Scene 7,17,war,1.0
+Macbeth,2,3,Banquo,Act 2 Scene 3,23,war,1.0
+Macbeth,2,3,Macbeth,Act 2 Scene 3,23,war,1.0
+Macbeth,2,3,Macduff,Act 2 Scene 3,23,war,1.0
+Macbeth,3,1,Macbeth,Act 3 Scene 1,31,war,2.0
+Macbeth,3,2,Lady macbeth,Act 3 Scene 2,32,war,2.0
+Macbeth,3,4,Macbeth,Act 3 Scene 4,34,war,2.0
+Macbeth,3,6,Lennox,Act 3 Scene 6,36,war,2.0
+Macbeth,4,1,All,Act 4 Scene 1,41,war,1.0
+Macbeth,4,1,Macbeth,Act 4 Scene 1,41,war,2.0
+Macbeth,4,3,Macduff,Act 4 Scene 3,43,war,2.0
+Macbeth,4,3,Malcolm,Act 4 Scene 3,43,war,1.0
+Macbeth,5,3,Macbeth,Act 5 Scene 3,53,war,1.0
+Macbeth,5,4,Malcolm,Act 5 Scene 4,54,war,1.0
+Macbeth,5,5,Macbeth,Act 5 Scene 5,55,war,2.0
+Macbeth,5,7,Macbeth,Act 5 Scene 7,57,war,1.0
+Macbeth,5,8,Macbeth,Act 5 Scene 8,58,war,1.0
+Macbeth,5,8,Siward,Act 5 Scene 8,58,war,1.0
+Merchant of venice,1,1,Portia,Act 1 Scene 1,11,war,1.0
+Merchant of venice,1,3,Shylock,Act 1 Scene 3,13,war,1.0
+Merchant of venice,2,2,Launcelot,Act 2 Scene 2,22,war,1.0
+Merchant of venice,3,2,Portia,Act 3 Scene 2,32,war,2.0
+Merchant of venice,3,5,Lorenzo,Act 3 Scene 5,35,war,1.0
+Merchant of venice,4,1,Bassanio,Act 4 Scene 1,41,war,1.0
+Merchant of venice,4,1,Duke,Act 4 Scene 1,41,war,1.0
+Merchant of venice,4,1,Portia,Act 4 Scene 1,41,war,1.0
+Merchant of venice,5,1,Bassanio,Act 5 Scene 1,51,war,1.0
+Othello,1,1,Iago,Act 1 Scene 1,11,war,2.0
+Othello,1,2,Brabantio,Act 1 Scene 2,12,war,1.0
+Othello,1,2,Cassio,Act 1 Scene 2,12,war,1.0
+Othello,1,2,Iago,Act 1 Scene 2,12,war,1.0
+Othello,1,3,Brabantio,Act 1 Scene 3,13,war,1.0
+Othello,1,3,Duke of venice,Act 1 Scene 3,13,war,2.0
+Othello,1,3,Iago,Act 1 Scene 3,13,war,1.0
+Othello,1,3,Othello,Act 1 Scene 3,13,war,3.0
+Othello,2,1,Cassio,Act 2 Scene 1,21,war,1.0
+Othello,2,1,Iago,Act 2 Scene 1,21,war,1.0
+Othello,2,1,Montano,Act 2 Scene 1,21,war,2.0
+Othello,2,2,Herald,Act 2 Scene 2,22,war,1.0
+Othello,2,3,Cassio,Act 2 Scene 3,23,war,2.0
+Othello,2,3,Iago,Act 2 Scene 3,23,war,8.0
+Othello,2,3,Montano,Act 2 Scene 3,23,war,2.0
+Othello,3,1,Clown,Act 3 Scene 1,31,war,2.0
+Othello,3,1,Emilia,Act 3 Scene 1,31,war,1.0
+Othello,3,3,Cassio,Act 3 Scene 3,33,war,1.0
+Othello,3,3,Iago,Act 3 Scene 3,33,war,1.0
+Othello,3,3,Othello,Act 3 Scene 3,33,war,1.0
+Othello,3,4,Clown,Act 3 Scene 4,34,war,1.0
+Othello,3,4,Desdemona,Act 3 Scene 4,34,war,1.0
+Othello,4,1,Iago,Act 4 Scene 1,41,war,1.0
+Othello,4,2,Desdemona,Act 4 Scene 2,42,war,1.0
+Othello,5,1,Cassio,Act 5 Scene 1,51,war,1.0
+Othello,5,1,Iago,Act 5 Scene 1,51,war,2.0
+Othello,5,2,Desdemona,Act 5 Scene 2,52,war,3.0
+Othello,5,2,Emilia,Act 5 Scene 2,52,war,1.0
+Othello,5,2,Montano,Act 5 Scene 2,52,war,1.0
+Othello,5,2,Othello,Act 5 Scene 2,52,war,5.0
+Romeo and juliet,1,0,Richmond,Act 1 Scene 0,10,war,2.0
+Romeo and juliet,1,1,Benvolio,Act 1 Scene 1,11,war,1.0
+Romeo and juliet,1,1,Prince,Act 1 Scene 1,11,war,1.0
+Romeo and juliet,1,1,Romeo,Act 1 Scene 1,11,war,1.0
+Romeo and juliet,1,1,Sampson,Act 1 Scene 1,11,war,1.0
+Romeo and juliet,2,0,Chorus,Act 2 Scene 0,20,war,1.0
+Romeo and juliet,2,2,Juliet,Act 2 Scene 2,22,war,1.0
+Romeo and juliet,2,2,Romeo,Act 2 Scene 2,22,war,3.0
+Romeo and juliet,2,3,Friar laurence,Act 2 Scene 3,23,war,1.0
+Romeo and juliet,2,4,Peter,Act 2 Scene 4,24,war,1.0
+Romeo and juliet,2,4,Romeo,Act 2 Scene 4,24,war,1.0
+Romeo and juliet,3,1,Lady capulet,Act 3 Scene 1,31,war,1.0
+Romeo and juliet,3,1,Mercutio,Act 3 Scene 1,31,war,1.0
+Romeo and juliet,3,2,Juliet,Act 3 Scene 2,32,war,3.0
+Romeo and juliet,3,3,Friar laurence,Act 3 Scene 3,33,war,1.0
+Romeo and juliet,3,3,Romeo,Act 3 Scene 3,33,war,1.0
+Romeo and juliet,4,2,Juliet,Act 4 Scene 2,42,war,1.0
+Romeo and juliet,5,1,Romeo,Act 5 Scene 1,51,war,1.0
+Romeo and juliet,5,3,Friar laurence,Act 5 Scene 3,53,war,1.0
+Romeo and juliet,5,3,Prince,Act 5 Scene 3,53,war,2.0

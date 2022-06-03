@@ -1,7 +1,7 @@
 
 
 anychart.data.loadJsonFile(
-    '../../data/words_plays.json',
+    "../data/words_plays.json",
     function (data) {
       var dataSet = anychart.data.set(data);
       var colors = anychart.scales

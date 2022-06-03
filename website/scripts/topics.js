@@ -27,97 +27,95 @@ d3.csv('../data/topics_per_player_per_act.csv').then((data) => {
     let playName = "Othello";
 
     //////// Create scales ////////
+
+    // x-axis scale
     let xDomain = data.filter(function(d){ return d.Play == playName}).map(d => d.Act_Scene);
     const xScale = d3.scalePoint()
         .domain(xDomain)
         .range([margin.left, width - margin.right - margin.left - 100]);
 
+    // circle radius scale
     const rScale = d3.scaleLinear()
         .domain([0, d3.max(data, d => d.value)])
         .range([0, 50]);
 
-    const topicColors = [
-        {topic: 'love', color: '#d81e05'},
-        {topic: 'family', color: '#558b2f'},
-        {topic: 'war', color: 'black'},
-        {topic: 'power', color: '#ffab00'}
-    ];
-
+    // color scale
     const colorScale = d3.scaleOrdinal()
         .domain(['love', 'family', 'war', 'power'])
         .range(['#d81e05', '#c5e1a5', 'black', '#ffab00']);
+
+    const topicColors = [
+        {topic: 'love', color: '#d81e05'},
+        {topic: 'family', color: '#c5e1a5'},
+        {topic: 'war', color: 'black'},
+        {topic: 'power', color: '#ffab00'}
+    ];
 
 
     //////// Create plot ////////
     playBeeswarmPlot(playName);
 
 
+    // function to call whenever we update the play
     function playBeeswarmPlot(playName) {
 
+        // clear the previous legend + plot
         d3.select(".chart-container").remove();
         d3.select(".legend-container").remove();
 
+        //// Create the new color legend ////
         var legendSvg = d3.select('#beeswarmchart')
             .append("svg")
             .attr("class", "legend-container")
             .attr("width", width)
             .attr("height", 100)
-            .append('g')
+            .append('g');
 
         legendSvg.selectAll('text')
             .data(topicColors)
             .enter()
             .append('text')
             .attr('x', (d, i) => i*100 + margin.left)
-            .attr('y', 15)
+            .attr('y', 20)
             .text(d => d.topic)
+            .attr('font-family', 'fantasy');
 
         legendSvg.selectAll('circle')
             .data(topicColors)
             .enter()
-            .append('circle')
-            .attr("cx", (d, i) => i*100 + 15 + margin.left)
-            .attr("cy", 40)
-            .attr('r', 20)
-            .attr('fill', (d) => d.color)
-            .style('opacity', 0.80)
+            .call( g => g
+                .append('circle')
+                .attr("cx", (d, i) => i*100 + 15 + margin.left)
+                .attr("cy", 50)
+                .attr('r', 20)
+                .style('fill', d => colorScale(d.color))
+                .style('opacity', 0.80)
+            )
+            .call( g => g
+                .append('circle')
+                .attr("cx", (d, i) => i*100 + 15 + margin.left)
+                .attr("cy", 50)
+                .attr('r', 20)
+                .style('fill', 'none')
+                .attr('stroke', (d) => d.color)
+                .attr('stroke-width', 3)
+            );
 
-        legendSvg.selectAll('circle')
-            .data(topicColors)
-            .enter()
-            .append('circle')
-            .attr("cx", (d, i) => i*100 + 15 + margin.left)
-            .attr("cy", 40)
-            .attr('r', 20)
-            .attr('fill', 'none')
-            .attr('stroke', (d) => d.color)
-        
-        /*topicLegend = legendSvg.selectAll('g')
-            .data(topicColors).enter()
-            .select('g')
-                // translate each group to the right based on its index
-                 .attr('transform', (d,i) => 'translate(' + (100 * i) + ',0)')
-        topicLegend.selectAll('circle')
-                 .data(topicColors)
-                 .join('circle')
-                 .attr('r', 20)
-                 .attr('cx', 10)
-                 .attr('cy', 40)
-                 .attr('fill', (d) => d.color)*/
-
+        //// Create the new plot ////
         var svg = d3.select('#beeswarmchart')
             .append("svg")
             .attr("class", "chart-container")
             .attr("width", width)
             .attr("height", height)
-            .append("g")
+            .append("g");
 
+        // set x-axis scale for the plot
         let xDomain = data.filter(function(d){ return d.Play == playName}).map(d => d.Act_Scene);
         const xScale = d3.scalePoint()
         .domain(xDomain)
         .range([margin.left, width - margin.bottom]);
 
-        xAxis = d3.axisBottom(xScale)
+        xAxis = d3.axisBottom(xScale);
 
         // render x axis
         axis = svg.append('g')
@@ -127,16 +125,16 @@ d3.csv('../data/topics_per_player_per_act.csv').then((data) => {
                 //.select('.domain').remove()
                 .selectAll("text")
                 .style("text-anchor", "end")
-                .attr("transform", "rotate(-25)")
+                .attr("transform", "rotate(-25)");
 
         // scale the topic values (radius of the circle)
-        data.forEach(d => d.r = rScale(d.value))
+        data.forEach(d => d.r = rScale(d.value));
 
         // recompute force simulation
         const simulation = d3.forceSimulation(data.filter(function(d){ return d.Play == playName}))
             .force('x', d3.forceX().strength(0.2).x(d => xScale(d.Act_Scene)) )
             .force('y', d3.forceY().strength(0.05).y(margin.top + height / 2) )
-            .force('collide', d3.forceCollide().radius(d => d.r + 1 ).strength(1) )
+            .force('collide', d3.forceCollide().radius(d => d.r + 1 ).strength(1) );
     
         // update the chart
         const g = svg.selectAll('g.node')
@@ -189,7 +187,7 @@ d3.csv('../data/topics_per_player_per_act.csv').then((data) => {
                     .style("opacity", 0);
             });
 
-        simulation.on("tick", () => g.attr('transform', d => `translate(${d.x},${d.y})`) )
+        simulation.on("tick", () => g.attr('transform', d => `translate(${d.x},${d.y})`) );
 
         //////// Add Tooltip ////////
         var tooltipContainer = svg.append("g")
@@ -235,37 +233,6 @@ d3.csv('../data/topics_per_player_per_act.csv').then((data) => {
         var playName = d3.select(this).property("value");
         playBeeswarmPlot(playName);
     });
-
-    //////// Legends ////////
-    const topicLegendData = [
-        {topic: 'love', color: '#d81e05'},
-        {topic: 'family', color: '#558b2f'},
-        {topic: 'war', color: 'black'},
-        {topic: 'power', color: '#ffab00'}
-    ];
- /*
-    var legendSVG = d3.select('#topicLegend')
-        .append("svg")
-        .attr("width", width)
-        .attr("height", height);
-
-    const topicLegend = d3.select(legendSVG)
-        .selectAll('g')
-        .data(topicLegendData).enter()
-        .select('g')
-            // translate each group to the right based on its index
-             .attr('transform', (d,i) => 'translate(' + (100 * i) + ',0)')
-
-    topicLegend.selectAll('circle')
-        .data(topicLegendData)
-        .join('circle')
-            .attr('r', 20)
-            .attr('cx', 10)
-            .attr('cy', 40)
-            .attr('fill', (d) => d.color) */
-  
-
-
     
 }); //end d3.csv
 

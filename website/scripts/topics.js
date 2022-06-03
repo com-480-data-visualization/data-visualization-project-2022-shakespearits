@@ -1,4 +1,4 @@
-width = 1400;
+width = 1000;
 height = 500;
 
 margin = {
@@ -105,7 +105,7 @@ d3.csv('../data/topics_per_player_per_act.csv').then((data) => {
         var svg = d3.select('#beeswarmchart')
             .append("svg")
             .attr("class", "chart-container")
-            .attr("width", width)
+            .attr("width", width+150)
             .attr("height", height)
             .append("g");
 

@@ -8,6 +8,9 @@
     <meta name="description" content="Link network of characters in some Shakespeare's plays">
     <meta name="author" content="M-A. Gillyboeuf, D. Papadopoulos, P. Rescala">
     <link rel="preconnect" href="https://fonts.gstatic.com">
+
+    <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-core.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-tag-cloud.min.js"></script>
     <!-- Load d3.js -->
     <script src="https://d3js.org/d3.v5.js"></script>
     <link href="styles/style.css" rel="stylesheet" type="text/css">
@@ -32,7 +35,39 @@
         </ul>
       </nav>
     </div>
-    <div class="personalities">
+
+
+    <div class="container">
+      <div class="sub-container">
+        <h2>Characters's Personalities</h2>
+        <div id="playerselection"></div>
+        <div class="sub-sub-container">
+          <div id="graph"></div>
+        </div>
+      </div>
     </div>
+
+
+
+    <footer>
+        <p>
+          <span style='font-weight:bold'>Authors</span>
+          <br>
+          <br>
+          M-A. Gillyboeuf, D. Papadopoulos, and P. Rescala
+          <br>
+          <br>
+          &copy; Copyright <strong><span>EPFL</span></strong>. All Rights Reserved.
+        </p>
+    </footer>
+      <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
+      <script src="https://cdn.anychart.com/releases/v8/js/anychart-ui.min.js"></script>
+      <script src="https://cdn.anychart.com/releases/v8/js/anychart-exports.min.js"></script>
+      <script src="https://cdn.anychart.com/releases/v8/js/anychart-tag-cloud.min.js"></script>
+      <script src="https://cdn.anychart.com/releases/v8/js/anychart-data-adapter.min.js"></script>
+      <script src="jquery-csv.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+      <script src="scripts/personalities.js"></script>
+
   </body>
 </html>

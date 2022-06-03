@@ -289,6 +289,24 @@ menu a:hover {
 	margin: auto;
 }
 
+/*--------------------------------------------------------------
+# Topics
+--------------------------------------------------------------*/
+
+.beeswarm-xAxis line{
+    stroke: none;
+  }
+  
+.beeswarm-xAxis path{
+    stroke: none;
+}
+  
+.beeswarm-xAxis text{
+    fill: #8d5932;
+    font-family: fantasy;
+    font-weight: bold;
+}
+
 
 /*--------------------------------------------------------------
 # quiz

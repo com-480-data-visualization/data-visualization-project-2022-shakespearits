@@ -6,6 +6,10 @@
 | Papadopulos | 343179 |
 | Rescala | 337736 |
 
+<p align="center">
+     <a href="https://com-480-data-visualization.github.io/data-visualization-project-2022-shakespearits/website/index.html">Go to website</a>
+</p>
+
 [Milestone 1](#pencil2-milestone-1-8th-april-5pm) • [Milestone 2](#performing_arts-milestone-2-6th-may-5pm) • [Milestone 3](#clap-milestone-3-3rd-june-5pm)
 
 ## ✏️ Milestone 1 (8th April, 5pm)
@@ -82,6 +86,12 @@ Our milestone 2 document can be found [here](Milestone2-TeamShakespearits.pdf). 
 ## :clap: Milestone 3 (3rd June, 5pm)
 
 **80% of the final grade**
+
+The process book can be found [here](Process_book.pdf).
+
+The screencast san be found [here](screencast).
+
+The final website can be found [here](https://com-480-data-visualization.github.io/data-visualization-project-2022-shakespearits/website/index.html). 
 
 
 ## Late policy

@@ -169,10 +169,10 @@ d3.csv('../data/topics_per_player_per_act.csv').then((data) => {
                     document.getElementById("tooltipPlayer").getComputedTextLength(), 
                     document.getElementById("tooltipTopic").getComputedTextLength(),
                     document.getElementById("tooltipSentence").getComputedTextLength());
-                /*tooltipBackground
+                tooltipBackground
                     .transition().duration(100)
                     .attr("x", -0.5 * maxSize*1.2)
-                    .attr("width", maxSize*1.2)*/
+                    .attr("width", maxSize*1.2)
                 tooltipContainer
                     .transition().duration(200)
                     .attr("transform", "translate(" + d.x + "," + (d.y + 40) + ")")

@@ -308,13 +308,13 @@ menu a:hover {
 --------------------------------------------------------------*/
 /*--dropdown button--*/
 #play_selection{
-	width: 220px;
-	height: 30px;
-	left: 20px;
-	position: relative;
-	z-index: 10;
-	background-color:brown;
-	top: 0;
+    width: 220px;
+    height: 30px;
+    left: 20px;
+    position: relative;
+    z-index: 10;
+    background-color:brown;
+    top: 0;
 }
 
 .beeswarm-xAxis line{
@@ -329,6 +329,38 @@ menu a:hover {
     fill: #8d5932;
     font-family: fantasy;
     font-weight: bold;
+}
+
+.tooltip-container {
+    pointer-events: none;
+    text-anchor: middle;
+    text-shadow: 0 1px 3px white, 1px 0 3px white, -1px 0 3px white, 0 -1px 3px white;
+}
+
+.tooltip-background {
+    fill: #ededed;
+    opacity: 0.9;
+}
+
+.tooltip-player {
+    font-family: fantasy;
+    font-size: 20px;
+    color: brown;
+}
+
+.tooltip-act-scene {
+    font-family: fantasy;
+    font-size: 12px;
+}
+
+.tooltip-topic {
+    font-family: fantasy;
+    font-size: 13px;
+}
+
+.tooltip-sentence {
+    font-family: fantasy;
+    font-size: 11px;
 }
 
 

@@ -292,6 +292,16 @@ menu a:hover {
 /*--------------------------------------------------------------
 # Topics
 --------------------------------------------------------------*/
+/*--dropdown button--*/
+#play_selection{
+	width: 220px;
+	height: 30px;
+	left: 20px;
+	position: relative;
+	z-index: 10;
+	background-color:brown;
+	top: 0;
+}
 
 .beeswarm-xAxis line{
     stroke: none;

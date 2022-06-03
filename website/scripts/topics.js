@@ -54,15 +54,45 @@ d3.csv('../data/topics_per_player_per_act.csv').then((data) => {
 
     function playBeeswarmPlot(playName) {
 
-        d3.select("svg").remove();
+        d3.select(".chart-container").remove();
+        d3.select(".legend-container").remove();
 
-        var svg = d3.select('#beeswarmchart')
+        var legendSvg = d3.select('#beeswarmchart')
             .append("svg")
+            .attr("class", "legend-container")
             .attr("width", width)
-            .attr("height", height)
-            .append("g").attr("class", "top-container");
+            .attr("height", 100)
+            .append('g')
 
-        topicLegend = svg.selectAll('g')
+        legendSvg.selectAll('text')
+            .data(topicColors)
+            .enter()
+            .append('text')
+            .attr('x', (d, i) => i*100 + margin.left)
+            .attr('y', 15)
+            .text(d => d.topic)
+
+        legendSvg.selectAll('circle')
+            .data(topicColors)
+            .enter()
+            .append('circle')
+            .attr("cx", (d, i) => i*100 + 15 + margin.left)
+            .attr("cy", 40)
+            .attr('r', 20)
+            .attr('fill', (d) => d.color)
+            .style('opacity', 0.80)
+
+        legendSvg.selectAll('circle')
+            .data(topicColors)
+            .enter()
+            .append('circle')
+            .attr("cx", (d, i) => i*100 + 15 + margin.left)
+            .attr("cy", 40)
+            .attr('r', 20)
+            .attr('fill', 'none')
+            .attr('stroke', (d) => d.color)
+        
+        /*topicLegend = legendSvg.selectAll('g')
             .data(topicColors).enter()
             .select('g')
                 // translate each group to the right based on its index
@@ -73,7 +103,14 @@ d3.csv('../data/topics_per_player_per_act.csv').then((data) => {
                  .attr('r', 20)
                  .attr('cx', 10)
                  .attr('cy', 40)
-                 .attr('fill', (d) => d.color)
+                 .attr('fill', (d) => d.color)*/
+
+        var svg = d3.select('#beeswarmchart')
+            .append("svg")
+            .attr("class", "chart-container")
+            .attr("width", width)
+            .attr("height", height)
+            .append("g")
 
         let xDomain = data.filter(function(d){ return d.Play == playName}).map(d => d.Act_Scene);
         const xScale = d3.scalePoint()
@@ -231,3 +268,4 @@ d3.csv('../data/topics_per_player_per_act.csv').then((data) => {
 
     
 }); //end d3.csv
+

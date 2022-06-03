@@ -7,7 +7,7 @@
 | Rescala | 337736 |
 
 <p align="center">
-     <a href="https://com-480-data-visualization.github.io/data-visualization-project-2022-shakespearits/website/index.html">Go to website</a>
+     <a href="https://com-480-data-visualization.github.io/data-visualization-project-2022-shakespearits/website/index.html"> :performing_arts: Go to website :performing_arts:</a>
 </p>
 
 [Milestone 1](#pencil2-milestone-1-8th-april-5pm) • [Milestone 2](#performing_arts-milestone-2-6th-may-5pm) • [Milestone 3](#clap-milestone-3-3rd-june-5pm)

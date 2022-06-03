@@ -331,6 +331,11 @@ menu a:hover {
     font-weight: bold;
 }
 
+#beeswarmchart{
+	width: 900px;
+	height: auto;
+}
+
 
 /*--------------------------------------------------------------
 # quiz
